@@ -7,7 +7,7 @@ $(window).on('resize',function(){
 });
 
 
-// Smooth scroll <a> links 
+// Smooth scroll <a> links
 var $root = $('html, body');
 $('a.s-scroll').on('click',function() {
     var href = $.attr(this, 'href');
@@ -30,7 +30,7 @@ $(window).load(function(){
 var dateReadableText = 'Upcoming date';
     if($('.site-config').attr('data-date-readable') && ($('.site-config').attr('data-date-readable') != '')){
         $('.timeout-day').text('');
-        dateReadableText = $('.site-config').attr('data-date-readable');        
+        dateReadableText = $('.site-config').attr('data-date-readable');
         $('.timeout-day').text(dateReadableText);
     }
 $('.clock-countdown').downCount({
@@ -42,7 +42,7 @@ $('.clock-countdown').downCount({
     var zerodayText = 'An upcoming date';
     if($('.site-config').attr('data-zeroday-text') && ($('.site-config').attr('data-zeroday-text') != '')){
         $('.timeout-day').text('');
-        zerodayText = $('.site-config').attr('data-zeroday-text'); 
+        zerodayText = $('.site-config').attr('data-zeroday-text');
     }
     $('.timeout-day').text(zerodayText);
 });
@@ -109,22 +109,23 @@ $(document).ready(function() {
             console[method] = noop;
         }
     }
-	
+
 	/* Init Slidesow background */
 	 $('.slide-show').vegas({
-        delay: 5000,
+        //delay: 5000,
+        delay: 20000,
         shuffle: true,
         slides: imageSlides,
     	//transition: [ 'zoomOut', 'burn' ],
 		animation: [ 'kenburnsUp', 'kenburnsDown', 'kenburnsLeft', 'kenburnsRight' ]
     });
-	
+
 	/* Init video background */
 	$('.video-container video, .video-container object').maximage('maxcover');
-	
+
 	/* Init youtube video background */
 	if(backgroundVideoUrl != 'none'){
-        
+
         //disable video background for smallscreen
         if($(window).width() > 640){
           $.okvideo({ source: backgroundVideoUrl,
@@ -132,7 +133,7 @@ $(document).ready(function() {
                     });
         }
     }
-	
+
 	/** Init fullpage.js */
     $('#mainpage').fullpage({
 		menu: '#qmenu',
@@ -157,7 +158,7 @@ $(document).ready(function() {
 				slideElem.removeClass('transition');
 			}
 		},
-		
+
         afterRender: function(){}
     });
 });
@@ -166,7 +167,7 @@ $(document).ready(function() {
 
 // Email validation text, uncomment below to use them
 /*
-// Email registration 
+// Email registration
 var email_reg_elem = document.getElementById("reg-email");
 email_reg_elem.oninvalid = function(e) {
 	e.target.setCustomValidity("");
