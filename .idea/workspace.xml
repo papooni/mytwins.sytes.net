@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ec9a6a3-1571-4700-9675-66325c70bee0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index_music.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/apple-touch-icon-precomposed2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/tile2.png" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,11 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dataBrockerConfig.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dataBrockerConfig.php" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerConfig.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2790">
-              <caret line="3059" column="24" lean-forward="true" selection-start-line="3059" selection-start-column="24" selection-end-line="3059" selection-end-column="24" />
+            <state relative-caret-position="733">
+              <caret line="648" column="11" lean-forward="true" selection-start-line="648" selection-start-column="11" selection-end-line="648" selection-end-column="11" />
               <folding>
                 <element signature="n#__construct#0;n#dataBrockerConfig#0;n#!!top" expanded="false" />
                 <element signature="e#683#821#0#PHP" expanded="false" />
@@ -442,6 +439,42 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index_music - Cópia.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index_music - Cópia.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="37" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+              <folding>
+                <marker date="1491830289123" expanded="true" signature="196:349" ph="..." />
+                <marker date="1491830289123" expanded="true" signature="289:317" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="187" column="0" lean-forward="true" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="563">
+              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <folding>
+                <marker date="1491831534443" expanded="true" signature="196:349" ph="..." />
+                <marker date="1491831534443" expanded="true" signature="289:317" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -485,6 +518,8 @@
         <option value="$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/ImportProduct.php" />
         <option value="$PROJECT_DIR$/index_music.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index_music - Cópia.html" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -601,12 +636,12 @@
       <workItem from="1491400144846" duration="5065000" />
       <workItem from="1491466050291" duration="4778000" />
       <workItem from="1491475369503" duration="40016000" />
-      <workItem from="1491811953503" duration="11719000" />
+      <workItem from="1491811953503" duration="12964000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61578000" />
+    <option name="totallyTimeSpent" value="62823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1025,18 +1060,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="187" column="0" lean-forward="true" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerConfig.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2790">
-          <caret line="3059" column="24" lean-forward="true" selection-start-line="3059" selection-start-column="24" selection-end-line="3059" selection-end-column="24" />
+        <state relative-caret-position="733">
+          <caret line="648" column="11" lean-forward="true" selection-start-line="648" selection-start-column="11" selection-end-line="648" selection-end-column="11" />
           <folding>
             <element signature="n#__construct#0;n#dataBrockerConfig#0;n#!!top" expanded="false" />
             <element signature="e#683#821#0#PHP" expanded="false" />
@@ -1448,6 +1475,36 @@
             <marker date="1491303403720" expanded="false" signature="105976:106258" ph="SELECT ser.i... brk_servers" />
             <marker date="1491303403720" expanded="false" signature="107070:107352" ph="SELECT ser.i... brk_servers" />
             <marker date="1491303403720" expanded="false" signature="109829:110752" ph="SELECT iv.va... internal_validations" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="187" column="0" lean-forward="true" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index_music - Cópia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <marker date="1491830289123" expanded="true" signature="196:349" ph="..." />
+            <marker date="1491830289123" expanded="true" signature="289:317" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding>
+            <marker date="1491831534443" expanded="true" signature="196:349" ph="..." />
+            <marker date="1491831534443" expanded="true" signature="289:317" ph="..." />
           </folding>
         </state>
       </provider>
