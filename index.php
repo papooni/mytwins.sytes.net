@@ -36,7 +36,7 @@
 <script src="./js/jquery.maximage.js"></script>
 <script src="./js/okvideo.min.js"></script>-->
 <?php
-    $dir    = '/home/forge/mytwins.sytes.net/music/';
+    $dir    = 'music/';
     $ficheiros = scandir($dir);
     $scanned_directory = array_diff(scandir($directory), array('..', '.'));
 
@@ -46,9 +46,11 @@
 <script src="./js/form_script.js"></script>
 
 <script type="text/javascript">
+      var elements = new Array();
+      <?php foreach ($scanned_directory as $key => $ficheiro) { ?>
+          elements.push(' <?php echo $ficheiro; ?> ');
+      <?php } ?>
   function nextAudioNode() {
-        var elements = new Array();
-elements.push('TESTE');
         alert(elements);
         var element = document.getElementById('musica');
         element.src = "music/shape_of_you.mp3";
