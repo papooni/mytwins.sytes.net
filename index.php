@@ -44,8 +44,9 @@ if(!empty($scanned_directory)) {
     function nextAudioNode() {
         var element = document.getElementById('musica');
         /*element.src = "music/shape_of_you.mp3";*/
-        element.src = "music/" + elements.indexOf(1);
+        element.src = "music/" + elements.first();
         element.play();
+        Console.write(elements);
     }
 </script>
 
