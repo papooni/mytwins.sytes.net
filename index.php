@@ -39,7 +39,7 @@
     $dir    = "/home/forge/mytwins.sytes.net/music/";
     echo $dir;
     $ficheiros = scandir($dir);
-    $scanned_directory = array_diff(scandir($directory), array('..', '.'));
+    $scanned_directory = array_diff(scandir($dir), array('..', '.'));
 
 ?>
 
