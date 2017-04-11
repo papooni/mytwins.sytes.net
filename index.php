@@ -43,6 +43,7 @@ $scanned_directory = array_diff(scandir($dir), array('..', '.')); ?>
 </script>
 <?
 //   }
+echo 'testes';
 ?>
 
 </body>
