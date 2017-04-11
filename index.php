@@ -12,7 +12,7 @@
     your browser</a> to improve your experience.</p>
 <![endif]-->
 
-<audio id="musica" controls autoplay onended="nextAudioNode()">
+<audio id="musica" controls autoplay onended="nextAudioNode()" >
     <source src="music/desce.mp3"/>
 </audio>
 
@@ -30,9 +30,12 @@ $scanned_directory = array_diff(scandir($dir), array('..', '.')); ?>
 <script type="text/javascript">
     var elements = new Array();
     <?php
-        foreach ($scanned_directory as $key => $ficheiro) { ?>
-            elements.push(" <?php echo $ficheiro; ?> ");
-    <?php } ?>
+        foreach ($scanned_directory as $key => $ficheiro) {
+            $file_parts = pathinfo($ficheiro);
+            if($file_parts['extension'] == 'mp3'){ ?>
+                elements.push(" <?php echo $ficheiro; ?> ");
+           <? }
+        } ?>
 
     function nextAudioNode() {
         alert(elements);
