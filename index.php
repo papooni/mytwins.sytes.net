@@ -32,7 +32,8 @@ $scanned_directory = array_diff(scandir($dir), array('..', '.')); ?>
     <?php
         foreach ($scanned_directory as $key => $ficheiro) {
             $file_parts = pathinfo($ficheiro);
-            if($file_parts['extension'] == 'mp3'){ ?>
+            print_r($file_parts);
+            if($file_parts['extension'] == 'mp3') { ?>
                 elements.push(" <?php echo $ficheiro; ?> ");
            <? }
         } ?>
@@ -46,7 +47,6 @@ $scanned_directory = array_diff(scandir($dir), array('..', '.')); ?>
 </script>
 <?
 //   }
-echo 'testes';
 ?>
 
 </body>
