@@ -13,7 +13,7 @@
 <![endif]-->
 
 <audio id="musica" controls autoplay onended="nextAudioNode()" >
-   <source src="music/desce.mp3"/>
+   <source src="music/heart.mp3"/>
 </audio>
 
 <script src="./js/vendor/jquery-1.11.2.min.js"></script>
@@ -24,12 +24,14 @@
 <?php
 $dir = "/home/forge/mytwins.sytes.net/music/";
 $musicas = array();
+count = 0;
 $scanned_directory = array_diff(scandir($dir), array('..', '.'));
 if(!empty($scanned_directory)) {
     foreach ($scanned_directory as $key => $ficheiro) {
         $file_parts = pathinfo($ficheiro);
         if ($file_parts['extension'] == 'mp3') {
             array_push($musicas,$ficheiro);
+            count = count + 1;
         }
     }
 }
@@ -40,9 +42,10 @@ if(!empty($scanned_directory)) {
     <?php foreach ($musicas as $key => $musica){ ?>
     elements.push("<?php echo $musica; ?>") ;
     <?php } ?>
-    var i = 0;
+    var i;
     function nextAudioNode() {
         var element = document.getElementById('musica');
+        i = Math.floor((Math.random() * <?php echo count; ?>) + 1);
         element.src = "music/" + elements[i];
         element.play();
     }
