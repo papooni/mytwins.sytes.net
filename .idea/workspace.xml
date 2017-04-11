@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ec9a6a3-1571-4700-9675-66325c70bee0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -136,11 +135,11 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="699">
-              <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+            <state relative-caret-position="631">
+              <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
               <folding>
-                <marker date="1491920832866" expanded="true" signature="196:349" ph="..." />
-                <marker date="1491920832866" expanded="true" signature="289:317" ph="..." />
+                <marker date="1491921087388" expanded="true" signature="196:349" ph="..." />
+                <marker date="1491921087388" expanded="true" signature="289:317" ph="..." />
               </folding>
             </state>
           </provider>
@@ -360,7 +359,7 @@
       <workItem from="1491400144846" duration="5065000" />
       <workItem from="1491466050291" duration="4778000" />
       <workItem from="1491475369503" duration="40016000" />
-      <workItem from="1491811953503" duration="38838000" />
+      <workItem from="1491811953503" duration="39092000" />
     </task>
     <task id="LOCAL-00001" summary="zz 2">
       <created>1491917197849</created>
@@ -394,7 +393,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88697000" />
+    <option name="totallyTimeSpent" value="88951000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1490,11 +1489,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="699">
-          <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        <state relative-caret-position="631">
+          <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
           <folding>
-            <marker date="1491920832866" expanded="true" signature="196:349" ph="..." />
-            <marker date="1491920832866" expanded="true" signature="289:317" ph="..." />
+            <marker date="1491921087388" expanded="true" signature="196:349" ph="..." />
+            <marker date="1491921087388" expanded="true" signature="289:317" ph="..." />
           </folding>
         </state>
       </provider>
