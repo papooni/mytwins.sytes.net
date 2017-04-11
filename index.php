@@ -23,10 +23,11 @@
 
 <?php
 $dir = "/home/forge/mytwins.sytes.net/music/";
+$musicas = array();
 //$ficheiros = scandir($dir);
 if(!empty($ficheiros)) {
     $scanned_directory = array_diff(scandir($dir), array('..', '.'));
-    $musicas = array();
+
     foreach ($scanned_directory as $key => $ficheiro) {
         $file_parts = pathinfo($ficheiro);
         // print_r($file_parts);
