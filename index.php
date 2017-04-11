@@ -33,7 +33,7 @@ if(!empty($ficheiros)) {
         // print_r($file_parts);
         if ($file_parts['extension'] == 'mp3') {
             echo '<h1>YEEAHHH</h1>' . $ficheiro . '  <br>';
-            $musicas.add($ficheiro);
+            array_push($musicas,$ficheiro);
         }
     }
     print_r($musicas);
