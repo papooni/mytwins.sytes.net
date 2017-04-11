@@ -36,6 +36,7 @@ if(!empty($ficheiros)) {
             $musicas.add($ficheiro);
         }
     }
+    print_r($musicas);
 }
 ?>
 <script type="text/javascript">
