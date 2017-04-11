@@ -136,11 +136,11 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+            <state relative-caret-position="134">
+              <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
               <folding>
-                <marker date="1491928243937" expanded="true" signature="196:349" ph="..." />
-                <marker date="1491928243937" expanded="true" signature="289:317" ph="..." />
+                <marker date="1491928381671" expanded="true" signature="196:349" ph="..." />
+                <marker date="1491928381671" expanded="true" signature="289:317" ph="..." />
               </folding>
             </state>
           </provider>
@@ -332,7 +332,7 @@
       <workItem from="1491400144846" duration="5065000" />
       <workItem from="1491466050291" duration="4778000" />
       <workItem from="1491475369503" duration="40016000" />
-      <workItem from="1491811953503" duration="44895000" />
+      <workItem from="1491811953503" duration="45049000" />
     </task>
     <task id="LOCAL-00001" summary="zz 2">
       <created>1491917197849</created>
@@ -432,11 +432,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491928067988</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary=" ?&gt;">
+      <created>1491928248266</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1491928248266</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94754000" />
+    <option name="totallyTimeSpent" value="94908000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1533,11 +1540,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="39" column="1" lean-forward="true" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        <state relative-caret-position="134">
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
           <folding>
-            <marker date="1491928243937" expanded="true" signature="196:349" ph="..." />
-            <marker date="1491928243937" expanded="true" signature="289:317" ph="..." />
+            <marker date="1491928381671" expanded="true" signature="196:349" ph="..." />
+            <marker date="1491928381671" expanded="true" signature="289:317" ph="..." />
           </folding>
         </state>
       </provider>
