@@ -24,7 +24,7 @@
 <?php
 $dir = "/home/forge/mytwins.sytes.net/music/";
 $musicas = array();
-count = 0;
+var count = 0;
 $scanned_directory = array_diff(scandir($dir), array('..', '.'));
 if(!empty($scanned_directory)) {
     foreach ($scanned_directory as $key => $ficheiro) {
