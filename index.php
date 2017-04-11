@@ -29,7 +29,7 @@ if(!empty($scanned_directory)) {
     foreach ($scanned_directory as $key => $ficheiro) {
         $file_parts = pathinfo($ficheiro);
         if ($file_parts['extension'] == 'mp3') {
-            array_push($musicas,trim($ficheiro , " "));
+            array_push($musicas,$ficheiro);
         }
     }
 }
@@ -38,7 +38,7 @@ if(!empty($scanned_directory)) {
 <script type="text/javascript">
     var elements = new Array();
     <?php foreach ($musicas as $key => $musica){ ?>
-    elements.push(" <?php echo $musica; ?>") ;
+    elements.push("<?php echo $musica; ?>") ;
     <?php } ?>
     var i = 0;
     function nextAudioNode() {
