@@ -13,7 +13,7 @@
 <![endif]-->
 
 <audio id="musica" controls autoplay onended="nextAudioNode()" >
-    <source src="music/desce.mp3"/>
+   <source src="music/desce.mp3"/>
 </audio>
 
 <script src="./js/vendor/jquery-1.11.2.min.js"></script>
@@ -24,33 +24,29 @@
 <?php
 $dir = "/home/forge/mytwins.sytes.net/music/";
 $musicas = array();
-$ficheiros = scandir($dir);
-if(!empty($ficheiros)) {
-    $scanned_directory = array_diff(scandir($dir), array('..', '.'));
-
+$scanned_directory = array_diff(scandir($dir), array('..', '.'));
+if(!empty($scanned_directory)) {
     foreach ($scanned_directory as $key => $ficheiro) {
         $file_parts = pathinfo($ficheiro);
-        // print_r($file_parts);
         if ($file_parts['extension'] == 'mp3') {
-            echo '<h1>YEEAHHH</h1>' . $ficheiro . '  <br>';
             array_push($musicas,$ficheiro);
         }
     }
-    print_r($musicas);
 }
+
 ?>
 <script type="text/javascript">
     var elements = new Array();
-
-    function nextAudioNode() {
-        <?php foreach ($musicas as $key => $musica){ ?>
-            elements.push(" <?php echo $musica; ?>") ;
+    <?php foreach ($musicas as $key => $musica){ ?>
+    elements.push(" <?php echo $musica; ?>") ;
     <?php } ?>
-        alert(elements);
+    var i = 0;
+    function nextAudioNode() {
         var element = document.getElementById('musica');
-        element.src = "music/shape_of_you.mp3";
+        /*element.src = "music/shape_of_you.mp3";*/
+        element.src = "music/" + elements.indexOf();
         element.play();
-        }
+    }
 </script>
 
 
