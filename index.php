@@ -42,7 +42,7 @@
 <?php
     $dir    = "/home/forge/mytwins.sytes.net/music/";
     $ficheiros = scandir($dir);
-    if(!empty($ficheiros)){
+    //if(!empty($ficheiros)){
       $scanned_directory = array_diff(scandir($dir), array('..', '.')); ?>
       <script type="text/javascript">
             var elements = new Array();
@@ -59,7 +59,7 @@
           }
       </script>
 <?
-    }
+ //   }
 ?>
 
 </body>
