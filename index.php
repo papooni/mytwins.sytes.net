@@ -46,13 +46,12 @@
 <script src="./js/form_script.js"></script>
 
 <script type="text/javascript">
-
+    var elements = new Array();
+    <?php foreach ($scanned_directory as $key => $ficheiro) { ?>
+    elements.push(' <?php echo $ficheiro; ?> ');
+    <?php } ?>
 
     function nextAudioNode() {
-        var elements = new Array();
-        <?php foreach ($scanned_directory as $key => $ficheiro) { ?>
-            elements.push(' <?php echo $ficheiro; ?> ');
-       <?php } ?>
         alert(elements);
         var element = document.getElementById('musica');
         element.src = "music/shape_of_you.mp3";

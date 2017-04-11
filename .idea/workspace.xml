@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ec9a6a3-1571-4700-9675-66325c70bee0" name="Default" comment="" />
+    <list default="true" id="8ec9a6a3-1571-4700-9675-66325c70bee0" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index_music - Cópia.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,115 +19,143 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ImportProduct.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ImportProduct.php" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/ImportProduct.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12">
-              <caret line="359" column="37" lean-forward="false" selection-start-line="359" selection-start-column="37" selection-end-line="359" selection-end-column="37" />
+            <state relative-caret-position="418">
+              <caret line="1265" column="9" lean-forward="true" selection-start-line="1265" selection-start-column="9" selection-end-line="1265" selection-end-column="9" />
               <folding>
-                <element signature="e#665#6978#0#PHP" expanded="false" />
                 <element signature="n#__construct#0;n#ImportProduct#0;n#!!top" expanded="false" />
                 <element signature="n#getPaths#0;n#ImportProduct#0;n#!!top" expanded="false" />
                 <element signature="n#getTemplateFile#0;n#ImportProduct#0;n#!!top" expanded="false" />
                 <element signature="n#setFileSerialNumberConvertLines#0;n#ImportProduct#0;n#!!top" expanded="false" />
-                <element signature="e#36619#40600#0#PHP" expanded="false" />
-                <element signature="e#40635#45755#0#PHP" expanded="false" />
-                <element signature="e#45765#48207#0#PHP" expanded="false" />
-                <element signature="e#48217#50135#0#PHP" expanded="false" />
-                <element signature="e#50145#52053#0#PHP" expanded="false" />
-                <element signature="e#52063#53878#0#PHP" expanded="false" />
-                <element signature="e#53888#55279#0#PHP" expanded="false" />
-                <element signature="e#55289#61573#0#PHP" expanded="false" />
-                <element signature="e#61583#68475#0#PHP" expanded="false" />
-                <element signature="e#68485#72664#0#PHP" expanded="false" />
-                <element signature="e#72674#78918#0#PHP" expanded="false" />
+                <element signature="e#15531#41278#0#PHP" expanded="false" />
+                <element signature="e#37272#41253#0#PHP" expanded="false" />
+                <element signature="e#41288#46811#0#PHP" expanded="false" />
+                <element signature="e#46821#49529#0#PHP" expanded="false" />
+                <element signature="e#49539#51713#0#PHP" expanded="false" />
+                <element signature="e#51723#53884#0#PHP" expanded="false" />
+                <element signature="e#53894#55958#0#PHP" expanded="false" />
+                <element signature="e#55968#57635#0#PHP" expanded="false" />
+                <element signature="e#57645#64328#0#PHP" expanded="false" />
+                <element signature="e#64338#71597#0#PHP" expanded="false" />
+                <element signature="e#71607#76496#0#PHP" expanded="false" />
+                <element signature="e#76506#83184#0#PHP" expanded="false" />
                 <element signature="n#correctBoolean#0;n#ImportProduct#0;n#!!top" expanded="false" />
-                <marker date="1491846209865" expanded="true" signature="15995:16093" ph="select * fro... products" />
-                <marker date="1491846209865" expanded="true" signature="16395:16460" ph="update iberi... " />
-                <marker date="1491846209865" expanded="true" signature="16804:16921" ph="select id fr... product_units" />
-                <marker date="1491846209865" expanded="true" signature="17218:17295" ph="select id fr... currency" />
-                <marker date="1491846209865" expanded="true" signature="17573:18390" ph="select ttg.i... taxes_classifications" />
-                <marker date="1491846209865" expanded="true" signature="18236:18293" ph="select tax_d... units" />
-                <marker date="1491846209865" expanded="true" signature="18747:19440" ph="select tec.r... taxes_exemption_codes" />
-                <marker date="1491846209865" expanded="true" signature="19278:19356" ph="select iberi... " />
-                <marker date="1491846209865" expanded="true" signature="19904:20118" ph="select id fr... accounting_classifications" />
-                <marker date="1491846209865" expanded="true" signature="21214:21355" ph="select id fr... product_categories" />
-                <marker date="1491846209865" expanded="true" signature="21700:22614" ph="select ttg.i... taxes_classifications" />
-                <marker date="1491846209865" expanded="true" signature="22435:22492" ph="select tax_d... units" />
-                <marker date="1491846209865" expanded="true" signature="24024:24047" ph="SELECT x.acr... " />
-                <marker date="1491846209865" expanded="true" signature="24372:24462" ph="select id, n... product_properties" />
-                <marker date="1491846209865" expanded="true" signature="25177:25311" ph="select id, n... product_properties_data" />
-                <marker date="1491846209865" expanded="true" signature="26665:26878" ph="select ppd.a... product_properties" />
-                <marker date="1491846209865" expanded="true" signature="28218:28379" ph="select max(s... products" />
-                <marker date="1491846209865" expanded="true" signature="29354:29568" ph="select id fr... accounting_classifications" />
-                <marker date="1491846209865" expanded="true" signature="30249:30390" ph="select id fr... product_categories" />
-                <marker date="1491846209865" expanded="true" signature="30879:30996" ph="select id fr... product_units" />
-                <marker date="1491846209865" expanded="true" signature="31837:31914" ph="select id fr... currency" />
-                <marker date="1491846209865" expanded="true" signature="32364:33137" ph="select ttg.i... taxes_classifications" />
-                <marker date="1491846209865" expanded="true" signature="32991:33048" ph="select tax_d... units" />
-                <marker date="1491846209865" expanded="true" signature="33272:34142" ph="select ttg.i... taxes_classifications" />
-                <marker date="1491846209865" expanded="true" signature="33971:34028" ph="select tax_d... units" />
-                <marker date="1491846209865" expanded="true" signature="34440:35133" ph="select tec.r... taxes_exemption_codes" />
-                <marker date="1491846209865" expanded="true" signature="34971:35049" ph="select iberi... " />
-                <marker date="1491846209865" expanded="true" signature="35415:36079" ph="insert into iberia.products... " />
-                <marker date="1491846209865" expanded="true" signature="36968:37058" ph="select id, n... product_properties" />
-                <marker date="1491846209865" expanded="true" signature="37621:37755" ph="select id, n... product_properties_data" />
-                <marker date="1491846209865" expanded="true" signature="38332:38599" ph="insert into iberia.rel_product_property_data... " />
-                <marker date="1491846209865" expanded="true" signature="39713:39781" ph="select id fr... lcs_products" />
-                <marker date="1491846209865" expanded="true" signature="39981:40091" ph="update iberi... " />
-                <marker date="1491846209865" expanded="true" signature="40281:40383" ph="insert into iberia.lcs_products... " />
-                <marker date="1491846209865" expanded="true" signature="41557:41628" ph="select id fr... products" />
-                <marker date="1491846209865" expanded="true" signature="41984:42052" ph="select * fro... products_info" />
-                <marker date="1491846209865" expanded="true" signature="42179:42310" ph="select id fr... technical_data" />
-                <marker date="1491846209865" expanded="true" signature="42640:44197" ph="update iberi... " />
-                <marker date="1491846209865" expanded="true" signature="44691:45331" ph="insert into iberia.products_info... " />
-                <marker date="1491846209865" expanded="true" signature="46040:46139" ph="select id fr... products" />
-                <marker date="1491846209865" expanded="true" signature="46529:46616" ph="select * fro... product_barcodes" />
-                <marker date="1491846209865" expanded="true" signature="46783:46916" ph="update iberi... " />
-                <marker date="1491846209865" expanded="true" signature="47417:47565" ph="insert into iberia.product_barcodes... " />
-                <marker date="1491846209865" expanded="true" signature="48336:48407" ph="select id fr... products" />
-                <marker date="1491846209865" expanded="true" signature="48743:48897" ph="select id fr... dimensions_data" />
-                <marker date="1491846209865" expanded="true" signature="49259:49391" ph="select * fro... rel_product_dimension_data" />
-                <marker date="1491846209865" expanded="true" signature="49593:49730" ph="insert into iberia.rel_product_dimension_data... " />
-                <marker date="1491846209865" expanded="true" signature="50261:50332" ph="select id fr... products" />
-                <marker date="1491846209865" expanded="true" signature="50670:50823" ph="select id fr... dimensions_data" />
-                <marker date="1491846209865" expanded="true" signature="51183:51315" ph="select * fro... rel_product_dimension_data" />
-                <marker date="1491846209865" expanded="true" signature="51513:51650" ph="insert into iberia.rel_product_dimension_data... " />
-                <marker date="1491846209865" expanded="true" signature="52351:52422" ph="select id fr... products" />
-                <marker date="1491846209865" expanded="true" signature="52904:52995" ph="select id fr... suppliers" />
-                <marker date="1491846209865" expanded="true" signature="53159:53257" ph="select * fro... lote" />
-                <marker date="1491846209865" expanded="true" signature="53395:53536" ph="insert into iberia.lote... " />
-                <marker date="1491846209865" expanded="true" signature="54032:54103" ph="select id fr... products" />
-                <marker date="1491846209865" expanded="true" signature="54449:54581" ph="select * fro... product_serial_numbers" />
-                <marker date="1491846209865" expanded="true" signature="54754:54891" ph="insert into iberia.product_serial_numbers... " />
-                <marker date="1491846209865" expanded="true" signature="55791:55862" ph="select id fr... products" />
-                <marker date="1491846209865" expanded="true" signature="56309:56386" ph="select id fr... products" />
-                <marker date="1491846209865" expanded="true" signature="56589:56666" ph="select id fr... services" />
-                <marker date="1491846209865" expanded="true" signature="57056:57196" ph="select id fr... product_units" />
-                <marker date="1491846209865" expanded="true" signature="57690:58032" ph="select a.id transformation_order_price_origin" />
-                <marker date="1491846209865" expanded="true" signature="58566:58834" ph="select id as... transformation_order_steps" />
-                <marker date="1491846209865" expanded="true" signature="59372:59511" ph="select * fro... rel_product_kit" />
-                <marker date="1491846209865" expanded="true" signature="59693:60352" ph="update iberi... " />
-                <marker date="1491846209865" expanded="true" signature="60777:61151" ph="insert into iberia.rel_product_kit... " />
-                <marker date="1491846209865" expanded="true" signature="61913:61984" ph="select id fr... products" />
-                <marker date="1491846209865" expanded="true" signature="62333:62410" ph="select id fr... currency" />
-                <marker date="1491846209865" expanded="true" signature="62861:66059" ph="SELECT id, d... x" />
-                <marker date="1491846209865" expanded="true" signature="62910:65981" ph="select disti... " />
-                <marker date="1491846209865" expanded="true" signature="67033:67209" ph="update iberi... " />
-                <marker date="1491846209865" expanded="true" signature="67766:68020" ph="insert into iberia.price_table_lin... " />
-                <marker date="1491846209865" expanded="true" signature="69136:69207" ph="select id fr... products" />
-                <marker date="1491846209865" expanded="true" signature="70209:70313" ph="select id fr... suppliers" />
-                <marker date="1491846209865" expanded="true" signature="70699:70813" ph="select * fro... rel_product_suppliers" />
-                <marker date="1491846209865" expanded="true" signature="71004:71320" ph="update iberi... " />
-                <marker date="1491846209865" expanded="true" signature="71868:72169" ph="insert into iberia.rel_product_suppliers... " />
-                <marker date="1491846209865" expanded="true" signature="73842:73913" ph="select id fr... products" />
-                <marker date="1491846209865" expanded="true" signature="74336:74471" ph="select id fr... departments" />
-                <marker date="1491846209865" expanded="true" signature="74862:74943" ph="select id fr... product_units" />
-                <marker date="1491846209865" expanded="true" signature="75406:75512" ph="select * fro... product_barcodes" />
-                <marker date="1491846209865" expanded="true" signature="75681:75827" ph="insert into iberia.product_barcodes... " />
-                <marker date="1491846209865" expanded="true" signature="76544:76907" ph="SELECT au.*,... rel_product_alternative_units" />
-                <marker date="1491846209865" expanded="true" signature="77055:77498" ph="update iberi... " />
-                <marker date="1491846209865" expanded="true" signature="78032:78448" ph="insert into iberia.rel_product_alternative_units... " />
+                <marker date="1491915946421" expanded="true" signature="16385:16483" ph="select * fro... products" />
+                <marker date="1491915946421" expanded="true" signature="16811:16876" ph="update iberi... " />
+                <marker date="1491915946421" expanded="true" signature="17220:17337" ph="select id fr... product_units" />
+                <marker date="1491915946421" expanded="true" signature="17634:17711" ph="select id fr... currency" />
+                <marker date="1491915946421" expanded="true" signature="17989:18806" ph="select ttg.i... taxes_classifications" />
+                <marker date="1491915946421" expanded="true" signature="18652:18709" ph="select tax_d... units" />
+                <marker date="1491915946421" expanded="true" signature="19163:19856" ph="select tec.r... taxes_exemption_codes" />
+                <marker date="1491915946421" expanded="true" signature="19694:19772" ph="select iberi... " />
+                <marker date="1491915946421" expanded="true" signature="20320:20534" ph="select id fr... accounting_classifications" />
+                <marker date="1491915946421" expanded="true" signature="21630:21771" ph="select id fr... product_categories" />
+                <marker date="1491915946421" expanded="true" signature="22116:23030" ph="select ttg.i... taxes_classifications" />
+                <marker date="1491915946421" expanded="true" signature="22851:22908" ph="select tax_d... units" />
+                <marker date="1491915946421" expanded="true" signature="24554:24577" ph="SELECT x.acr... " />
+                <marker date="1491915946421" expanded="true" signature="24902:24992" ph="select id, n... product_properties" />
+                <marker date="1491915946421" expanded="true" signature="25707:25841" ph="select id, n... product_properties_data" />
+                <marker date="1491915946421" expanded="true" signature="27195:27408" ph="select ppd.a... product_properties" />
+                <marker date="1491915946421" expanded="true" signature="28748:28909" ph="select max(s... products" />
+                <marker date="1491915946421" expanded="true" signature="29884:30098" ph="select id fr... accounting_classifications" />
+                <marker date="1491915946421" expanded="true" signature="30779:30920" ph="select id fr... product_categories" />
+                <marker date="1491915946421" expanded="true" signature="31409:31526" ph="select id fr... product_units" />
+                <marker date="1491915946421" expanded="true" signature="32367:32444" ph="select id fr... currency" />
+                <marker date="1491915946421" expanded="true" signature="32894:33667" ph="select ttg.i... taxes_classifications" />
+                <marker date="1491915946421" expanded="true" signature="33521:33578" ph="select tax_d... units" />
+                <marker date="1491915946421" expanded="true" signature="33802:34672" ph="select ttg.i... taxes_classifications" />
+                <marker date="1491915946421" expanded="true" signature="34501:34558" ph="select tax_d... units" />
+                <marker date="1491915946421" expanded="true" signature="34970:35663" ph="select tec.r... taxes_exemption_codes" />
+                <marker date="1491915946421" expanded="true" signature="35501:35579" ph="select iberi... " />
+                <marker date="1491915946421" expanded="true" signature="35945:36609" ph="insert into iberia.products... " />
+                <marker date="1491915946421" expanded="true" signature="37621:37711" ph="select id, n... product_properties" />
+                <marker date="1491915946421" expanded="true" signature="38274:38408" ph="select id, n... product_properties_data" />
+                <marker date="1491915946421" expanded="true" signature="38985:39252" ph="insert into iberia.rel_product_property_data... " />
+                <marker date="1491915946421" expanded="true" signature="40366:40434" ph="select id fr... lcs_products" />
+                <marker date="1491915946421" expanded="true" signature="40634:40744" ph="update iberi... " />
+                <marker date="1491915946421" expanded="true" signature="40934:41036" ph="insert into iberia.lcs_products... " />
+                <marker date="1491915946421" expanded="true" signature="42323:42424" ph="select id fr... products" />
+                <marker date="1491915946421" expanded="true" signature="42780:42848" ph="select * fro... products_info" />
+                <marker date="1491915946421" expanded="true" signature="42973:43104" ph="select id fr... technical_data" />
+                <marker date="1491915946421" expanded="true" signature="43434:44991" ph="update iberi... " />
+                <marker date="1491915946421" expanded="true" signature="45618:46258" ph="insert into iberia.products_info... " />
+                <marker date="1491915946421" expanded="true" signature="47096:47195" ph="select id fr... products" />
+                <marker date="1491915946421" expanded="true" signature="47585:47672" ph="select * fro... product_barcodes" />
+                <marker date="1491915946421" expanded="true" signature="47856:47989" ph="update iberi... " />
+                <marker date="1491915946421" expanded="true" signature="48616:48764" ph="insert into iberia.product_barcodes... " />
+                <marker date="1491915946421" expanded="true" signature="49765:49866" ph="select id fr... products" />
+                <marker date="1491915946421" expanded="true" signature="50202:50356" ph="select id fr... dimensions_data" />
+                <marker date="1491915946421" expanded="true" signature="50718:50850" ph="select * fro... rel_product_dimension_data" />
+                <marker date="1491915946421" expanded="true" signature="51052:51189" ph="insert into iberia.rel_product_dimension_data... " />
+                <marker date="1491915946421" expanded="true" signature="51945:52046" ph="select id fr... products" />
+                <marker date="1491915946421" expanded="true" signature="52384:52537" ph="select id fr... dimensions_data" />
+                <marker date="1491915946421" expanded="true" signature="52897:53029" ph="select * fro... rel_product_dimension_data" />
+                <marker date="1491915946421" expanded="true" signature="53227:53364" ph="insert into iberia.rel_product_dimension_data... " />
+                <marker date="1491915946421" expanded="true" signature="54288:54389" ph="select id fr... products" />
+                <marker date="1491915946421" expanded="true" signature="54871:54962" ph="select id fr... suppliers" />
+                <marker date="1491915946421" expanded="true" signature="55126:55224" ph="select * fro... lote" />
+                <marker date="1491915946421" expanded="true" signature="55362:55503" ph="insert into iberia.lote... " />
+                <marker date="1491915946421" expanded="true" signature="56227:56328" ph="select id fr... products" />
+                <marker date="1491915946421" expanded="true" signature="56674:56806" ph="select * fro... product_serial_numbers" />
+                <marker date="1491915946421" expanded="true" signature="56979:57116" ph="insert into iberia.product_serial_numbers... " />
+                <marker date="1491915946421" expanded="true" signature="58258:58359" ph="select id fr... products" />
+                <marker date="1491915946421" expanded="true" signature="58806:58883" ph="select id fr... products" />
+                <marker date="1491915946421" expanded="true" signature="59086:59163" ph="select id fr... services" />
+                <marker date="1491915946421" expanded="true" signature="59553:59693" ph="select id fr... product_units" />
+                <marker date="1491915946421" expanded="true" signature="60187:60529" ph="select a.id transformation_order_price_origin" />
+                <marker date="1491915946421" expanded="true" signature="61063:61331" ph="select id as... transformation_order_steps" />
+                <marker date="1491915946421" expanded="true" signature="61869:62008" ph="select * fro... rel_product_kit" />
+                <marker date="1491915946421" expanded="true" signature="62190:62849" ph="update iberi... " />
+                <marker date="1491915946421" expanded="true" signature="63401:63775" ph="insert into iberia.rel_product_kit... " />
+                <marker date="1491915946421" expanded="true" signature="64775:64876" ph="select id fr... products" />
+                <marker date="1491915946421" expanded="true" signature="65225:65302" ph="select id fr... currency" />
+                <marker date="1491915946421" expanded="true" signature="65753:68951" ph="SELECT id, d... x" />
+                <marker date="1491915946421" expanded="true" signature="65802:68873" ph="select disti... " />
+                <marker date="1491915946421" expanded="true" signature="69925:70101" ph="update iberi... " />
+                <marker date="1491915946421" expanded="true" signature="70773:71027" ph="insert into iberia.price_table_lin... " />
+                <marker date="1491915946421" expanded="true" signature="72368:72469" ph="select id fr... products" />
+                <marker date="1491915946421" expanded="true" signature="73471:73575" ph="select id fr... suppliers" />
+                <marker date="1491915946421" expanded="true" signature="73961:74075" ph="select * fro... rel_product_suppliers" />
+                <marker date="1491915946421" expanded="true" signature="74266:74902" ph="update iberi... " />
+                <marker date="1491915946421" expanded="true" signature="75575:75876" ph="insert into iberia.rel_product_suppliers... " />
+                <marker date="1491915946421" expanded="true" signature="77792:77893" ph="select id fr... products" />
+                <marker date="1491915946421" expanded="true" signature="78316:78451" ph="select id fr... departments" />
+                <marker date="1491915946421" expanded="true" signature="78842:78923" ph="select id fr... product_units" />
+                <marker date="1491915946421" expanded="true" signature="79386:79492" ph="select * fro... product_barcodes" />
+                <marker date="1491915946421" expanded="true" signature="79661:79807" ph="insert into iberia.product_barcodes... " />
+                <marker date="1491915946421" expanded="true" signature="80524:80887" ph="SELECT au.*,... rel_product_alternative_units" />
+                <marker date="1491915946421" expanded="true" signature="81035:81478" ph="update iberi... " />
+                <marker date="1491915946421" expanded="true" signature="82155:82571" ph="insert into iberia.rel_product_alternative_units... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="53" column="30" lean-forward="true" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+              <folding>
+                <marker date="1491916801463" expanded="true" signature="196:349" ph="..." />
+                <marker date="1491916801463" expanded="true" signature="289:317" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImportProductOriginal.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/ImportProductOriginal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="164" column="37" lean-forward="false" selection-start-line="164" selection-start-column="37" selection-end-line="164" selection-end-column="37" />
+              <folding>
+                <element signature="e#667#6845#0#PHP" expanded="false" />
+                <element signature="n#getPaths#0;n#ImportProduct#0;n#!!top" expanded="false" />
+                <element signature="n#getTemplateFile#0;n#ImportProduct#0;n#!!top" expanded="false" />
+                <element signature="n#setFileSerialNumberConvertLines#0;n#ImportProduct#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -158,6 +190,7 @@
       <find>$price_table</find>
       <find>cs_group_</find>
       <find>não existe</find>
+      <find>BARCODE LINES</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -176,9 +209,11 @@
         <option value="$PROJECT_DIR$/index_music.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index_music - Cópia.html" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$USER_HOME$/Desktop/PHP/dataBrockerExport.php" />
+        <option value="$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/ImportProductOriginal.php" />
+        <option value="$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/gravar_popup_decorpita" />
         <option value="$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/ImportProduct.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -312,20 +347,20 @@
       <workItem from="1491400144846" duration="5065000" />
       <workItem from="1491466050291" duration="4778000" />
       <workItem from="1491475369503" duration="40016000" />
-      <workItem from="1491811953503" duration="24230000" />
+      <workItem from="1491811953503" duration="34950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74089000" />
+    <option name="totallyTimeSpent" value="84809000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16204691" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10074627" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -350,7 +385,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -360,109 +395,109 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#665#6978#0#PHP" expanded="false" />
             <element signature="n#__construct#0;n#ImportProduct#0;n#!!top" expanded="false" />
             <element signature="n#getPaths#0;n#ImportProduct#0;n#!!top" expanded="false" />
             <element signature="n#getTemplateFile#0;n#ImportProduct#0;n#!!top" expanded="false" />
             <element signature="n#setFileSerialNumberConvertLines#0;n#ImportProduct#0;n#!!top" expanded="false" />
-            <element signature="e#36619#40600#0#PHP" expanded="false" />
-            <element signature="e#40635#45755#0#PHP" expanded="false" />
-            <element signature="e#45765#48207#0#PHP" expanded="false" />
-            <element signature="e#48217#50135#0#PHP" expanded="false" />
-            <element signature="e#50145#52053#0#PHP" expanded="false" />
-            <element signature="e#52063#53878#0#PHP" expanded="false" />
-            <element signature="e#53888#55279#0#PHP" expanded="false" />
-            <element signature="e#55289#61573#0#PHP" expanded="false" />
-            <element signature="e#61583#68475#0#PHP" expanded="false" />
-            <element signature="e#68485#72664#0#PHP" expanded="false" />
-            <element signature="e#72674#78918#0#PHP" expanded="false" />
+            <element signature="e#15531#41278#0#PHP" expanded="false" />
+            <element signature="e#37272#41253#0#PHP" expanded="false" />
+            <element signature="e#41288#46811#0#PHP" expanded="false" />
+            <element signature="e#46821#49529#0#PHP" expanded="false" />
+            <element signature="e#49539#51713#0#PHP" expanded="false" />
+            <element signature="e#51723#53884#0#PHP" expanded="false" />
+            <element signature="e#53894#55958#0#PHP" expanded="false" />
+            <element signature="e#55968#57635#0#PHP" expanded="false" />
+            <element signature="e#57645#64328#0#PHP" expanded="false" />
+            <element signature="e#64338#71597#0#PHP" expanded="false" />
+            <element signature="e#71607#76496#0#PHP" expanded="false" />
+            <element signature="e#76506#83184#0#PHP" expanded="false" />
             <element signature="n#correctBoolean#0;n#ImportProduct#0;n#!!top" expanded="false" />
-            <marker date="1491846209865" expanded="true" signature="15995:16093" ph="select * fro... products" />
-            <marker date="1491846209865" expanded="true" signature="16395:16460" ph="update iberi... " />
-            <marker date="1491846209865" expanded="true" signature="16804:16921" ph="select id fr... product_units" />
-            <marker date="1491846209865" expanded="true" signature="17218:17295" ph="select id fr... currency" />
-            <marker date="1491846209865" expanded="true" signature="17573:18390" ph="select ttg.i... taxes_classifications" />
-            <marker date="1491846209865" expanded="true" signature="18236:18293" ph="select tax_d... units" />
-            <marker date="1491846209865" expanded="true" signature="18747:19440" ph="select tec.r... taxes_exemption_codes" />
-            <marker date="1491846209865" expanded="true" signature="19278:19356" ph="select iberi... " />
-            <marker date="1491846209865" expanded="true" signature="19904:20118" ph="select id fr... accounting_classifications" />
-            <marker date="1491846209865" expanded="true" signature="21214:21355" ph="select id fr... product_categories" />
-            <marker date="1491846209865" expanded="true" signature="21700:22614" ph="select ttg.i... taxes_classifications" />
-            <marker date="1491846209865" expanded="true" signature="22435:22492" ph="select tax_d... units" />
-            <marker date="1491846209865" expanded="true" signature="24024:24047" ph="SELECT x.acr... " />
-            <marker date="1491846209865" expanded="true" signature="24372:24462" ph="select id, n... product_properties" />
-            <marker date="1491846209865" expanded="true" signature="25177:25311" ph="select id, n... product_properties_data" />
-            <marker date="1491846209865" expanded="true" signature="26665:26878" ph="select ppd.a... product_properties" />
-            <marker date="1491846209865" expanded="true" signature="28218:28379" ph="select max(s... products" />
-            <marker date="1491846209865" expanded="true" signature="29354:29568" ph="select id fr... accounting_classifications" />
-            <marker date="1491846209865" expanded="true" signature="30249:30390" ph="select id fr... product_categories" />
-            <marker date="1491846209865" expanded="true" signature="30879:30996" ph="select id fr... product_units" />
-            <marker date="1491846209865" expanded="true" signature="31837:31914" ph="select id fr... currency" />
-            <marker date="1491846209865" expanded="true" signature="32364:33137" ph="select ttg.i... taxes_classifications" />
-            <marker date="1491846209865" expanded="true" signature="32991:33048" ph="select tax_d... units" />
-            <marker date="1491846209865" expanded="true" signature="33272:34142" ph="select ttg.i... taxes_classifications" />
-            <marker date="1491846209865" expanded="true" signature="33971:34028" ph="select tax_d... units" />
-            <marker date="1491846209865" expanded="true" signature="34440:35133" ph="select tec.r... taxes_exemption_codes" />
-            <marker date="1491846209865" expanded="true" signature="34971:35049" ph="select iberi... " />
-            <marker date="1491846209865" expanded="true" signature="35415:36079" ph="insert into iberia.products... " />
-            <marker date="1491846209865" expanded="true" signature="36968:37058" ph="select id, n... product_properties" />
-            <marker date="1491846209865" expanded="true" signature="37621:37755" ph="select id, n... product_properties_data" />
-            <marker date="1491846209865" expanded="true" signature="38332:38599" ph="insert into iberia.rel_product_property_data... " />
-            <marker date="1491846209865" expanded="true" signature="39713:39781" ph="select id fr... lcs_products" />
-            <marker date="1491846209865" expanded="true" signature="39981:40091" ph="update iberi... " />
-            <marker date="1491846209865" expanded="true" signature="40281:40383" ph="insert into iberia.lcs_products... " />
-            <marker date="1491846209865" expanded="true" signature="41557:41628" ph="select id fr... products" />
-            <marker date="1491846209865" expanded="true" signature="41984:42052" ph="select * fro... products_info" />
-            <marker date="1491846209865" expanded="true" signature="42179:42310" ph="select id fr... technical_data" />
-            <marker date="1491846209865" expanded="true" signature="42640:44197" ph="update iberi... " />
-            <marker date="1491846209865" expanded="true" signature="44691:45331" ph="insert into iberia.products_info... " />
-            <marker date="1491846209865" expanded="true" signature="46040:46139" ph="select id fr... products" />
-            <marker date="1491846209865" expanded="true" signature="46529:46616" ph="select * fro... product_barcodes" />
-            <marker date="1491846209865" expanded="true" signature="46783:46916" ph="update iberi... " />
-            <marker date="1491846209865" expanded="true" signature="47417:47565" ph="insert into iberia.product_barcodes... " />
-            <marker date="1491846209865" expanded="true" signature="48336:48407" ph="select id fr... products" />
-            <marker date="1491846209865" expanded="true" signature="48743:48897" ph="select id fr... dimensions_data" />
-            <marker date="1491846209865" expanded="true" signature="49259:49391" ph="select * fro... rel_product_dimension_data" />
-            <marker date="1491846209865" expanded="true" signature="49593:49730" ph="insert into iberia.rel_product_dimension_data... " />
-            <marker date="1491846209865" expanded="true" signature="50261:50332" ph="select id fr... products" />
-            <marker date="1491846209865" expanded="true" signature="50670:50823" ph="select id fr... dimensions_data" />
-            <marker date="1491846209865" expanded="true" signature="51183:51315" ph="select * fro... rel_product_dimension_data" />
-            <marker date="1491846209865" expanded="true" signature="51513:51650" ph="insert into iberia.rel_product_dimension_data... " />
-            <marker date="1491846209865" expanded="true" signature="52351:52422" ph="select id fr... products" />
-            <marker date="1491846209865" expanded="true" signature="52904:52995" ph="select id fr... suppliers" />
-            <marker date="1491846209865" expanded="true" signature="53159:53257" ph="select * fro... lote" />
-            <marker date="1491846209865" expanded="true" signature="53395:53536" ph="insert into iberia.lote... " />
-            <marker date="1491846209865" expanded="true" signature="54032:54103" ph="select id fr... products" />
-            <marker date="1491846209865" expanded="true" signature="54449:54581" ph="select * fro... product_serial_numbers" />
-            <marker date="1491846209865" expanded="true" signature="54754:54891" ph="insert into iberia.product_serial_numbers... " />
-            <marker date="1491846209865" expanded="true" signature="55791:55862" ph="select id fr... products" />
-            <marker date="1491846209865" expanded="true" signature="56309:56386" ph="select id fr... products" />
-            <marker date="1491846209865" expanded="true" signature="56589:56666" ph="select id fr... services" />
-            <marker date="1491846209865" expanded="true" signature="57056:57196" ph="select id fr... product_units" />
-            <marker date="1491846209865" expanded="true" signature="57690:58032" ph="select a.id transformation_order_price_origin" />
-            <marker date="1491846209865" expanded="true" signature="58566:58834" ph="select id as... transformation_order_steps" />
-            <marker date="1491846209865" expanded="true" signature="59372:59511" ph="select * fro... rel_product_kit" />
-            <marker date="1491846209865" expanded="true" signature="59693:60352" ph="update iberi... " />
-            <marker date="1491846209865" expanded="true" signature="60777:61151" ph="insert into iberia.rel_product_kit... " />
-            <marker date="1491846209865" expanded="true" signature="61913:61984" ph="select id fr... products" />
-            <marker date="1491846209865" expanded="true" signature="62333:62410" ph="select id fr... currency" />
-            <marker date="1491846209865" expanded="true" signature="62861:66059" ph="SELECT id, d... x" />
-            <marker date="1491846209865" expanded="true" signature="62910:65981" ph="select disti... " />
-            <marker date="1491846209865" expanded="true" signature="67033:67209" ph="update iberi... " />
-            <marker date="1491846209865" expanded="true" signature="67766:68020" ph="insert into iberia.price_table_lin... " />
-            <marker date="1491846209865" expanded="true" signature="69136:69207" ph="select id fr... products" />
-            <marker date="1491846209865" expanded="true" signature="70209:70313" ph="select id fr... suppliers" />
-            <marker date="1491846209865" expanded="true" signature="70699:70813" ph="select * fro... rel_product_suppliers" />
-            <marker date="1491846209865" expanded="true" signature="71004:71320" ph="update iberi... " />
-            <marker date="1491846209865" expanded="true" signature="71868:72169" ph="insert into iberia.rel_product_suppliers... " />
-            <marker date="1491846209865" expanded="true" signature="73842:73913" ph="select id fr... products" />
-            <marker date="1491846209865" expanded="true" signature="74336:74471" ph="select id fr... departments" />
-            <marker date="1491846209865" expanded="true" signature="74862:74943" ph="select id fr... product_units" />
-            <marker date="1491846209865" expanded="true" signature="75406:75512" ph="select * fro... product_barcodes" />
-            <marker date="1491846209865" expanded="true" signature="75681:75827" ph="insert into iberia.product_barcodes... " />
-            <marker date="1491846209865" expanded="true" signature="76544:76907" ph="SELECT au.*,... rel_product_alternative_units" />
-            <marker date="1491846209865" expanded="true" signature="77055:77498" ph="update iberi... " />
-            <marker date="1491846209865" expanded="true" signature="78032:78448" ph="insert into iberia.rel_product_alternative_units... " />
+            <marker date="1491915946421" expanded="true" signature="16385:16483" ph="select * fro... products" />
+            <marker date="1491915946421" expanded="true" signature="16811:16876" ph="update iberi... " />
+            <marker date="1491915946421" expanded="true" signature="17220:17337" ph="select id fr... product_units" />
+            <marker date="1491915946421" expanded="true" signature="17634:17711" ph="select id fr... currency" />
+            <marker date="1491915946421" expanded="true" signature="17989:18806" ph="select ttg.i... taxes_classifications" />
+            <marker date="1491915946421" expanded="true" signature="18652:18709" ph="select tax_d... units" />
+            <marker date="1491915946421" expanded="true" signature="19163:19856" ph="select tec.r... taxes_exemption_codes" />
+            <marker date="1491915946421" expanded="true" signature="19694:19772" ph="select iberi... " />
+            <marker date="1491915946421" expanded="true" signature="20320:20534" ph="select id fr... accounting_classifications" />
+            <marker date="1491915946421" expanded="true" signature="21630:21771" ph="select id fr... product_categories" />
+            <marker date="1491915946421" expanded="true" signature="22116:23030" ph="select ttg.i... taxes_classifications" />
+            <marker date="1491915946421" expanded="true" signature="22851:22908" ph="select tax_d... units" />
+            <marker date="1491915946421" expanded="true" signature="24554:24577" ph="SELECT x.acr... " />
+            <marker date="1491915946421" expanded="true" signature="24902:24992" ph="select id, n... product_properties" />
+            <marker date="1491915946421" expanded="true" signature="25707:25841" ph="select id, n... product_properties_data" />
+            <marker date="1491915946421" expanded="true" signature="27195:27408" ph="select ppd.a... product_properties" />
+            <marker date="1491915946421" expanded="true" signature="28748:28909" ph="select max(s... products" />
+            <marker date="1491915946421" expanded="true" signature="29884:30098" ph="select id fr... accounting_classifications" />
+            <marker date="1491915946421" expanded="true" signature="30779:30920" ph="select id fr... product_categories" />
+            <marker date="1491915946421" expanded="true" signature="31409:31526" ph="select id fr... product_units" />
+            <marker date="1491915946421" expanded="true" signature="32367:32444" ph="select id fr... currency" />
+            <marker date="1491915946421" expanded="true" signature="32894:33667" ph="select ttg.i... taxes_classifications" />
+            <marker date="1491915946421" expanded="true" signature="33521:33578" ph="select tax_d... units" />
+            <marker date="1491915946421" expanded="true" signature="33802:34672" ph="select ttg.i... taxes_classifications" />
+            <marker date="1491915946421" expanded="true" signature="34501:34558" ph="select tax_d... units" />
+            <marker date="1491915946421" expanded="true" signature="34970:35663" ph="select tec.r... taxes_exemption_codes" />
+            <marker date="1491915946421" expanded="true" signature="35501:35579" ph="select iberi... " />
+            <marker date="1491915946421" expanded="true" signature="35945:36609" ph="insert into iberia.products... " />
+            <marker date="1491915946421" expanded="true" signature="37621:37711" ph="select id, n... product_properties" />
+            <marker date="1491915946421" expanded="true" signature="38274:38408" ph="select id, n... product_properties_data" />
+            <marker date="1491915946421" expanded="true" signature="38985:39252" ph="insert into iberia.rel_product_property_data... " />
+            <marker date="1491915946421" expanded="true" signature="40366:40434" ph="select id fr... lcs_products" />
+            <marker date="1491915946421" expanded="true" signature="40634:40744" ph="update iberi... " />
+            <marker date="1491915946421" expanded="true" signature="40934:41036" ph="insert into iberia.lcs_products... " />
+            <marker date="1491915946421" expanded="true" signature="42323:42424" ph="select id fr... products" />
+            <marker date="1491915946421" expanded="true" signature="42780:42848" ph="select * fro... products_info" />
+            <marker date="1491915946421" expanded="true" signature="42973:43104" ph="select id fr... technical_data" />
+            <marker date="1491915946421" expanded="true" signature="43434:44991" ph="update iberi... " />
+            <marker date="1491915946421" expanded="true" signature="45618:46258" ph="insert into iberia.products_info... " />
+            <marker date="1491915946421" expanded="true" signature="47096:47195" ph="select id fr... products" />
+            <marker date="1491915946421" expanded="true" signature="47585:47672" ph="select * fro... product_barcodes" />
+            <marker date="1491915946421" expanded="true" signature="47856:47989" ph="update iberi... " />
+            <marker date="1491915946421" expanded="true" signature="48616:48764" ph="insert into iberia.product_barcodes... " />
+            <marker date="1491915946421" expanded="true" signature="49765:49866" ph="select id fr... products" />
+            <marker date="1491915946421" expanded="true" signature="50202:50356" ph="select id fr... dimensions_data" />
+            <marker date="1491915946421" expanded="true" signature="50718:50850" ph="select * fro... rel_product_dimension_data" />
+            <marker date="1491915946421" expanded="true" signature="51052:51189" ph="insert into iberia.rel_product_dimension_data... " />
+            <marker date="1491915946421" expanded="true" signature="51945:52046" ph="select id fr... products" />
+            <marker date="1491915946421" expanded="true" signature="52384:52537" ph="select id fr... dimensions_data" />
+            <marker date="1491915946421" expanded="true" signature="52897:53029" ph="select * fro... rel_product_dimension_data" />
+            <marker date="1491915946421" expanded="true" signature="53227:53364" ph="insert into iberia.rel_product_dimension_data... " />
+            <marker date="1491915946421" expanded="true" signature="54288:54389" ph="select id fr... products" />
+            <marker date="1491915946421" expanded="true" signature="54871:54962" ph="select id fr... suppliers" />
+            <marker date="1491915946421" expanded="true" signature="55126:55224" ph="select * fro... lote" />
+            <marker date="1491915946421" expanded="true" signature="55362:55503" ph="insert into iberia.lote... " />
+            <marker date="1491915946421" expanded="true" signature="56227:56328" ph="select id fr... products" />
+            <marker date="1491915946421" expanded="true" signature="56674:56806" ph="select * fro... product_serial_numbers" />
+            <marker date="1491915946421" expanded="true" signature="56979:57116" ph="insert into iberia.product_serial_numbers... " />
+            <marker date="1491915946421" expanded="true" signature="58258:58359" ph="select id fr... products" />
+            <marker date="1491915946421" expanded="true" signature="58806:58883" ph="select id fr... products" />
+            <marker date="1491915946421" expanded="true" signature="59086:59163" ph="select id fr... services" />
+            <marker date="1491915946421" expanded="true" signature="59553:59693" ph="select id fr... product_units" />
+            <marker date="1491915946421" expanded="true" signature="60187:60529" ph="select a.id transformation_order_price_origin" />
+            <marker date="1491915946421" expanded="true" signature="61063:61331" ph="select id as... transformation_order_steps" />
+            <marker date="1491915946421" expanded="true" signature="61869:62008" ph="select * fro... rel_product_kit" />
+            <marker date="1491915946421" expanded="true" signature="62190:62849" ph="update iberi... " />
+            <marker date="1491915946421" expanded="true" signature="63401:63775" ph="insert into iberia.rel_product_kit... " />
+            <marker date="1491915946421" expanded="true" signature="64775:64876" ph="select id fr... products" />
+            <marker date="1491915946421" expanded="true" signature="65225:65302" ph="select id fr... currency" />
+            <marker date="1491915946421" expanded="true" signature="65753:68951" ph="SELECT id, d... x" />
+            <marker date="1491915946421" expanded="true" signature="65802:68873" ph="select disti... " />
+            <marker date="1491915946421" expanded="true" signature="69925:70101" ph="update iberi... " />
+            <marker date="1491915946421" expanded="true" signature="70773:71027" ph="insert into iberia.price_table_lin... " />
+            <marker date="1491915946421" expanded="true" signature="72368:72469" ph="select id fr... products" />
+            <marker date="1491915946421" expanded="true" signature="73471:73575" ph="select id fr... suppliers" />
+            <marker date="1491915946421" expanded="true" signature="73961:74075" ph="select * fro... rel_product_suppliers" />
+            <marker date="1491915946421" expanded="true" signature="74266:74902" ph="update iberi... " />
+            <marker date="1491915946421" expanded="true" signature="75575:75876" ph="insert into iberia.rel_product_suppliers... " />
+            <marker date="1491915946421" expanded="true" signature="77792:77893" ph="select id fr... products" />
+            <marker date="1491915946421" expanded="true" signature="78316:78451" ph="select id fr... departments" />
+            <marker date="1491915946421" expanded="true" signature="78842:78923" ph="select id fr... product_units" />
+            <marker date="1491915946421" expanded="true" signature="79386:79492" ph="select * fro... product_barcodes" />
+            <marker date="1491915946421" expanded="true" signature="79661:79807" ph="insert into iberia.product_barcodes... " />
+            <marker date="1491915946421" expanded="true" signature="80524:80887" ph="SELECT au.*,... rel_product_alternative_units" />
+            <marker date="1491915946421" expanded="true" signature="81035:81478" ph="update iberi... " />
+            <marker date="1491915946421" expanded="true" signature="82155:82571" ph="insert into iberia.rel_product_alternative_units... " />
           </folding>
         </state>
       </provider>
@@ -633,21 +668,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="444">
           <caret line="37" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-          <folding>
-            <marker date="1491830289123" expanded="true" signature="196:349" ph="..." />
-            <marker date="1491830289123" expanded="true" signature="289:317" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
-          <folding>
-            <marker date="1491831534443" expanded="true" signature="196:349" ph="..." />
-            <marker date="1491831534443" expanded="true" signature="289:317" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1208,114 +1229,206 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/encrypted/ImportProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Skype/My Skype Received Files/ImportProduct(1).php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/ImportProductOriginal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="164" column="37" lean-forward="false" selection-start-line="164" selection-start-column="37" selection-end-line="164" selection-end-column="37" />
+          <folding>
+            <element signature="e#667#6845#0#PHP" expanded="false" />
+            <element signature="n#getPaths#0;n#ImportProduct#0;n#!!top" expanded="false" />
+            <element signature="n#getTemplateFile#0;n#ImportProduct#0;n#!!top" expanded="false" />
+            <element signature="n#setFileSerialNumberConvertLines#0;n#ImportProduct#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/gravar_popup_decorpita">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="331" column="0" lean-forward="true" selection-start-line="331" selection-start-column="0" selection-end-line="331" selection-end-column="0" />
+          <folding>
+            <marker date="1491907498815" expanded="true" signature="1996:2066" ph="select * fro... products" />
+            <marker date="1491907498815" expanded="true" signature="2342:2552" ph="select id fr... accounting_classifications" />
+            <marker date="1491907498815" expanded="true" signature="2843:2980" ph="select id fr... product_categories" />
+            <marker date="1491907498815" expanded="true" signature="3209:3286" ph="select id fr... currency" />
+            <marker date="1491907498815" expanded="true" signature="3406:3531" ph="select id fr... product_units" />
+            <marker date="1491907498815" expanded="true" signature="3713:4277" ph="select ttg.i... taxes_classifications" />
+            <marker date="1491907498815" expanded="true" signature="4169:4226" ph="select tax_d... units" />
+            <marker date="1491907498815" expanded="true" signature="4435:4865" ph="insert into iberia.products... " />
+            <marker date="1491907498815" expanded="true" signature="6435:6521" ph="select * fro... product_barcodes" />
+            <marker date="1491907498815" expanded="true" signature="6856:6993" ph="insert into iberia.product_barcodes... " />
+            <marker date="1491907498815" expanded="true" signature="7627:7717" ph="select id, n... product_properties" />
+            <marker date="1491907498815" expanded="true" signature="8261:8395" ph="select id, n... product_properties_data" />
+            <marker date="1491907498815" expanded="true" signature="8810:9022" ph="insert into iberia.rel_product_property_data... " />
+            <marker date="1491907498815" expanded="true" signature="9703:9774" ph="select id fr... products" />
+            <marker date="1491907498815" expanded="true" signature="10078:10468" ph="select x2.id... rel_customs_codes_hdr_year" />
+            <marker date="1491907498815" expanded="true" signature="10922:11195" ph="insert into iberia.products_info... " />
+            <marker date="1491907498815" expanded="true" signature="11629:11700" ph="select id fr... products" />
+            <marker date="1491907498815" expanded="true" signature="11929:12083" ph="select id fr... dimensions_data" />
+            <marker date="1491907498815" expanded="true" signature="12409:12546" ph="insert into iberia.rel_product_dimension_data... " />
+            <marker date="1491907498815" expanded="true" signature="12901:12972" ph="select id fr... products" />
+            <marker date="1491907498815" expanded="true" signature="13200:13353" ph="select id fr... dimensions_data" />
+            <marker date="1491907498815" expanded="true" signature="13675:13812" ph="insert into iberia.rel_product_dimension_data... " />
+            <marker date="1491907498815" expanded="true" signature="14250:14321" ph="select id fr... products" />
+            <marker date="1491907498815" expanded="true" signature="14556:14671" ph="insert into iberia.lote... " />
+            <marker date="1491907498815" expanded="true" signature="15053:15124" ph="select id fr... products" />
+            <marker date="1491907498815" expanded="true" signature="15368:15506" ph="insert into iberia.product_serial_numbers... " />
+            <marker date="1491907498815" expanded="true" signature="15929:16000" ph="select id fr... products" />
+            <marker date="1491907498815" expanded="true" signature="16230:16307" ph="select id fr... products" />
+            <marker date="1491907498815" expanded="true" signature="16587:16730" ph="insert into iberia.rel_product_kit... " />
+            <marker date="1491907498815" expanded="true" signature="17436:17507" ph="select id fr... products" />
+            <marker date="1491907498815" expanded="true" signature="17784:17861" ph="select id fr... currency" />
+            <marker date="1491907498815" expanded="true" signature="18138:21411" ph="SELECT id, d... x" />
+            <marker date="1491907498815" expanded="true" signature="18189:21330" ph="select disti... " />
+            <marker date="1491907498815" expanded="true" signature="21975:22151" ph="update iberi... " />
+            <marker date="1491907498815" expanded="true" signature="22543:22798" ph="insert into iberia.price_table_lin... " />
+            <marker date="1491907498815" expanded="true" signature="23400:23471" ph="select id fr... products" />
+            <marker date="1491907498815" expanded="true" signature="23748:23814" ph="select id fr... suppliers" />
+            <marker date="1491907498815" expanded="true" signature="24097:24368" ph="insert into iberia.rel_product_suppliers... " />
+            <marker date="1491907498815" expanded="true" signature="25131:25202" ph="select id fr... products" />
+            <marker date="1491907498815" expanded="true" signature="25481:25612" ph="select id fr... departments" />
+            <marker date="1491907498815" expanded="true" signature="25903:25984" ph="select id fr... product_units" />
+            <marker date="1491907498815" expanded="true" signature="26339:26467" ph="insert into iberia.product_barcodes... " />
+            <marker date="1491907498815" expanded="true" signature="26690:27107" ph="insert into iberia.rel_product_alternative_units... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/ImportProduct.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="359" column="37" lean-forward="false" selection-start-line="359" selection-start-column="37" selection-end-line="359" selection-end-column="37" />
+        <state relative-caret-position="418">
+          <caret line="1265" column="9" lean-forward="true" selection-start-line="1265" selection-start-column="9" selection-end-line="1265" selection-end-column="9" />
           <folding>
-            <element signature="e#665#6978#0#PHP" expanded="false" />
             <element signature="n#__construct#0;n#ImportProduct#0;n#!!top" expanded="false" />
             <element signature="n#getPaths#0;n#ImportProduct#0;n#!!top" expanded="false" />
             <element signature="n#getTemplateFile#0;n#ImportProduct#0;n#!!top" expanded="false" />
             <element signature="n#setFileSerialNumberConvertLines#0;n#ImportProduct#0;n#!!top" expanded="false" />
-            <element signature="e#36619#40600#0#PHP" expanded="false" />
-            <element signature="e#40635#45755#0#PHP" expanded="false" />
-            <element signature="e#45765#48207#0#PHP" expanded="false" />
-            <element signature="e#48217#50135#0#PHP" expanded="false" />
-            <element signature="e#50145#52053#0#PHP" expanded="false" />
-            <element signature="e#52063#53878#0#PHP" expanded="false" />
-            <element signature="e#53888#55279#0#PHP" expanded="false" />
-            <element signature="e#55289#61573#0#PHP" expanded="false" />
-            <element signature="e#61583#68475#0#PHP" expanded="false" />
-            <element signature="e#68485#72664#0#PHP" expanded="false" />
-            <element signature="e#72674#78918#0#PHP" expanded="false" />
+            <element signature="e#15531#41278#0#PHP" expanded="false" />
+            <element signature="e#37272#41253#0#PHP" expanded="false" />
+            <element signature="e#41288#46811#0#PHP" expanded="false" />
+            <element signature="e#46821#49529#0#PHP" expanded="false" />
+            <element signature="e#49539#51713#0#PHP" expanded="false" />
+            <element signature="e#51723#53884#0#PHP" expanded="false" />
+            <element signature="e#53894#55958#0#PHP" expanded="false" />
+            <element signature="e#55968#57635#0#PHP" expanded="false" />
+            <element signature="e#57645#64328#0#PHP" expanded="false" />
+            <element signature="e#64338#71597#0#PHP" expanded="false" />
+            <element signature="e#71607#76496#0#PHP" expanded="false" />
+            <element signature="e#76506#83184#0#PHP" expanded="false" />
             <element signature="n#correctBoolean#0;n#ImportProduct#0;n#!!top" expanded="false" />
-            <marker date="1491846209865" expanded="true" signature="15995:16093" ph="select * fro... products" />
-            <marker date="1491846209865" expanded="true" signature="16395:16460" ph="update iberi... " />
-            <marker date="1491846209865" expanded="true" signature="16804:16921" ph="select id fr... product_units" />
-            <marker date="1491846209865" expanded="true" signature="17218:17295" ph="select id fr... currency" />
-            <marker date="1491846209865" expanded="true" signature="17573:18390" ph="select ttg.i... taxes_classifications" />
-            <marker date="1491846209865" expanded="true" signature="18236:18293" ph="select tax_d... units" />
-            <marker date="1491846209865" expanded="true" signature="18747:19440" ph="select tec.r... taxes_exemption_codes" />
-            <marker date="1491846209865" expanded="true" signature="19278:19356" ph="select iberi... " />
-            <marker date="1491846209865" expanded="true" signature="19904:20118" ph="select id fr... accounting_classifications" />
-            <marker date="1491846209865" expanded="true" signature="21214:21355" ph="select id fr... product_categories" />
-            <marker date="1491846209865" expanded="true" signature="21700:22614" ph="select ttg.i... taxes_classifications" />
-            <marker date="1491846209865" expanded="true" signature="22435:22492" ph="select tax_d... units" />
-            <marker date="1491846209865" expanded="true" signature="24024:24047" ph="SELECT x.acr... " />
-            <marker date="1491846209865" expanded="true" signature="24372:24462" ph="select id, n... product_properties" />
-            <marker date="1491846209865" expanded="true" signature="25177:25311" ph="select id, n... product_properties_data" />
-            <marker date="1491846209865" expanded="true" signature="26665:26878" ph="select ppd.a... product_properties" />
-            <marker date="1491846209865" expanded="true" signature="28218:28379" ph="select max(s... products" />
-            <marker date="1491846209865" expanded="true" signature="29354:29568" ph="select id fr... accounting_classifications" />
-            <marker date="1491846209865" expanded="true" signature="30249:30390" ph="select id fr... product_categories" />
-            <marker date="1491846209865" expanded="true" signature="30879:30996" ph="select id fr... product_units" />
-            <marker date="1491846209865" expanded="true" signature="31837:31914" ph="select id fr... currency" />
-            <marker date="1491846209865" expanded="true" signature="32364:33137" ph="select ttg.i... taxes_classifications" />
-            <marker date="1491846209865" expanded="true" signature="32991:33048" ph="select tax_d... units" />
-            <marker date="1491846209865" expanded="true" signature="33272:34142" ph="select ttg.i... taxes_classifications" />
-            <marker date="1491846209865" expanded="true" signature="33971:34028" ph="select tax_d... units" />
-            <marker date="1491846209865" expanded="true" signature="34440:35133" ph="select tec.r... taxes_exemption_codes" />
-            <marker date="1491846209865" expanded="true" signature="34971:35049" ph="select iberi... " />
-            <marker date="1491846209865" expanded="true" signature="35415:36079" ph="insert into iberia.products... " />
-            <marker date="1491846209865" expanded="true" signature="36968:37058" ph="select id, n... product_properties" />
-            <marker date="1491846209865" expanded="true" signature="37621:37755" ph="select id, n... product_properties_data" />
-            <marker date="1491846209865" expanded="true" signature="38332:38599" ph="insert into iberia.rel_product_property_data... " />
-            <marker date="1491846209865" expanded="true" signature="39713:39781" ph="select id fr... lcs_products" />
-            <marker date="1491846209865" expanded="true" signature="39981:40091" ph="update iberi... " />
-            <marker date="1491846209865" expanded="true" signature="40281:40383" ph="insert into iberia.lcs_products... " />
-            <marker date="1491846209865" expanded="true" signature="41557:41628" ph="select id fr... products" />
-            <marker date="1491846209865" expanded="true" signature="41984:42052" ph="select * fro... products_info" />
-            <marker date="1491846209865" expanded="true" signature="42179:42310" ph="select id fr... technical_data" />
-            <marker date="1491846209865" expanded="true" signature="42640:44197" ph="update iberi... " />
-            <marker date="1491846209865" expanded="true" signature="44691:45331" ph="insert into iberia.products_info... " />
-            <marker date="1491846209865" expanded="true" signature="46040:46139" ph="select id fr... products" />
-            <marker date="1491846209865" expanded="true" signature="46529:46616" ph="select * fro... product_barcodes" />
-            <marker date="1491846209865" expanded="true" signature="46783:46916" ph="update iberi... " />
-            <marker date="1491846209865" expanded="true" signature="47417:47565" ph="insert into iberia.product_barcodes... " />
-            <marker date="1491846209865" expanded="true" signature="48336:48407" ph="select id fr... products" />
-            <marker date="1491846209865" expanded="true" signature="48743:48897" ph="select id fr... dimensions_data" />
-            <marker date="1491846209865" expanded="true" signature="49259:49391" ph="select * fro... rel_product_dimension_data" />
-            <marker date="1491846209865" expanded="true" signature="49593:49730" ph="insert into iberia.rel_product_dimension_data... " />
-            <marker date="1491846209865" expanded="true" signature="50261:50332" ph="select id fr... products" />
-            <marker date="1491846209865" expanded="true" signature="50670:50823" ph="select id fr... dimensions_data" />
-            <marker date="1491846209865" expanded="true" signature="51183:51315" ph="select * fro... rel_product_dimension_data" />
-            <marker date="1491846209865" expanded="true" signature="51513:51650" ph="insert into iberia.rel_product_dimension_data... " />
-            <marker date="1491846209865" expanded="true" signature="52351:52422" ph="select id fr... products" />
-            <marker date="1491846209865" expanded="true" signature="52904:52995" ph="select id fr... suppliers" />
-            <marker date="1491846209865" expanded="true" signature="53159:53257" ph="select * fro... lote" />
-            <marker date="1491846209865" expanded="true" signature="53395:53536" ph="insert into iberia.lote... " />
-            <marker date="1491846209865" expanded="true" signature="54032:54103" ph="select id fr... products" />
-            <marker date="1491846209865" expanded="true" signature="54449:54581" ph="select * fro... product_serial_numbers" />
-            <marker date="1491846209865" expanded="true" signature="54754:54891" ph="insert into iberia.product_serial_numbers... " />
-            <marker date="1491846209865" expanded="true" signature="55791:55862" ph="select id fr... products" />
-            <marker date="1491846209865" expanded="true" signature="56309:56386" ph="select id fr... products" />
-            <marker date="1491846209865" expanded="true" signature="56589:56666" ph="select id fr... services" />
-            <marker date="1491846209865" expanded="true" signature="57056:57196" ph="select id fr... product_units" />
-            <marker date="1491846209865" expanded="true" signature="57690:58032" ph="select a.id transformation_order_price_origin" />
-            <marker date="1491846209865" expanded="true" signature="58566:58834" ph="select id as... transformation_order_steps" />
-            <marker date="1491846209865" expanded="true" signature="59372:59511" ph="select * fro... rel_product_kit" />
-            <marker date="1491846209865" expanded="true" signature="59693:60352" ph="update iberi... " />
-            <marker date="1491846209865" expanded="true" signature="60777:61151" ph="insert into iberia.rel_product_kit... " />
-            <marker date="1491846209865" expanded="true" signature="61913:61984" ph="select id fr... products" />
-            <marker date="1491846209865" expanded="true" signature="62333:62410" ph="select id fr... currency" />
-            <marker date="1491846209865" expanded="true" signature="62861:66059" ph="SELECT id, d... x" />
-            <marker date="1491846209865" expanded="true" signature="62910:65981" ph="select disti... " />
-            <marker date="1491846209865" expanded="true" signature="67033:67209" ph="update iberi... " />
-            <marker date="1491846209865" expanded="true" signature="67766:68020" ph="insert into iberia.price_table_lin... " />
-            <marker date="1491846209865" expanded="true" signature="69136:69207" ph="select id fr... products" />
-            <marker date="1491846209865" expanded="true" signature="70209:70313" ph="select id fr... suppliers" />
-            <marker date="1491846209865" expanded="true" signature="70699:70813" ph="select * fro... rel_product_suppliers" />
-            <marker date="1491846209865" expanded="true" signature="71004:71320" ph="update iberi... " />
-            <marker date="1491846209865" expanded="true" signature="71868:72169" ph="insert into iberia.rel_product_suppliers... " />
-            <marker date="1491846209865" expanded="true" signature="73842:73913" ph="select id fr... products" />
-            <marker date="1491846209865" expanded="true" signature="74336:74471" ph="select id fr... departments" />
-            <marker date="1491846209865" expanded="true" signature="74862:74943" ph="select id fr... product_units" />
-            <marker date="1491846209865" expanded="true" signature="75406:75512" ph="select * fro... product_barcodes" />
-            <marker date="1491846209865" expanded="true" signature="75681:75827" ph="insert into iberia.product_barcodes... " />
-            <marker date="1491846209865" expanded="true" signature="76544:76907" ph="SELECT au.*,... rel_product_alternative_units" />
-            <marker date="1491846209865" expanded="true" signature="77055:77498" ph="update iberi... " />
-            <marker date="1491846209865" expanded="true" signature="78032:78448" ph="insert into iberia.rel_product_alternative_units... " />
+            <marker date="1491915946421" expanded="true" signature="16385:16483" ph="select * fro... products" />
+            <marker date="1491915946421" expanded="true" signature="16811:16876" ph="update iberi... " />
+            <marker date="1491915946421" expanded="true" signature="17220:17337" ph="select id fr... product_units" />
+            <marker date="1491915946421" expanded="true" signature="17634:17711" ph="select id fr... currency" />
+            <marker date="1491915946421" expanded="true" signature="17989:18806" ph="select ttg.i... taxes_classifications" />
+            <marker date="1491915946421" expanded="true" signature="18652:18709" ph="select tax_d... units" />
+            <marker date="1491915946421" expanded="true" signature="19163:19856" ph="select tec.r... taxes_exemption_codes" />
+            <marker date="1491915946421" expanded="true" signature="19694:19772" ph="select iberi... " />
+            <marker date="1491915946421" expanded="true" signature="20320:20534" ph="select id fr... accounting_classifications" />
+            <marker date="1491915946421" expanded="true" signature="21630:21771" ph="select id fr... product_categories" />
+            <marker date="1491915946421" expanded="true" signature="22116:23030" ph="select ttg.i... taxes_classifications" />
+            <marker date="1491915946421" expanded="true" signature="22851:22908" ph="select tax_d... units" />
+            <marker date="1491915946421" expanded="true" signature="24554:24577" ph="SELECT x.acr... " />
+            <marker date="1491915946421" expanded="true" signature="24902:24992" ph="select id, n... product_properties" />
+            <marker date="1491915946421" expanded="true" signature="25707:25841" ph="select id, n... product_properties_data" />
+            <marker date="1491915946421" expanded="true" signature="27195:27408" ph="select ppd.a... product_properties" />
+            <marker date="1491915946421" expanded="true" signature="28748:28909" ph="select max(s... products" />
+            <marker date="1491915946421" expanded="true" signature="29884:30098" ph="select id fr... accounting_classifications" />
+            <marker date="1491915946421" expanded="true" signature="30779:30920" ph="select id fr... product_categories" />
+            <marker date="1491915946421" expanded="true" signature="31409:31526" ph="select id fr... product_units" />
+            <marker date="1491915946421" expanded="true" signature="32367:32444" ph="select id fr... currency" />
+            <marker date="1491915946421" expanded="true" signature="32894:33667" ph="select ttg.i... taxes_classifications" />
+            <marker date="1491915946421" expanded="true" signature="33521:33578" ph="select tax_d... units" />
+            <marker date="1491915946421" expanded="true" signature="33802:34672" ph="select ttg.i... taxes_classifications" />
+            <marker date="1491915946421" expanded="true" signature="34501:34558" ph="select tax_d... units" />
+            <marker date="1491915946421" expanded="true" signature="34970:35663" ph="select tec.r... taxes_exemption_codes" />
+            <marker date="1491915946421" expanded="true" signature="35501:35579" ph="select iberi... " />
+            <marker date="1491915946421" expanded="true" signature="35945:36609" ph="insert into iberia.products... " />
+            <marker date="1491915946421" expanded="true" signature="37621:37711" ph="select id, n... product_properties" />
+            <marker date="1491915946421" expanded="true" signature="38274:38408" ph="select id, n... product_properties_data" />
+            <marker date="1491915946421" expanded="true" signature="38985:39252" ph="insert into iberia.rel_product_property_data... " />
+            <marker date="1491915946421" expanded="true" signature="40366:40434" ph="select id fr... lcs_products" />
+            <marker date="1491915946421" expanded="true" signature="40634:40744" ph="update iberi... " />
+            <marker date="1491915946421" expanded="true" signature="40934:41036" ph="insert into iberia.lcs_products... " />
+            <marker date="1491915946421" expanded="true" signature="42323:42424" ph="select id fr... products" />
+            <marker date="1491915946421" expanded="true" signature="42780:42848" ph="select * fro... products_info" />
+            <marker date="1491915946421" expanded="true" signature="42973:43104" ph="select id fr... technical_data" />
+            <marker date="1491915946421" expanded="true" signature="43434:44991" ph="update iberi... " />
+            <marker date="1491915946421" expanded="true" signature="45618:46258" ph="insert into iberia.products_info... " />
+            <marker date="1491915946421" expanded="true" signature="47096:47195" ph="select id fr... products" />
+            <marker date="1491915946421" expanded="true" signature="47585:47672" ph="select * fro... product_barcodes" />
+            <marker date="1491915946421" expanded="true" signature="47856:47989" ph="update iberi... " />
+            <marker date="1491915946421" expanded="true" signature="48616:48764" ph="insert into iberia.product_barcodes... " />
+            <marker date="1491915946421" expanded="true" signature="49765:49866" ph="select id fr... products" />
+            <marker date="1491915946421" expanded="true" signature="50202:50356" ph="select id fr... dimensions_data" />
+            <marker date="1491915946421" expanded="true" signature="50718:50850" ph="select * fro... rel_product_dimension_data" />
+            <marker date="1491915946421" expanded="true" signature="51052:51189" ph="insert into iberia.rel_product_dimension_data... " />
+            <marker date="1491915946421" expanded="true" signature="51945:52046" ph="select id fr... products" />
+            <marker date="1491915946421" expanded="true" signature="52384:52537" ph="select id fr... dimensions_data" />
+            <marker date="1491915946421" expanded="true" signature="52897:53029" ph="select * fro... rel_product_dimension_data" />
+            <marker date="1491915946421" expanded="true" signature="53227:53364" ph="insert into iberia.rel_product_dimension_data... " />
+            <marker date="1491915946421" expanded="true" signature="54288:54389" ph="select id fr... products" />
+            <marker date="1491915946421" expanded="true" signature="54871:54962" ph="select id fr... suppliers" />
+            <marker date="1491915946421" expanded="true" signature="55126:55224" ph="select * fro... lote" />
+            <marker date="1491915946421" expanded="true" signature="55362:55503" ph="insert into iberia.lote... " />
+            <marker date="1491915946421" expanded="true" signature="56227:56328" ph="select id fr... products" />
+            <marker date="1491915946421" expanded="true" signature="56674:56806" ph="select * fro... product_serial_numbers" />
+            <marker date="1491915946421" expanded="true" signature="56979:57116" ph="insert into iberia.product_serial_numbers... " />
+            <marker date="1491915946421" expanded="true" signature="58258:58359" ph="select id fr... products" />
+            <marker date="1491915946421" expanded="true" signature="58806:58883" ph="select id fr... products" />
+            <marker date="1491915946421" expanded="true" signature="59086:59163" ph="select id fr... services" />
+            <marker date="1491915946421" expanded="true" signature="59553:59693" ph="select id fr... product_units" />
+            <marker date="1491915946421" expanded="true" signature="60187:60529" ph="select a.id transformation_order_price_origin" />
+            <marker date="1491915946421" expanded="true" signature="61063:61331" ph="select id as... transformation_order_steps" />
+            <marker date="1491915946421" expanded="true" signature="61869:62008" ph="select * fro... rel_product_kit" />
+            <marker date="1491915946421" expanded="true" signature="62190:62849" ph="update iberi... " />
+            <marker date="1491915946421" expanded="true" signature="63401:63775" ph="insert into iberia.rel_product_kit... " />
+            <marker date="1491915946421" expanded="true" signature="64775:64876" ph="select id fr... products" />
+            <marker date="1491915946421" expanded="true" signature="65225:65302" ph="select id fr... currency" />
+            <marker date="1491915946421" expanded="true" signature="65753:68951" ph="SELECT id, d... x" />
+            <marker date="1491915946421" expanded="true" signature="65802:68873" ph="select disti... " />
+            <marker date="1491915946421" expanded="true" signature="69925:70101" ph="update iberi... " />
+            <marker date="1491915946421" expanded="true" signature="70773:71027" ph="insert into iberia.price_table_lin... " />
+            <marker date="1491915946421" expanded="true" signature="72368:72469" ph="select id fr... products" />
+            <marker date="1491915946421" expanded="true" signature="73471:73575" ph="select id fr... suppliers" />
+            <marker date="1491915946421" expanded="true" signature="73961:74075" ph="select * fro... rel_product_suppliers" />
+            <marker date="1491915946421" expanded="true" signature="74266:74902" ph="update iberi... " />
+            <marker date="1491915946421" expanded="true" signature="75575:75876" ph="insert into iberia.rel_product_suppliers... " />
+            <marker date="1491915946421" expanded="true" signature="77792:77893" ph="select id fr... products" />
+            <marker date="1491915946421" expanded="true" signature="78316:78451" ph="select id fr... departments" />
+            <marker date="1491915946421" expanded="true" signature="78842:78923" ph="select id fr... product_units" />
+            <marker date="1491915946421" expanded="true" signature="79386:79492" ph="select * fro... product_barcodes" />
+            <marker date="1491915946421" expanded="true" signature="79661:79807" ph="insert into iberia.product_barcodes... " />
+            <marker date="1491915946421" expanded="true" signature="80524:80887" ph="SELECT au.*,... rel_product_alternative_units" />
+            <marker date="1491915946421" expanded="true" signature="81035:81478" ph="update iberi... " />
+            <marker date="1491915946421" expanded="true" signature="82155:82571" ph="insert into iberia.rel_product_alternative_units... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="53" column="30" lean-forward="true" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+          <folding>
+            <marker date="1491916801463" expanded="true" signature="196:349" ph="..." />
+            <marker date="1491916801463" expanded="true" signature="289:317" ph="..." />
           </folding>
         </state>
       </provider>
