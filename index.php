@@ -25,20 +25,30 @@
 $dir = "/home/forge/mytwins.sytes.net/music/";
 //$ficheiros = scandir($dir);
 //if(!empty($ficheiros)){
-$scanned_directory = array_diff(scandir($dir), array('..', '.')); ?>
+$scanned_directory = array_diff(scandir($dir), array('..', '.'));
 
+foreach ($scanned_directory as $key => $ficheiro) {
+    $file_parts = pathinfo($ficheiro);
+    print_r($file_parts);
+    if ($file_parts['extension'] == 'mp3') {
+        echo '<h1>YEEAHHH</h1>' . $ficheiro . '  <br>';
+    }
+}
+?>
+
+<!--
 <script type="text/javascript">
     var elements = new Array();
     <?php
-        foreach ($scanned_directory as $key => $ficheiro) {
+/*        foreach ($scanned_directory as $key => $ficheiro) {
             $file_parts = pathinfo($ficheiro);
             //print_r($file_parts);
             if($file_parts['extension'] == 'mp3') {
-                ?>
-                elements.push(" <?php echo $ficheiro; ?> ");
+                */?>
+                elements.push(" <?php /*echo $ficheiro; */?> ");
         <?php
-            }
-        } ?>
+/*            }
+        } */?>
 
     function nextAudioNode() {
         alert(elements);
@@ -46,7 +56,7 @@ $scanned_directory = array_diff(scandir($dir), array('..', '.')); ?>
         element.src = "music/shape_of_you.mp3";
         element.play();
     }
-</script>
+</script>-->
 <?
 //   }
 ?>
