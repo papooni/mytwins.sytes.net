@@ -41,31 +41,15 @@ if(!empty($ficheiros)) {
     var elements = new Array();
 
     function nextAudioNode() {
-        <? foreach ($musicas as $musica){ ?>
+        <?php foreach ($musicas as $key => $musica){ ?>
             elements.push(" <?php echo $musica; ?>") ;
     <?php } ?>
         alert(elements);
         var element = document.getElementById('musica');
         element.src = "music/shape_of_you.mp3";
         element.play();
-    }
+        }
 </script>
-<!--
-<script type="text/javascript">
-    var elements = new Array();
-    <?php
-/*        foreach ($scanned_directory as $key => $ficheiro) {
-            $file_parts = pathinfo($ficheiro);
-            //print_r($file_parts);
-            if($file_parts['extension'] == 'mp3') {
-                */?>
-                elements.push(" <?php /*echo $ficheiro; */?> ");
-        <?php
-/*            }
-        } */?>
-
-
-</script>-->
 
 
 </body>
