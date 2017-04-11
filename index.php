@@ -24,14 +24,16 @@
 <?php
 $dir = "/home/forge/mytwins.sytes.net/music/";
 //$ficheiros = scandir($dir);
-//if(!empty($ficheiros)){
-$scanned_directory = array_diff(scandir($dir), array('..', '.'));
-
-foreach ($scanned_directory as $key => $ficheiro) {
-    $file_parts = pathinfo($ficheiro);
-   // print_r($file_parts);
-    if ($file_parts['extension'] == 'mp3') {
-        echo '<h1>YEEAHHH</h1>' . $ficheiro . '  <br>';
+if(!empty($ficheiros)) {
+    $scanned_directory = array_diff(scandir($dir), array('..', '.'));
+    $musicas = array();
+    foreach ($scanned_directory as $key => $ficheiro) {
+        $file_parts = pathinfo($ficheiro);
+        // print_r($file_parts);
+        if ($file_parts['extension'] == 'mp3') {
+            echo '<h1>YEEAHHH</h1>' . $ficheiro . '  <br>';
+            $musicas.add($ficheiro);
+        }
     }
 }
 ?>
@@ -39,6 +41,9 @@ foreach ($scanned_directory as $key => $ficheiro) {
     var elements = new Array();
 
     function nextAudioNode() {
+        <? foreach ($musicas as $musica){ ?>
+            elements.push(" <?php echo $musica; ?>") ;
+    <?php } ?>
         alert(elements);
         var element = document.getElementById('musica');
         element.src = "music/shape_of_you.mp3";
@@ -59,16 +64,9 @@ foreach ($scanned_directory as $key => $ficheiro) {
 /*            }
         } */?>
 
-    function nextAudioNode() {
-        alert(elements);
-        var element = document.getElementById('musica');
-        element.src = "music/shape_of_you.mp3";
-        element.play();
-    }
+
 </script>-->
-<?
-//   }
-?>
+
 
 </body>
 </html>
