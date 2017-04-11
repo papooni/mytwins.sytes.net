@@ -35,32 +35,32 @@
 <script src="./js/vegas/vegas.min.js"></script>
 <script src="./js/jquery.maximage.js"></script>
 <script src="./js/okvideo.min.js"></script>-->
-<?
-    $dir    = '/music/';
-    $ficheiros = scandir($dir);
-    $scanned_directory = array_diff(scandir($directory), array('..', '.'));
-
-?>
-
 <!-- Form script -->
 <script src="./js/form_script.js"></script>
 
-<script type="text/javascript">
-    var elements = new Array();
-    <?php foreach ($scanned_directory as $key => $ficheiro) { ?>
-    elements.push(' <?php echo $ficheiro; ?> ');
-    <?php } ?>
 
-    function nextAudioNode() {
-        alert(elements);
-        var element = document.getElementById('musica');
-        element.src = "music/shape_of_you.mp3";
-        element.play();
+<?php
+    $dir    = "/home/forge/mytwins.sytes.net/music/";
+    $ficheiros = scandir($dir);
+    if(!empty($ficheiros)){
+      $scanned_directory = array_diff(scandir($dir), array('..', '.')); ?>
+      <script type="text/javascript">
+            var elements = new Array();
+            <?php
+              foreach ($scanned_directory as $key => $ficheiro) { ?>
+                elements.push(" <?php echo $ficheiro; ?> ");
+            <?php } ?>
+
+        function nextAudioNode() {
+              alert(elements);
+              var element = document.getElementById('musica');
+              element.src = "music/shape_of_you.mp3";
+              element.play();
+          }
+      </script>
+<?
     }
-
-</script>
-
-
+?>
 
 </body>
 </html>
