@@ -43,13 +43,10 @@ if(!empty($scanned_directory)) {
     var i = 0;
     function nextAudioNode() {
         var element = document.getElementById('musica');
-        /*element.src = "music/shape_of_you.mp3";*/
         element.src = "music/" + elements[i];
         element.play();
-
     }
 </script>
-
 
 </body>
 </html>
