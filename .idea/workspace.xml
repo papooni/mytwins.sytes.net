@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8ec9a6a3-1571-4700-9675-66325c70bee0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,8 +22,8 @@
       <file leaf-file-name="ImportProduct.php" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/ImportProduct.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="1019" column="9" lean-forward="true" selection-start-line="1019" selection-start-column="9" selection-end-line="1019" selection-end-column="9" />
+            <state relative-caret-position="464">
+              <caret line="1706" column="0" lean-forward="true" selection-start-line="1706" selection-start-column="0" selection-end-line="1706" selection-end-column="0" />
               <folding>
                 <element signature="n#__construct#0;n#ImportProduct#0;n#!!top" expanded="false" />
                 <element signature="n#getPaths#0;n#ImportProduct#0;n#!!top" expanded="false" />
@@ -135,11 +136,11 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="38" column="4" lean-forward="true" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+            <state relative-caret-position="320">
+              <caret line="36" column="2" lean-forward="true" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
               <folding>
-                <marker date="1491925205903" expanded="true" signature="196:349" ph="..." />
-                <marker date="1491925205903" expanded="true" signature="289:317" ph="..." />
+                <marker date="1491925784123" expanded="true" signature="196:349" ph="..." />
+                <marker date="1491925784123" expanded="true" signature="289:317" ph="..." />
               </folding>
             </state>
           </provider>
@@ -331,7 +332,7 @@
       <workItem from="1491400144846" duration="5065000" />
       <workItem from="1491466050291" duration="4778000" />
       <workItem from="1491475369503" duration="40016000" />
-      <workItem from="1491811953503" duration="42782000" />
+      <workItem from="1491811953503" duration="43352000" />
     </task>
     <task id="LOCAL-00001" summary="zz 2">
       <created>1491917197849</created>
@@ -396,11 +397,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491925210062</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary=" ?&gt;">
+      <created>1491925216043</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1491925216043</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92641000" />
+    <option name="totallyTimeSpent" value="93211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1385,8 +1393,8 @@
     </entry>
     <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/ImportProduct.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="1019" column="9" lean-forward="true" selection-start-line="1019" selection-start-column="9" selection-end-line="1019" selection-end-column="9" />
+        <state relative-caret-position="464">
+          <caret line="1706" column="0" lean-forward="true" selection-start-line="1706" selection-start-column="0" selection-end-line="1706" selection-end-column="0" />
           <folding>
             <element signature="n#__construct#0;n#ImportProduct#0;n#!!top" expanded="false" />
             <element signature="n#getPaths#0;n#ImportProduct#0;n#!!top" expanded="false" />
@@ -1497,11 +1505,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="38" column="4" lean-forward="true" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+        <state relative-caret-position="320">
+          <caret line="36" column="2" lean-forward="true" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
           <folding>
-            <marker date="1491925205903" expanded="true" signature="196:349" ph="..." />
-            <marker date="1491925205903" expanded="true" signature="289:317" ph="..." />
+            <marker date="1491925784123" expanded="true" signature="196:349" ph="..." />
+            <marker date="1491925784123" expanded="true" signature="289:317" ph="..." />
           </folding>
         </state>
       </provider>

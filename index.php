@@ -29,13 +29,22 @@ $scanned_directory = array_diff(scandir($dir), array('..', '.'));
 
 foreach ($scanned_directory as $key => $ficheiro) {
     $file_parts = pathinfo($ficheiro);
-    print_r($file_parts);
+   // print_r($file_parts);
     if ($file_parts['extension'] == 'mp3') {
         echo '<h1>YEEAHHH</h1>' . $ficheiro . '  <br>';
     }
 }
 ?>
+<script type="text/javascript">
+    var elements = new Array();
 
+    function nextAudioNode() {
+        alert(elements);
+        var element = document.getElementById('musica');
+        element.src = "music/shape_of_you.mp3";
+        element.play();
+    }
+</script>
 <!--
 <script type="text/javascript">
     var elements = new Array();
