@@ -12,54 +12,37 @@
     your browser</a> to improve your experience.</p>
 <![endif]-->
 
-
-<!--        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>-->
-<audio id="musica" controls autoplay onended="nextAudioNode()" >
+<audio id="musica" controls autoplay onended="nextAudioNode()">
     <source src="music/desce.mp3"/>
 </audio>
-<!-- All Javascript plugins goes here -->
-<!--		<script src="//code.jquery.com/jquery-1.11.2.min.js"></script>-->
-
-
-
-
 
 <script src="./js/vendor/jquery-1.11.2.min.js"></script>
-<!-- All vendor scripts -->
 <script src="./js/vendor/all.js"></script>
-
-<!-- Detailed vendor scripts -->
-<!--<script src="./js/vendor/jquery.fullPage.min.js"></script>
-<script src="./js/vendor/jquery.slimscroll.min.js"></script>
-<script src="./js/vendor/jquery.knob.min.js"></script>
-<script src="./js/vegas/vegas.min.js"></script>
-<script src="./js/jquery.maximage.js"></script>
-<script src="./js/okvideo.min.js"></script>-->
-<!-- Form script -->
 <script src="./js/form_script.js"></script>
 
 
 <?php
-    $dir    = "/home/forge/mytwins.sytes.net/music/";
-    $ficheiros = scandir($dir);
-    //if(!empty($ficheiros)){
-      $scanned_directory = array_diff(scandir($dir), array('..', '.')); ?>
-      <script type="text/javascript">
-            var elements = new Array();
-            <?php
-              foreach ($scanned_directory as $key => $ficheiro) { ?>
-                elements.push(" <?php echo $ficheiro; ?> ");
-            <?php } ?>
+$dir = "/home/forge/mytwins.sytes.net/music/";
+//$ficheiros = scandir($dir);
+//if(!empty($ficheiros)){
+$scanned_directory = array_diff(scandir($dir), array('..', '.')); ?>
 
-        function nextAudioNode() {
-              alert(elements);
-              var element = document.getElementById('musica');
-              element.src = "music/shape_of_you.mp3";
-              element.play();
-          }
-      </script>
+<script type="text/javascript">
+    var elements = new Array();
+    <?php
+        foreach ($scanned_directory as $key => $ficheiro) { ?>
+            elements.push(" <?php echo $ficheiro; ?> ");
+    <?php } ?>
+
+    function nextAudioNode() {
+        alert(elements);
+        var element = document.getElementById('musica');
+        element.src = "music/shape_of_you.mp3";
+        element.play();
+    }
+</script>
 <?
- //   }
+//   }
 ?>
 
 </body>
