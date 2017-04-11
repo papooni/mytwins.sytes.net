@@ -36,7 +36,7 @@ $scanned_directory = array_diff(scandir($dir), array('..', '.')); ?>
             if($file_parts['extension'] == 'mp3') {
                 ?>
                 elements.push(" <?php echo $ficheiro; ?> ");
-        <?
+        <?php
             }
         } ?>
 
