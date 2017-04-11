@@ -29,7 +29,7 @@ if(!empty($scanned_directory)) {
     foreach ($scanned_directory as $key => $ficheiro) {
         $file_parts = pathinfo($ficheiro);
         if ($file_parts['extension'] == 'mp3') {
-            array_push($musicas,trim($ficheiro));
+            array_push($musicas,trim($ficheiro , " "));
         }
     }
 }
