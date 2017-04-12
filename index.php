@@ -1,6 +1,6 @@
-<html class="no-js" lang="en">
+<html>
 <head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta http-equiv="content-type" charset="UTF-8">
     <meta charset="utf-8">
 
     <!-- Page Title Here -->
