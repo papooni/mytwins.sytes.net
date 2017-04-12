@@ -10,7 +10,7 @@
     <meta name="description" content="A chegada do Tico e do Teco">
 
     <!-- Disable screen scaling-->
-    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, user-scalable=0">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
 
     <!-- Place favicon.ico and apple-touch-icon(s) in the root directory -->
 
