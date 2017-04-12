@@ -174,7 +174,7 @@
 <!-- End of site footer -->
 
 <audio id="musica" controls autoplay onended="nextAudioNode()" >
-   <source src="music/heart.mp3"/>
+   <source src="heart.mp3"/>
 </audio>
 
 <script src="./js/vendor/jquery-1.11.2.min.js"></script>
