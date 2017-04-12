@@ -15,40 +15,19 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/index.html">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="663">
-                    <caret line="195" column="0" lean-forward="true" selection-start-line="195" selection-start-column="0" selection-end-line="203" selection-end-column="36" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="ImportProduct.php" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/ImportProduct.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+            <state relative-caret-position="136">
+              <caret line="255" column="21" lean-forward="true" selection-start-line="255" selection-start-column="21" selection-end-line="255" selection-end-column="21" />
               <folding>
                 <element signature="e#665#7410#0#PHP" expanded="false" />
                 <element signature="n#__construct#0;n#ImportProduct#0;n#!!top" expanded="false" />
                 <element signature="n#getPaths#0;n#ImportProduct#0;n#!!top" expanded="false" />
                 <element signature="n#getTemplateFile#0;n#ImportProduct#0;n#!!top" expanded="false" />
-                <element signature="n#setFileSerialNumberConvertLines#0;n#ImportProduct#0;n#!!top" expanded="false" />
                 <element signature="n#saveXls#0;n#ImportProduct#0;n#!!top" expanded="false" />
                 <element signature="e#15710#41350#0#PHP" expanded="false" />
                 <element signature="e#37344#41325#0#PHP" expanded="false" />
@@ -157,8 +136,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="172" column="9" lean-forward="true" selection-start-line="172" selection-start-column="9" selection-end-line="172" selection-end-column="9" />
+            <state relative-caret-position="699">
+              <caret line="221" column="9" lean-forward="true" selection-start-line="221" selection-start-column="9" selection-end-line="221" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -353,7 +332,7 @@
       <workItem from="1491475369503" duration="40016000" />
       <workItem from="1491811953503" duration="48764000" />
       <workItem from="1491984368102" duration="202000" />
-      <workItem from="1491984604632" duration="10018000" />
+      <workItem from="1491984604632" duration="10767000" />
     </task>
     <task id="LOCAL-00001" summary="zz 2">
       <created>1491917197849</created>
@@ -555,7 +534,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108843000" />
+    <option name="totallyTimeSpent" value="109592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -627,7 +606,6 @@
             <element signature="n#__construct#0;n#ImportProduct#0;n#!!top" expanded="false" />
             <element signature="n#getPaths#0;n#ImportProduct#0;n#!!top" expanded="false" />
             <element signature="n#getTemplateFile#0;n#ImportProduct#0;n#!!top" expanded="false" />
-            <element signature="n#setFileSerialNumberConvertLines#0;n#ImportProduct#0;n#!!top" expanded="false" />
             <element signature="n#saveXls#0;n#ImportProduct#0;n#!!top" expanded="false" />
             <element signature="e#15710#41350#0#PHP" expanded="false" />
             <element signature="e#37344#41325#0#PHP" expanded="false" />
@@ -749,7 +727,6 @@
             <element signature="n#__construct#0;n#ImportProduct#0;n#!!top" expanded="false" />
             <element signature="n#getPaths#0;n#ImportProduct#0;n#!!top" expanded="false" />
             <element signature="n#getTemplateFile#0;n#ImportProduct#0;n#!!top" expanded="false" />
-            <element signature="n#setFileSerialNumberConvertLines#0;n#ImportProduct#0;n#!!top" expanded="false" />
             <element signature="n#saveXls#0;n#ImportProduct#0;n#!!top" expanded="false" />
             <element signature="e#15710#41350#0#PHP" expanded="false" />
             <element signature="e#37344#41325#0#PHP" expanded="false" />
@@ -1373,16 +1350,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="176" column="0" lean-forward="true" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/ImportProduct.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        <state relative-caret-position="136">
+          <caret line="255" column="21" lean-forward="true" selection-start-line="255" selection-start-column="21" selection-end-line="255" selection-end-column="21" />
           <folding>
             <element signature="e#665#7410#0#PHP" expanded="false" />
             <element signature="n#__construct#0;n#ImportProduct#0;n#!!top" expanded="false" />
             <element signature="n#getPaths#0;n#ImportProduct#0;n#!!top" expanded="false" />
             <element signature="n#getTemplateFile#0;n#ImportProduct#0;n#!!top" expanded="false" />
-            <element signature="n#setFileSerialNumberConvertLines#0;n#ImportProduct#0;n#!!top" expanded="false" />
             <element signature="n#saveXls#0;n#ImportProduct#0;n#!!top" expanded="false" />
             <element signature="e#15710#41350#0#PHP" expanded="false" />
             <element signature="e#37344#41325#0#PHP" expanded="false" />
@@ -1487,18 +1471,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="195" column="0" lean-forward="true" selection-start-line="195" selection-start-column="0" selection-end-line="203" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="172" column="9" lean-forward="true" selection-start-line="172" selection-start-column="9" selection-end-line="172" selection-end-column="9" />
+        <state relative-caret-position="699">
+          <caret line="221" column="9" lean-forward="true" selection-start-line="221" selection-start-column="9" selection-end-line="221" selection-end-column="9" />
           <folding />
         </state>
       </provider>
