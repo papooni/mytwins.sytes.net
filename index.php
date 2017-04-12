@@ -1,6 +1,6 @@
 <html>
 <head>
-    <meta http-equiv="content-type" charset="UTF-8">
+    <meta http-equiv="content-type" >
     <meta charset="utf-8">
 
     <!-- Page Title Here -->
@@ -179,7 +179,15 @@
 
 <script src="./js/vendor/jquery-1.11.2.min.js"></script>
 <script src="./js/vendor/all.js"></script>
+
+<!-- Downcount JS -->
+<script src="./js/jquery.downCount.js"></script>
+
+<!-- Form script -->
 <script src="./js/form_script.js"></script>
+
+<!-- Javascript main files -->
+<script src="./js/main.js"></script>
 
 
 <?php
