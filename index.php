@@ -214,7 +214,7 @@ if(!empty($scanned_directory)) {
     var i;
     function nextAudioNode() {
         var element = document.getElementById('musica');
-        i = Math.floor((Math.random() * <?php echo $count; ?>) + 1);
+        i = Math.floor((Math.random() * <?php echo $count - 1; ?>) + 1);
         alert(i);
         element.src = "music/" + elements[i];
         element.play();
