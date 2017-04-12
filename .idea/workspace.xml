@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ec9a6a3-1571-4700-9675-66325c70bee0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-    </list>
+    <list default="true" id="8ec9a6a3-1571-4700-9675-66325c70bee0" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,34 +13,14 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
-  <component name="DockManager">
-    <window id="2">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/index.php">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="-2686">
-                    <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-                    <folding />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="dataBrockerExec.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="dataBrockerExec.php" pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerExec.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="1424" column="84" lean-forward="true" selection-start-line="1424" selection-start-column="84" selection-end-line="1424" selection-end-column="84" />
+            <state relative-caret-position="586">
+              <caret line="1711" column="61" lean-forward="true" selection-start-line="1711" selection-start-column="61" selection-end-line="1711" selection-end-column="61" />
               <folding>
                 <marker date="1489677782082" expanded="true" signature="16389:16403" ph="SELECT * FRO... ${$d['table_from']}" />
                 <marker date="1489677782082" expanded="true" signature="41268:41520" ph="SELECT hdr.i... brk_global_vars_hdr" />
@@ -70,26 +48,6 @@
                 <marker date="1489677782082" expanded="true" signature="91063:91137" ph="DELETE FROM " />
                 <marker date="1489677782082" expanded="true" signature="95935:96179" ph="SELECT hdr.i... brk_global_vars_hdr" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="114" column="22" lean-forward="true" selection-start-line="114" selection-start-column="22" selection-end-line="114" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vegas.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/vegas/vegas.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="66" column="28" lean-forward="true" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -268,7 +226,7 @@
       <workItem from="1491475369503" duration="40016000" />
       <workItem from="1491811953503" duration="48764000" />
       <workItem from="1491984368102" duration="202000" />
-      <workItem from="1491984604632" duration="16804000" />
+      <workItem from="1491984604632" duration="18581000" />
     </task>
     <task id="LOCAL-00001" summary="zz 2">
       <created>1491917197849</created>
@@ -484,7 +442,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115629000" />
+    <option name="totallyTimeSpent" value="117406000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1517,10 +1475,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/vegas/vegas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="66" column="28" lean-forward="true" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="114" column="22" lean-forward="true" selection-start-line="114" selection-start-column="22" selection-end-line="114" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2686">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerExec.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="1424" column="84" lean-forward="true" selection-start-line="1424" selection-start-column="84" selection-end-line="1424" selection-end-column="84" />
+        <state relative-caret-position="586">
+          <caret line="1711" column="61" lean-forward="true" selection-start-line="1711" selection-start-column="61" selection-end-line="1711" selection-end-column="61" />
           <folding>
             <marker date="1489677782082" expanded="true" signature="16389:16403" ph="SELECT * FRO... ${$d['table_from']}" />
             <marker date="1489677782082" expanded="true" signature="41268:41520" ph="SELECT hdr.i... brk_global_vars_hdr" />
@@ -1548,30 +1530,6 @@
             <marker date="1489677782082" expanded="true" signature="91063:91137" ph="DELETE FROM " />
             <marker date="1489677782082" expanded="true" signature="95935:96179" ph="SELECT hdr.i... brk_global_vars_hdr" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2686">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/vegas/vegas.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="66" column="28" lean-forward="true" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="114" column="22" lean-forward="true" selection-start-line="114" selection-start-column="22" selection-end-line="114" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>

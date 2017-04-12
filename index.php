@@ -65,7 +65,7 @@
         <i class='img' data-src='./img/8.png'></i>
         <i class='img' data-src='./img/9.jpg'></i>
         <i class='img' data-src='./img/10.png'></i>
-        <i class='img' data-src='./img/11.png'></i>
+        <!-- <i class='img' data-src='./img/11.png'></i> -->
         <i class='img' data-src='./img/12.png'></i>
         <i class='img' data-src='./img/13.png'></i>
         <i class='img' data-src='./img/14.jpg'></i>
@@ -215,7 +215,7 @@ if(!empty($scanned_directory)) {
     function nextAudioNode() {
         var element = document.getElementById('musica');
         i = Math.floor((Math.random() * <?php echo $count - 1; ?>) + 1);
-        alert(i);
+        //alert(i);
         element.src = "music/" + elements[i];
         element.play();
     }
