@@ -116,7 +116,7 @@ $(document).ready(function() {
         delay: 20000,
         shuffle: true,
         slides: imageSlides,
-    	//transition: [ 'zoomOut', 'burn' ],
+    	transition: [ 'fade','zoomOut', 'burn' ],
 		animation: [ 'kenburnsUp', 'kenburnsDown', 'kenburnsLeft', 'kenburnsRight' ]
     });
 

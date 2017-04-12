@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ec9a6a3-1571-4700-9675-66325c70bee0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,131 +15,80 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DockManager">
+    <window id="2">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/index.php">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="-2686">
+                    <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+                    <folding />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ImportProduct.php" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/ImportProduct.php">
+      <file leaf-file-name="dataBrockerExec.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerExec.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="991">
-              <caret line="1456" column="0" lean-forward="false" selection-start-line="1456" selection-start-column="0" selection-end-line="1456" selection-end-column="0" />
+            <state relative-caret-position="348">
+              <caret line="1424" column="84" lean-forward="true" selection-start-line="1424" selection-start-column="84" selection-end-line="1424" selection-end-column="84" />
               <folding>
-                <element signature="e#665#7410#0#PHP" expanded="false" />
-                <element signature="n#__construct#0;n#ImportProduct#0;n#!!top" expanded="false" />
-                <element signature="n#getPaths#0;n#ImportProduct#0;n#!!top" expanded="false" />
-                <element signature="n#getTemplateFile#0;n#ImportProduct#0;n#!!top" expanded="false" />
-                <element signature="n#setFileSerialNumberConvertLines#0;n#ImportProduct#0;n#!!top" expanded="false" />
-                <element signature="e#10188#10841#0#PHP" expanded="false" />
-                <element signature="e#10460#10841#0#PHP" expanded="false" />
-                <element signature="e#10909#11333#0#PHP" expanded="false" />
-                <element signature="e#12202#37874#0#PHP" expanded="false" />
-                <element signature="e#33868#37849#0#PHP" expanded="false" />
-                <element signature="e#38022#43479#0#PHP" expanded="false" />
-                <element signature="e#43625#46242#0#PHP" expanded="false" />
-                <element signature="e#46387#48469#0#PHP" expanded="false" />
-                <element signature="e#48611#50677#0#PHP" expanded="false" />
-                <element signature="e#50820#52789#0#PHP" expanded="false" />
-                <element signature="e#52949#54512#0#PHP" expanded="false" />
-                <element signature="e#54664#61315#0#PHP" expanded="false" />
-                <element signature="e#61459#68624#0#PHP" expanded="false" />
-                <element signature="e#73505#80104#0#PHP" expanded="false" />
-                <element signature="n#correctBoolean#0;n#ImportProduct#0;n#!!top" expanded="false" />
-                <marker date="1492007643970" expanded="true" signature="12981:13079" ph="select * fro... products" />
-                <marker date="1492007643970" expanded="true" signature="13407:13472" ph="update iberi... " />
-                <marker date="1492007643970" expanded="true" signature="13816:13933" ph="select id fr... product_units" />
-                <marker date="1492007643970" expanded="true" signature="14230:14307" ph="select id fr... currency" />
-                <marker date="1492007643970" expanded="true" signature="14585:15402" ph="select ttg.i... taxes_classifications" />
-                <marker date="1492007643970" expanded="true" signature="15248:15305" ph="select tax_d... units" />
-                <marker date="1492007643970" expanded="true" signature="15759:16452" ph="select tec.r... taxes_exemption_codes" />
-                <marker date="1492007643970" expanded="true" signature="16290:16368" ph="select iberi... " />
-                <marker date="1492007643970" expanded="true" signature="16916:17130" ph="select id fr... accounting_classifications" />
-                <marker date="1492007643970" expanded="true" signature="18226:18367" ph="select id fr... product_categories" />
-                <marker date="1492007643970" expanded="true" signature="18712:19626" ph="select ttg.i... taxes_classifications" />
-                <marker date="1492007643970" expanded="true" signature="19447:19504" ph="select tax_d... units" />
-                <marker date="1492007643970" expanded="true" signature="21150:21173" ph="SELECT x.acr... " />
-                <marker date="1492007643970" expanded="true" signature="21498:21588" ph="select id, n... product_properties" />
-                <marker date="1492007643970" expanded="true" signature="22303:22437" ph="select id, n... product_properties_data" />
-                <marker date="1492007643970" expanded="true" signature="23791:24004" ph="select ppd.a... product_properties" />
-                <marker date="1492007643970" expanded="true" signature="25344:25505" ph="select max(s... products" />
-                <marker date="1492007643970" expanded="true" signature="26480:26694" ph="select id fr... accounting_classifications" />
-                <marker date="1492007643970" expanded="true" signature="27375:27516" ph="select id fr... product_categories" />
-                <marker date="1492007643970" expanded="true" signature="28005:28122" ph="select id fr... product_units" />
-                <marker date="1492007643970" expanded="true" signature="28963:29040" ph="select id fr... currency" />
-                <marker date="1492007643970" expanded="true" signature="29490:30263" ph="select ttg.i... taxes_classifications" />
-                <marker date="1492007643970" expanded="true" signature="30117:30174" ph="select tax_d... units" />
-                <marker date="1492007643970" expanded="true" signature="30398:31268" ph="select ttg.i... taxes_classifications" />
-                <marker date="1492007643970" expanded="true" signature="31097:31154" ph="select tax_d... units" />
-                <marker date="1492007643970" expanded="true" signature="31566:32259" ph="select tec.r... taxes_exemption_codes" />
-                <marker date="1492007643970" expanded="true" signature="32097:32175" ph="select iberi... " />
-                <marker date="1492007643970" expanded="true" signature="32541:33205" ph="insert into iberia.products... " />
-                <marker date="1492007643970" expanded="true" signature="34217:34307" ph="select id, n... product_properties" />
-                <marker date="1492007643970" expanded="true" signature="34870:35004" ph="select id, n... product_properties_data" />
-                <marker date="1492007643970" expanded="true" signature="35581:35848" ph="insert into iberia.rel_product_property_data... " />
-                <marker date="1492007643970" expanded="true" signature="36962:37030" ph="select id fr... lcs_products" />
-                <marker date="1492007643970" expanded="true" signature="37230:37340" ph="update iberi... " />
-                <marker date="1492007643970" expanded="true" signature="37530:37632" ph="insert into iberia.lcs_products... " />
-                <marker date="1492007643970" expanded="true" signature="38991:39092" ph="select id fr... products" />
-                <marker date="1492007643970" expanded="true" signature="39448:39516" ph="select * fro... products_info" />
-                <marker date="1492007643970" expanded="true" signature="39641:39772" ph="select id fr... technical_data" />
-                <marker date="1492007643970" expanded="true" signature="40102:41659" ph="update iberi... " />
-                <marker date="1492007643970" expanded="true" signature="42286:42926" ph="insert into iberia.products_info... " />
-                <marker date="1492007643970" expanded="true" signature="43809:43908" ph="select id fr... products" />
-                <marker date="1492007643970" expanded="true" signature="44298:44385" ph="select * fro... product_barcodes" />
-                <marker date="1492007643970" expanded="true" signature="44569:44702" ph="update iberi... " />
-                <marker date="1492007643970" expanded="true" signature="45329:45477" ph="insert into iberia.product_barcodes... " />
-                <marker date="1492007643970" expanded="true" signature="46521:46622" ph="select id fr... products" />
-                <marker date="1492007643970" expanded="true" signature="46958:47112" ph="select id fr... dimensions_data" />
-                <marker date="1492007643970" expanded="true" signature="47474:47606" ph="select * fro... rel_product_dimension_data" />
-                <marker date="1492007643970" expanded="true" signature="47808:47945" ph="insert into iberia.rel_product_dimension_data... " />
-                <marker date="1492007643970" expanded="true" signature="48738:48839" ph="select id fr... products" />
-                <marker date="1492007643970" expanded="true" signature="49177:49330" ph="select id fr... dimensions_data" />
-                <marker date="1492007643970" expanded="true" signature="49690:49822" ph="select * fro... rel_product_dimension_data" />
-                <marker date="1492007643970" expanded="true" signature="50020:50157" ph="insert into iberia.rel_product_dimension_data... " />
-                <marker date="1492007643970" expanded="true" signature="51119:51220" ph="select id fr... products" />
-                <marker date="1492007643970" expanded="true" signature="51702:51793" ph="select id fr... suppliers" />
-                <marker date="1492007643970" expanded="true" signature="51957:52055" ph="select * fro... lote" />
-                <marker date="1492007643970" expanded="true" signature="52193:52334" ph="insert into iberia.lote... " />
-                <marker date="1492007643970" expanded="true" signature="53104:53205" ph="select id fr... products" />
-                <marker date="1492007643970" expanded="true" signature="53551:53683" ph="select * fro... product_serial_numbers" />
-                <marker date="1492007643970" expanded="true" signature="53856:53993" ph="insert into iberia.product_serial_numbers... " />
-                <marker date="1492007643970" expanded="true" signature="55175:55276" ph="select id fr... products" />
-                <marker date="1492007643970" expanded="true" signature="55774:55851" ph="select id fr... products" />
-                <marker date="1492007643970" expanded="true" signature="56054:56131" ph="select id fr... services" />
-                <marker date="1492007643970" expanded="true" signature="56540:56680" ph="select id fr... product_units" />
-                <marker date="1492007643970" expanded="true" signature="57174:57516" ph="select a.id transformation_order_price_origin" />
-                <marker date="1492007643970" expanded="true" signature="58050:58318" ph="select id as... transformation_order_steps" />
-                <marker date="1492007643970" expanded="true" signature="58856:58995" ph="select * fro... rel_product_kit" />
-                <marker date="1492007643970" expanded="true" signature="59177:59836" ph="update iberi... " />
-                <marker date="1492007643970" expanded="true" signature="60388:60762" ph="insert into iberia.rel_product_kit... " />
-                <marker date="1492007643970" expanded="true" signature="61802:61903" ph="select id fr... products" />
-                <marker date="1492007643970" expanded="true" signature="62252:62329" ph="select id fr... currency" />
-                <marker date="1492007643970" expanded="true" signature="62780:65978" ph="SELECT id, d... x" />
-                <marker date="1492007643970" expanded="true" signature="62829:65900" ph="select disti... " />
-                <marker date="1492007643970" expanded="true" signature="66952:67128" ph="update iberi... " />
-                <marker date="1492007643970" expanded="true" signature="67800:68054" ph="insert into iberia.price_table_lin... " />
-                <marker date="1492007643970" expanded="true" signature="69280:69381" ph="select id fr... products" />
-                <marker date="1492007643970" expanded="true" signature="70283:70387" ph="select id fr... suppliers" />
-                <marker date="1492007643970" expanded="true" signature="70792:70906" ph="select * fro... rel_product_suppliers" />
-                <marker date="1492007643970" expanded="true" signature="71109:71745" ph="update iberi... " />
-                <marker date="1492007643970" expanded="true" signature="72418:72719" ph="insert into iberia.rel_product_suppliers... " />
-                <marker date="1492007643970" expanded="true" signature="74712:74813" ph="select id fr... products" />
-                <marker date="1492007643970" expanded="true" signature="75236:75371" ph="select id fr... departments" />
-                <marker date="1492007643970" expanded="true" signature="75762:75843" ph="select id fr... product_units" />
-                <marker date="1492007643970" expanded="true" signature="76306:76412" ph="select * fro... product_barcodes" />
-                <marker date="1492007643970" expanded="true" signature="76581:76727" ph="insert into iberia.product_barcodes... " />
-                <marker date="1492007643970" expanded="true" signature="77444:77807" ph="SELECT au.*,... rel_product_alternative_units" />
-                <marker date="1492007643970" expanded="true" signature="77955:78398" ph="update iberi... " />
-                <marker date="1492007643970" expanded="true" signature="79075:79491" ph="insert into iberia.rel_product_alternative_units... " />
+                <marker date="1489677782082" expanded="true" signature="16389:16403" ph="SELECT * FRO... ${$d['table_from']}" />
+                <marker date="1489677782082" expanded="true" signature="41268:41520" ph="SELECT hdr.i... brk_global_vars_hdr" />
+                <marker date="1489677782082" expanded="true" signature="43458:43518" ph="SELECT * FRO... pg_class" />
+                <marker date="1489677782082" expanded="true" signature="43554:43674" ph="SELECT * FRO... TABLES" />
+                <marker date="1489677782082" expanded="true" signature="46382:46499" ph="SELECT * FRO... ${$mappData['query']}" />
+                <marker date="1489677782082" expanded="true" signature="46668:46785" ph="SELECT * FRO... ${$mappData['query']}" />
+                <marker date="1489677782082" expanded="true" signature="50433:50653" ph="SELECT * FRO... ROW_NUMBER" />
+                <marker date="1489677782082" expanded="true" signature="50449:50539" ph="select ROW_N... ${$mappData['table_from']}" />
+                <marker date="1489677782082" expanded="true" signature="51036:51050" ph="SELECT * FRO... ${$mappData['table_from']}" />
+                <marker date="1489677782082" expanded="true" signature="51340:51448" ph="SELECT * FRO... ${$mappData['table_from']}" />
+                <marker date="1489677782082" expanded="true" signature="51636:51651" ph="SELECT * FRO... ${$mappData['table_from']}" />
+                <marker date="1489677782082" expanded="true" signature="52217:52232" ph="SELECT * FRO... ${$mappData['table_from']}" />
+                <marker date="1489677782082" expanded="true" signature="67652:67770" ph="SELECT ${$pk... ${$tabela_destino_user}" />
+                <marker date="1489677782082" expanded="true" signature="71287:71395" ph="INSERT INTO ${$tabela_destino_user}... " />
+                <marker date="1489677782082" expanded="true" signature="71476:71623" ph="INSERT INTO ${$tabela_destino_user}... " />
+                <marker date="1489677782082" expanded="true" signature="71815:71956" ph="INSERT INTO ${$tabela_destino_user}... " />
+                <marker date="1489677782082" expanded="true" signature="72019:72147" ph="INSERT INTO ${$tabela}... " />
+                <marker date="1489677782082" expanded="true" signature="73493:73591" ph="SELECT ${$pk... ${$tabela}" />
+                <marker date="1489677782082" expanded="true" signature="77339:77434" ph="INSERT INTO ${$tabela}... " />
+                <marker date="1489677782082" expanded="true" signature="77511:77645" ph="INSERT INTO ${$tabela}... " />
+                <marker date="1489677782082" expanded="true" signature="77826:77954" ph="INSERT INTO ${$tabela}... " />
+                <marker date="1489677782082" expanded="true" signature="78013:78141" ph="INSERT INTO ${$tabela}... " />
+                <marker date="1489677782082" expanded="true" signature="88520:88607" ph="DELETE FROM " />
+                <marker date="1489677782082" expanded="true" signature="91063:91137" ph="DELETE FROM " />
+                <marker date="1489677782082" expanded="true" signature="95935:96179" ph="SELECT hdr.i... brk_global_vars_hdr" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2091">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="307">
+              <caret line="114" column="22" lean-forward="true" selection-start-line="114" selection-start-column="22" selection-end-line="114" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vegas.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/vegas/vegas.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="66" column="28" lean-forward="true" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -200,6 +148,7 @@
         <option value="$USER_HOME$/Desktop/PHP/conn.php" />
         <option value="$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/ImportProduct.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/js/main.js" />
       </list>
     </option>
   </component>
@@ -211,7 +160,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -319,7 +268,7 @@
       <workItem from="1491475369503" duration="40016000" />
       <workItem from="1491811953503" duration="48764000" />
       <workItem from="1491984368102" duration="202000" />
-      <workItem from="1491984604632" duration="12331000" />
+      <workItem from="1491984604632" duration="16804000" />
     </task>
     <task id="LOCAL-00001" summary="zz 2">
       <created>1491917197849</created>
@@ -535,10 +484,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111156000" />
+    <option name="totallyTimeSpent" value="115629000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16204691" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -868,13 +817,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="56" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerExec.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="229" column="56" lean-forward="true" selection-start-line="229" selection-start-column="56" selection-end-line="229" selection-end-column="56" />
         </state>
       </provider>
     </entry>
@@ -1575,10 +1517,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerExec.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="1424" column="84" lean-forward="true" selection-start-line="1424" selection-start-column="84" selection-end-line="1424" selection-end-column="84" />
+          <folding>
+            <marker date="1489677782082" expanded="true" signature="16389:16403" ph="SELECT * FRO... ${$d['table_from']}" />
+            <marker date="1489677782082" expanded="true" signature="41268:41520" ph="SELECT hdr.i... brk_global_vars_hdr" />
+            <marker date="1489677782082" expanded="true" signature="43458:43518" ph="SELECT * FRO... pg_class" />
+            <marker date="1489677782082" expanded="true" signature="43554:43674" ph="SELECT * FRO... TABLES" />
+            <marker date="1489677782082" expanded="true" signature="46382:46499" ph="SELECT * FRO... ${$mappData['query']}" />
+            <marker date="1489677782082" expanded="true" signature="46668:46785" ph="SELECT * FRO... ${$mappData['query']}" />
+            <marker date="1489677782082" expanded="true" signature="50433:50653" ph="SELECT * FRO... ROW_NUMBER" />
+            <marker date="1489677782082" expanded="true" signature="50449:50539" ph="select ROW_N... ${$mappData['table_from']}" />
+            <marker date="1489677782082" expanded="true" signature="51036:51050" ph="SELECT * FRO... ${$mappData['table_from']}" />
+            <marker date="1489677782082" expanded="true" signature="51340:51448" ph="SELECT * FRO... ${$mappData['table_from']}" />
+            <marker date="1489677782082" expanded="true" signature="51636:51651" ph="SELECT * FRO... ${$mappData['table_from']}" />
+            <marker date="1489677782082" expanded="true" signature="52217:52232" ph="SELECT * FRO... ${$mappData['table_from']}" />
+            <marker date="1489677782082" expanded="true" signature="67652:67770" ph="SELECT ${$pk... ${$tabela_destino_user}" />
+            <marker date="1489677782082" expanded="true" signature="71287:71395" ph="INSERT INTO ${$tabela_destino_user}... " />
+            <marker date="1489677782082" expanded="true" signature="71476:71623" ph="INSERT INTO ${$tabela_destino_user}... " />
+            <marker date="1489677782082" expanded="true" signature="71815:71956" ph="INSERT INTO ${$tabela_destino_user}... " />
+            <marker date="1489677782082" expanded="true" signature="72019:72147" ph="INSERT INTO ${$tabela}... " />
+            <marker date="1489677782082" expanded="true" signature="73493:73591" ph="SELECT ${$pk... ${$tabela}" />
+            <marker date="1489677782082" expanded="true" signature="77339:77434" ph="INSERT INTO ${$tabela}... " />
+            <marker date="1489677782082" expanded="true" signature="77511:77645" ph="INSERT INTO ${$tabela}... " />
+            <marker date="1489677782082" expanded="true" signature="77826:77954" ph="INSERT INTO ${$tabela}... " />
+            <marker date="1489677782082" expanded="true" signature="78013:78141" ph="INSERT INTO ${$tabela}... " />
+            <marker date="1489677782082" expanded="true" signature="88520:88607" ph="DELETE FROM " />
+            <marker date="1489677782082" expanded="true" signature="91063:91137" ph="DELETE FROM " />
+            <marker date="1489677782082" expanded="true" signature="95935:96179" ph="SELECT hdr.i... brk_global_vars_hdr" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2091">
+        <state relative-caret-position="-2686">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vegas/vegas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="66" column="28" lean-forward="true" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="114" column="22" lean-forward="true" selection-start-line="114" selection-start-column="22" selection-end-line="114" selection-end-column="22" />
           <folding />
         </state>
       </provider>
