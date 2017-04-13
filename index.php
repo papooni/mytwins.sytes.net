@@ -55,7 +55,7 @@
 
     <!-- BEGIN OF Slideshow Background -->
     <div class="cover-bg pos-abs full-size slide-show">
-        <i class='img' data-src='./img/1.png'></i>
+        <!--<i class='img' data-src='./img/1.png'></i>
         <i class='img' data-src='./img/2.png'></i>
         <i class='img' data-src='./img/3.png'></i>
         <i class='img' data-src='./img/4.png'></i>
@@ -66,16 +66,16 @@
         <i class='img' data-src='./img/8.png'></i>
         <i class='img' data-src='./img/8.png'></i>
         <i class='img' data-src='./img/9.jpg'></i>
-        <i class='img' data-src='./img/10.png'></i>
+        <i class='img' data-src='./img/10.png'></i>-->
         <!-- <i class='img' data-src='./img/11.png'></i> -->
-        <i class='img' data-src='./img/12.png'></i>
+        <!--<i class='img' data-src='./img/12.png'></i>
         <i class='img' data-src='./img/13.png'></i>
         <i class='img' data-src='./img/14.jpg'></i>
         <i class='img' data-src='./img/15.png'></i>
         <i class='img' data-src='./img/16.png'></i>
         <i class='img' data-src='./img/17.png'></i>
         <i class='img' data-src='./img/18.png'></i>
-        <i class='img' data-src='./img/19.jpg'></i>
+        <i class='img' data-src='./img/19.jpg'></i>-->
         <?php
         $dir = "/home/forge/mytwins.sytes.net/img/";
         $scanned_directory = array_diff(scandir($dir), array('..', '.'));
