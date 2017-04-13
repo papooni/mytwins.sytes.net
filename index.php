@@ -83,10 +83,11 @@
         if (!empty($scanned_directory)) {
             foreach ($scanned_directory as $key => $ficheiro) {
                 $file = pathinfo($ficheiro);
-                if ($file['extension'] == 'jpg'){ //|| ($file_parts['extension'] == 'png')){ //&& filesize($ficheiro) > 100 && strcmp($file_parts['filename'], 'bg-default') != 0) {
+                echo $ficheiro;
+               // if ($file['extension'] == 'jpg'){ //|| ($file_parts['extension'] == 'png')){ //&& filesize($ficheiro) > 100 && strcmp($file_parts['filename'], 'bg-default') != 0) {
                    $count = $count + 1;
               /*  <i class='img' data-src='./img/<?php $ficheiro; ?>' ></i>;*/
-               }
+               //}
             }
         }
         echo '<h1>Nr de Ficheiros Aceitáveis -> </h1>'.$count;
