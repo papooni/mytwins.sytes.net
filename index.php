@@ -78,11 +78,9 @@
         <i class='img' data-src='./img/19.jpg'></i>-->
         <?php
         $dir = "/home/forge/mytwins.sytes.net/img";
-        //$scanned_directory = array_diff(scandir($dir), array('..', '.'));
-        $scanned_directory = scandir($dir);
-        $count = 0;
-        echo '<h4>SCANNED DIRECTORY</h4>';
+        $scanned_directory = array_slice(scandir($dir), 2);
         print_r($scanned_directory);
+        $count = 0;
         if (!empty($scanned_directory)) {
             foreach ($scanned_directory as $key => $ficheiro) {
                 //$file = pathinfo($ficheiro);
@@ -97,7 +95,7 @@
         }else{
             echo 'Não vejo nada!';
         }
-       // echo '<h1>Nr de Ficheiros Aceitáveis -> </h1>'.$count;
+       echo '<h1>Nr de Ficheiros Aceitáveis -> </h1>'.$count;
         ?>
 
     </div>
