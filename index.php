@@ -91,6 +91,8 @@
               /*  <i class='img' data-src='./img/<?php $ficheiro; ?>' ></i>;*/
                //}
             }
+        }else{
+            echo 'Não vejo nada!';
         }
        // echo '<h1>Nr de Ficheiros Aceitáveis -> </h1>'.$count;
         ?>
