@@ -77,14 +77,14 @@
         <i class='img' data-src='./img/18.png'></i>
         <i class='img' data-src='./img/19.jpg'></i>-->
         <?php
-        $dir = "/home/forge/mytwins.sytes.net/img";
+        $dir = "/home/forge/mytwins.sytes.net/img/";
         $scanned_directory = array_slice(scandir($dir), 2);
         //print_r($scanned_directory);
         $count = 0;
         if (!empty($scanned_directory)) {
             foreach ($scanned_directory as $key => $ficheiro) {
                 $file = pathinfo($ficheiro);
-                if (($file['extension'] == 'jpg' || $file['extension'] == 'png' ) && !is_dir($ficheiro) && filesize($ficheiro) > 100){
+                if (($file['extension'] == 'jpg' || $file['extension'] == 'png' ) && !is_dir($ficheiro) && filesize($dir . $ficheiro) > 100){
                 echo ' >>>> '.$ficheiro . ' <<<< <br>';
                 //echo $dir  . '<br>';
                 //echo $scanned_directory . '<br>';
