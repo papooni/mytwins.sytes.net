@@ -84,6 +84,7 @@
         if (!empty($scanned_directory)) {
             foreach ($scanned_directory as $key => $ficheiro) {
                 $file = pathinfo($ficheiro);
+                echo 'file ---- '.$file;
                 if (($file['extension'] == 'jpg' || $file['extension'] == 'png' ) && !is_dir($ficheiro) && filesize($dir . $ficheiro) > 100){
                 echo ' >>>> '.$ficheiro . ' <<<< <br>';
                 //echo $dir  . '<br>';
@@ -96,7 +97,7 @@
         }else{
             echo 'Não vejo nada!';
         }
-       echo '<h1>Nr de Ficheiros Aceitáveis -> '.$count . '</h1>';
+       echo 'files -> '.$count ;
         ?>
 
     </div>
