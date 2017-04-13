@@ -10,7 +10,7 @@
     <meta name="description" content="A chegada do Tico e do Teco">
 
     <!-- Disable screen scaling-->
-    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Place favicon.ico and apple-touch-icon(s) in the root directory -->
 
@@ -84,7 +84,7 @@
         if (!empty($scanned_directory)) {
             foreach ($scanned_directory as $key => $ficheiro) {
                 $file = pathinfo($ficheiro);
-                echo 'file ---- '.$file;
+                echo 'file ---- '. print_r($file);
                 if (($file['extension'] == 'jpg' || $file['extension'] == 'png' ) && !is_dir($ficheiro) && filesize($dir . $ficheiro) > 100){
                 echo ' >>>> '.$ficheiro . ' <<<< <br>';
                 //echo $dir  . '<br>';
