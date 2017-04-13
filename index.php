@@ -84,7 +84,7 @@
         if (!empty($scanned_directory)) {
             foreach ($scanned_directory as $key => $ficheiro) {
                 $file = pathinfo($ficheiro);
-                if ($file['extension'] == 'jpg' || $file_parts['extension'] == 'png'){
+                if (($file['extension'] == 'jpg' || $file['extension'] == 'png' ) && !is_dir($ficheiro) && filesize($ficheiro) > 100){
                 echo ' >>>> '.$ficheiro . ' <<<< <br>';
                 //echo $dir  . '<br>';
                 //echo $scanned_directory . '<br>';
