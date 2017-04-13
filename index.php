@@ -83,7 +83,7 @@
         if (!empty($scanned_directory)) {
             foreach ($scanned_directory as $key => $ficheiro) {
                 //$file = pathinfo($ficheiro);
-                echo $ficheiro . '<br>';
+                echo ' >>>> '.$ficheiro . ' <<<< <br>';
                 //echo $dir  . '<br>';
                 //echo $scanned_directory . '<br>';
                // if ($file['extension'] == 'jpg'){ //|| ($file_parts['extension'] == 'png')){ //&& filesize($ficheiro) > 100 && strcmp($file_parts['filename'], 'bg-default') != 0) {
