@@ -82,12 +82,12 @@
         if (!empty($scanned_directory)) {
             foreach ($scanned_directory as $key => $ficheiro) {
                 $file_parts = pathinfo($ficheiro);
-                if (($file_parts['extension'] == 'jpg' || $file_parts['extension'] == 'png') && filesize($ficheiro) > 100 && strcmp($file_parts['filename'],'bg-default') != 0) {
-                     ?>
-                    <i class='img' data-src='./img/<?php echo $ficheiro; ?>' ></i>;
-            <?  }
+                if (($file_parts['extension'] == 'jpg' || $file_parts['extension'] == 'png') && filesize($ficheiro) > 100 && strcmp($file_parts['filename'], 'bg-default') != 0) {
+                   ?> <i class='img' data-src='./img/<?php echo $ficheiro; ?>' ></i>;<?
+                }
             }
-        } ?>
+        }
+        ?>
 
     </div>
     <!-- END OF Slideshow Background -->
