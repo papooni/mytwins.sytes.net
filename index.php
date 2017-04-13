@@ -1,6 +1,6 @@
 <html>
 <head>
-    <meta http-equiv="content-type" >
+    <meta http-equiv="content-type">
     <meta charset="utf-8">
 
     <!-- Page Title Here -->
@@ -37,12 +37,14 @@
 </head>
 <body id="menu" class="alt-bg">
 <!--[if lt IE 8]>
-<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade
+    your browser</a> to improve your experience.</p>
 <![endif]-->
 
 <!-- Page Loader -->
 <div class="page-loader" id="page-loader">
-    <div><i class="ion ion-loading-d"></i><p>loading</p></div>
+    <div><i class="ion ion-loading-d"></i>
+        <p>loading</p></div>
 </div>
 
 
@@ -74,6 +76,18 @@
         <i class='img' data-src='./img/17.png'></i>
         <i class='img' data-src='./img/18.png'></i>
         <i class='img' data-src='./img/19.jpg'></i>
+        <?php
+        $dir = "/home/forge/mytwins.sytes.net/img/";
+        $scanned_directory = array_diff(scandir($dir), array('..', '.'));
+        if (!empty($scanned_directory)) {
+            foreach ($scanned_directory as $key => $ficheiro) {
+                $file_parts = pathinfo($ficheiro);
+                if (($file_parts['extension'] == 'jpg' || $file_parts['extension'] == 'png') && strpos($file_parts['filename'], 'logo') == false ) {
+                    echo " <i class='img' data-src='./img/$ficheiro'></i>";
+                }
+            }
+        } ?>
+
     </div>
     <!-- END OF Slideshow Background -->
 
@@ -130,7 +144,7 @@
 
 
         <footer>
-            <p>O Nosso Mundo vai sacudir,  <strong>vai abalar!</strong></p>
+            <p>O Nosso Mundo vai sacudir, <strong>vai abalar!</strong></p>
         </footer>
     </div>
 </div>
@@ -173,8 +187,8 @@
 </footer>
 <!-- End of site footer -->
 
-<audio id="musica" controls autoplay onended="nextAudioNode()" >
-   <source src="heart.mp3"/>
+<audio id="musica" controls autoplay onended="nextAudioNode()">
+    <source src="heart.mp3"/>
 </audio>
 
 <script src="./js/vendor/jquery-1.11.2.min.js"></script>
@@ -195,11 +209,11 @@ $dir = "/home/forge/mytwins.sytes.net/music/";
 $musicas = array();
 $count = 0;
 $scanned_directory = array_diff(scandir($dir), array('..', '.'));
-if(!empty($scanned_directory)) {
+if (!empty($scanned_directory)) {
     foreach ($scanned_directory as $key => $ficheiro) {
         $file_parts = pathinfo($ficheiro);
         if ($file_parts['extension'] == 'mp3') {
-            array_push($musicas,$ficheiro);
+            array_push($musicas, $ficheiro);
             $count = $count + 1;
         }
     }
@@ -209,7 +223,7 @@ if(!empty($scanned_directory)) {
 <script type="text/javascript">
     var elements = new Array();
     <?php foreach ($musicas as $key => $musica){ ?>
-    elements.push("<?php echo $musica; ?>") ;
+    elements.push("<?php echo $musica; ?>");
     <?php } ?>
     var i;
     function nextAudioNode() {
