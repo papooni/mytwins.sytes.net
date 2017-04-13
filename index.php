@@ -82,8 +82,8 @@
         if (!empty($scanned_directory)) {
             foreach ($scanned_directory as $key => $ficheiro) {
                 $file_parts = pathinfo($ficheiro);
-                if (($file_parts['extension'] == 'jpg' || $file_parts['extension'] == 'png') && strpos($file_parts['filename'], 'logo') === false ) {
-                    echo " <i class='img' data-src='./img/$ficheiro'></i>";
+                if (($file_parts['extension'] == 'jpg' || $file_parts['extension'] == 'png') && filesize($ficheiro) > 100 && strcmp($file_parts['filename'],'bg-default') != 0) {
+                    echo "<i class='img' data-src='./img/$ficheiro'></i>";
                 }
             }
         } ?>
