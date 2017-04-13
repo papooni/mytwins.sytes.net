@@ -21,8 +21,8 @@
       <file leaf-file-name="dataBrockerExec.php" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerExec.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="823">
-              <caret line="1996" column="18" lean-forward="true" selection-start-line="1996" selection-start-column="18" selection-end-line="1996" selection-end-column="18" />
+            <state relative-caret-position="484">
+              <caret line="1098" column="50" lean-forward="true" selection-start-line="1098" selection-start-column="50" selection-end-line="1098" selection-end-column="50" />
               <folding>
                 <element signature="n#construct#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
                 <element signature="n#exe#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
@@ -37,7 +37,6 @@
                 <element signature="n#php_exp_logging#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
                 <element signature="n#prepare_php_eval_other_tags#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
                 <element signature="n#finalizeAbort#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
-                <element signature="n#collectData#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
                 <element signature="n#doBlockExecution#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
                 <element signature="e#55136#55490#0#PHP" expanded="false" />
                 <element signature="e#57197#66396#0#PHP" expanded="false" />
@@ -81,17 +80,123 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="dataBrockerConfig.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerConfig.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="2355" column="0" lean-forward="true" selection-start-line="2355" selection-start-column="0" selection-end-line="2355" selection-end-column="0" />
+              <folding>
+                <element signature="n#getTemplateReg#0;n#dataBrockerConfig#0;n#!!top" expanded="false" />
+                <element signature="n#duplicateReg#0;n#dataBrockerConfig#0;n#!!top" expanded="false" />
+                <element signature="n#getInbetweenStrings#0;n#dataBrockerConfig#0;n#!!top" expanded="false" />
+                <element signature="n#validation#0;n#dataBrockerConfig#0;n#!!top" expanded="false" />
+                <element signature="n#get_admin_history#0;n#dataBrockerConfig#0;n#!!top" expanded="false" />
+                <element signature="n#get_admin_password_verify#0;n#dataBrockerConfig#0;n#!!top" expanded="false" />
+                <marker date="1491303403720" expanded="true" signature="927:3426" ph="SELECT conf.... brk_configurations" />
+                <marker date="1491303403720" expanded="true" signature="3542:3982" ph="select act.n... brk_activity" />
+                <marker date="1491303403720" expanded="true" signature="4623:4888" ph="select serv.... brk_servers" />
+                <marker date="1491303403720" expanded="true" signature="5002:5095" ph="SELECT * FRO... brk_databasetypes" />
+                <marker date="1491303403720" expanded="true" signature="5951:6252" ph="SELECT serv.... brk_servers" />
+                <marker date="1491303403720" expanded="true" signature="6458:7021" ph="SELECT conf.... brk_configurations" />
+                <marker date="1491303403720" expanded="true" signature="7105:7309" ph="select id,fu... brk_server_function" />
+                <marker date="1491303403720" expanded="true" signature="7508:7706" ph="select * fro... brk_server_function_arguments" />
+                <marker date="1491303403720" expanded="true" signature="9867:10113" ph="insert into $... " />
+                <marker date="1491303403720" expanded="true" signature="10207:10599" ph="insert into $... " />
+                <marker date="1491303403720" expanded="true" signature="10721:11027" ph="update ${{$t... " />
+                <marker date="1491303403720" expanded="true" signature="11121:11790" ph="update ${{$t... " />
+                <marker date="1491303403720" expanded="true" signature="11913:12048" ph="update ${{$t... " />
+                <marker date="1491303403720" expanded="true" signature="12125:12387" ph="update ${{$t... " />
+                <marker date="1491303403720" expanded="true" signature="12591:12742" ph="insert into $... " />
+                <marker date="1491303403720" expanded="true" signature="13076:13271" ph="insert into $... " />
+                <marker date="1491303403720" expanded="true" signature="16754:16938" ph="SELECT serv.... $" />
+                <marker date="1491303403720" expanded="true" signature="20377:20484" ph="select * fro... ${$sql}" />
+                <marker date="1491303403720" expanded="true" signature="21162:21202" ph="select top 1... ${$sql}" />
+                <marker date="1491303403720" expanded="true" signature="22293:22425" ph="INSERT INTO iberia.brk_scripts... " />
+                <marker date="1491303403720" expanded="true" signature="22494:22666" ph="UPDATE iberi... " />
+                <marker date="1491303403720" expanded="true" signature="22881:22966" ph="UPDATE iberi... " />
+                <marker date="1491303403720" expanded="true" signature="23110:23166" ph="select * fro... brk_scripts" />
+                <marker date="1491303403720" expanded="true" signature="27960:29393" ph="INSERT INTO iberia.brk_configurations... " />
+                <marker date="1491303403720" expanded="true" signature="29468:31350" ph="UPDATE iberi... " />
+                <marker date="1491303403720" expanded="true" signature="31645:31880" ph="UPDATE iberi... " />
+                <marker date="1491303403720" expanded="true" signature="31777:31879" ph="SELECT id FR... brk_relations" />
+                <marker date="1491303403720" expanded="true" signature="31891:32033" ph="UPDATE iberi... " />
+                <marker date="1491303403720" expanded="true" signature="32044:32264" ph="UPDATE iberi... " />
+                <marker date="1491303403720" expanded="true" signature="32163:32263" ph="SELECT id FR... brk_mapping" />
+                <marker date="1491303403720" expanded="true" signature="32275:32496" ph="UPDATE iberi... " />
+                <marker date="1491303403720" expanded="true" signature="32395:32495" ph="SELECT id FR... brk_mapping" />
+                <marker date="1491303403720" expanded="true" signature="32520:32652" ph="UPDATE iberi... " />
+                <marker date="1491303403720" expanded="true" signature="35624:36163" ph="INSERT INTO iberia.brk_relations... " />
+                <marker date="1491303403720" expanded="true" signature="36848:37002" ph="INSERT INTO iberia.brk_relations_table_source... " />
+                <marker date="1491303403720" expanded="true" signature="37280:37440" ph="INSERT INTO brk_mapping" />
+                <marker date="1491303403720" expanded="true" signature="39816:40047" ph="INSERT INTO iberia.brk_maporigem... " />
+                <marker date="1491303403720" expanded="true" signature="40393:40707" ph="INSERT INTO iberia.brk_mapdestino... " />
+                <marker date="1491303403720" expanded="true" signature="40876:41276" ph="INSERT INTO iberia.brk_mapdestino... " />
+                <marker date="1491303403720" expanded="true" signature="41535:41702" ph="UPDATE iberi... " />
+                <marker date="1491303403720" expanded="true" signature="41610:41701" ph="select id fr... brk_global_vars_hdr" />
+                <marker date="1491303403720" expanded="true" signature="41721:41828" ph="UPDATE iberi... " />
+                <marker date="1491303403720" expanded="true" signature="41969:42208" ph="INSERT INTO iberia.brk_global_vars_hdr... " />
+                <marker date="1491303403720" expanded="true" signature="42378:42556" ph="INSERT INTO iberia.brk_global_vars_lin... " />
+                <marker date="1491303403720" expanded="true" signature="42741:42937" ph="DELETE FROM " />
+                <marker date="1491303403720" expanded="true" signature="42808:42912" ph="SELECT id FR... brk_relations" />
+                <marker date="1491303403720" expanded="true" signature="42947:43048" ph="DELETE FROM " />
+                <marker date="1491303403720" expanded="true" signature="43058:43239" ph="DELETE FROM " />
+                <marker date="1491303403720" expanded="true" signature="43112:43214" ph="SELECT id FR... brk_mapping" />
+                <marker date="1491303403720" expanded="true" signature="43249:43431" ph="DELETE FROM " />
+                <marker date="1491303403720" expanded="true" signature="43304:43406" ph="SELECT id FR... brk_mapping" />
+                <marker date="1491303403720" expanded="true" signature="43441:43540" ph="DELETE FROM " />
+                <marker date="1491303403720" expanded="true" signature="43550:43744" ph="DELETE FROM " />
+                <marker date="1491303403720" expanded="true" signature="43606:43719" ph="select id fr... brk_global_vars_hdr" />
+                <marker date="1491303403720" expanded="true" signature="43754:43866" ph="DELETE FROM " />
+                <marker date="1491303403720" expanded="true" signature="45125:45206" ph="UPDATE iberi... " />
+                <marker date="1491303403720" expanded="true" signature="45220:45406" ph="UPDATE iberi... " />
+                <marker date="1491303403720" expanded="true" signature="45309:45405" ph="SELECT id FR... brk_relations" />
+                <marker date="1491303403720" expanded="true" signature="45420:45510" ph="UPDATE iberi... " />
+                <marker date="1491303403720" expanded="true" signature="45524:45695" ph="UPDATE iberi... " />
+                <marker date="1491303403720" expanded="true" signature="45600:45694" ph="SELECT id FR... brk_mapping" />
+                <marker date="1491303403720" expanded="true" signature="45709:45884" ph="UPDATE iberi... " />
+                <marker date="1491303403720" expanded="true" signature="45789:45883" ph="SELECT id FR... brk_mapping" />
+                <marker date="1491303403720" expanded="true" signature="45898:45986" ph="UPDATE iberi... " />
+                <marker date="1491303403720" expanded="true" signature="49179:49797" ph="SELECT rel.i... brk_relations" />
+                <marker date="1491303403720" expanded="true" signature="51087:51232" ph="select * fro... brk_relations_table_source" />
+                <marker date="1491303403720" expanded="true" signature="54408:54532" ph="select id fr... brk_mapping" />
+                <marker date="1491303403720" expanded="true" signature="54951:55367" ph="select campo... brk_maporigem" />
+                <marker date="1491303403720" expanded="true" signature="55616:56055" ph="select campo... brk_maporigem" />
+                <marker date="1491303403720" expanded="true" signature="56209:56629" ph="select campo... " />
+                <marker date="1491303403720" expanded="true" signature="56898:57341" ph="select campo... " />
+                <marker date="1491303403720" expanded="true" signature="66461:67079" ph="SELECT rel.i... brk_relations" />
+                <marker date="1491303403720" expanded="true" signature="68373:68518" ph="select * fro... brk_relations_table_source" />
+                <marker date="1491303403720" expanded="true" signature="71702:71826" ph="select id fr... brk_mapping" />
+                <marker date="1491303403720" expanded="true" signature="72245:72661" ph="select campo... brk_maporigem" />
+                <marker date="1491303403720" expanded="true" signature="72910:73349" ph="select campo... brk_maporigem" />
+                <marker date="1491303403720" expanded="true" signature="73503:73923" ph="select campo... " />
+                <marker date="1491303403720" expanded="true" signature="74192:74635" ph="select campo... " />
+                <marker date="1491303403720" expanded="true" signature="88715:88987" ph="SELECT hdr.i... brk_global_vars_hdr" />
+                <marker date="1491303403720" expanded="true" signature="100389:100482" ph="SELECT MAX(n... $" />
+                <marker date="1491303403720" expanded="true" signature="101292:101480" ph="select count... f_get_nav_prof_perm" />
+                <marker date="1491303403720" expanded="true" signature="101553:101749" ph="select count... f_get_nav_prof_perm" />
+                <marker date="1491303403720" expanded="true" signature="102032:102137" ph="SELECT id,va... brk_global_vars_hdr" />
+                <marker date="1491303403720" expanded="true" signature="102259:102335" ph="SELECT var_d... brk_global_vars_lin" />
+                <marker date="1491303403720" expanded="true" signature="104328:104581" ph="SELECT hdr.i... brk_global_vars_hdr" />
+                <marker date="1491303403720" expanded="true" signature="105226:105408" ph="SELECT id, n... brk_configurations" />
+                <marker date="1491303403720" expanded="true" signature="105976:106258" ph="SELECT ser.i... brk_servers" />
+                <marker date="1491303403720" expanded="true" signature="107070:107352" ph="SELECT ser.i... brk_servers" />
+                <marker date="1491303403720" expanded="true" signature="109829:110752" ph="SELECT iv.va... internal_validations" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="767">
-              <caret line="94" column="34" lean-forward="true" selection-start-line="94" selection-start-column="34" selection-end-line="94" selection-end-column="34" />
+            <state relative-caret-position="427">
+              <caret line="74" column="51" lean-forward="true" selection-start-line="74" selection-start-column="51" selection-end-line="74" selection-end-column="51" />
               <folding>
-                <marker date="1492092137520" expanded="true" signature="1388:1541" ph="..." />
-                <marker date="1492092137520" expanded="true" signature="1481:1509" ph="..." />
-                <marker date="1492092137520" expanded="true" signature="5373:5394" ph="..." />
-                <marker date="1492092137520" expanded="true" signature="8067:8128" ph="{...}" />
-                <marker date="1492092137520" expanded="true" signature="8172:8220" ph="{...}" />
+                <marker date="1492094832116" expanded="true" signature="1388:1541" ph="..." />
+                <marker date="1492094832116" expanded="true" signature="1481:1509" ph="..." />
+                <marker date="1492094832116" expanded="true" signature="5453:5474" ph="..." />
+                <marker date="1492094832116" expanded="true" signature="8147:8208" ph="{...}" />
+                <marker date="1492094832116" expanded="true" signature="8252:8300" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -127,6 +232,7 @@
       <find>cs_group_</find>
       <find>não existe</find>
       <find>BARCODE LINES</find>
+      <find>query'</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -166,7 +272,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -274,7 +380,7 @@
       <workItem from="1491475369503" duration="40016000" />
       <workItem from="1491811953503" duration="48764000" />
       <workItem from="1491984368102" duration="202000" />
-      <workItem from="1491984604632" duration="32548000" />
+      <workItem from="1491984604632" duration="35241000" />
     </task>
     <task id="LOCAL-00001" summary="zz 2">
       <created>1491917197849</created>
@@ -490,7 +596,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131373000" />
+    <option name="totallyTimeSpent" value="134066000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -502,7 +608,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16204691" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -993,104 +1099,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerConfig.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="432" column="0" lean-forward="true" selection-start-line="432" selection-start-column="0" selection-end-line="432" selection-end-column="0" />
-          <folding>
-            <marker date="1491303403720" expanded="true" signature="927:3426" ph="SELECT conf.... brk_configurations" />
-            <marker date="1491303403720" expanded="true" signature="3542:3982" ph="select act.n... brk_activity" />
-            <marker date="1491303403720" expanded="true" signature="4623:4888" ph="select serv.... brk_servers" />
-            <marker date="1491303403720" expanded="true" signature="5002:5095" ph="SELECT * FRO... brk_databasetypes" />
-            <marker date="1491303403720" expanded="true" signature="5951:6252" ph="SELECT serv.... brk_servers" />
-            <marker date="1491303403720" expanded="true" signature="6458:7021" ph="SELECT conf.... brk_configurations" />
-            <marker date="1491303403720" expanded="true" signature="7105:7309" ph="select id,fu... brk_server_function" />
-            <marker date="1491303403720" expanded="true" signature="7508:7706" ph="select * fro... brk_server_function_arguments" />
-            <marker date="1491303403720" expanded="true" signature="9867:10113" ph="insert into $... " />
-            <marker date="1491303403720" expanded="true" signature="10207:10599" ph="insert into $... " />
-            <marker date="1491303403720" expanded="true" signature="10721:11027" ph="update ${{$t... " />
-            <marker date="1491303403720" expanded="true" signature="11121:11790" ph="update ${{$t... " />
-            <marker date="1491303403720" expanded="true" signature="11913:12048" ph="update ${{$t... " />
-            <marker date="1491303403720" expanded="true" signature="12125:12387" ph="update ${{$t... " />
-            <marker date="1491303403720" expanded="true" signature="12591:12742" ph="insert into $... " />
-            <marker date="1491303403720" expanded="true" signature="13076:13271" ph="insert into $... " />
-            <marker date="1491303403720" expanded="true" signature="16754:16938" ph="SELECT serv.... $" />
-            <marker date="1491303403720" expanded="true" signature="20377:20484" ph="select * fro... ${$sql}" />
-            <marker date="1491303403720" expanded="true" signature="21162:21202" ph="select top 1... ${$sql}" />
-            <marker date="1491303403720" expanded="true" signature="22293:22425" ph="INSERT INTO iberia.brk_scripts... " />
-            <marker date="1491303403720" expanded="true" signature="22494:22666" ph="UPDATE iberi... " />
-            <marker date="1491303403720" expanded="true" signature="22881:22966" ph="UPDATE iberi... " />
-            <marker date="1491303403720" expanded="true" signature="23110:23166" ph="select * fro... brk_scripts" />
-            <marker date="1491303403720" expanded="true" signature="27960:29393" ph="INSERT INTO iberia.brk_configurations... " />
-            <marker date="1491303403720" expanded="true" signature="29468:31350" ph="UPDATE iberi... " />
-            <marker date="1491303403720" expanded="true" signature="31645:31880" ph="UPDATE iberi... " />
-            <marker date="1491303403720" expanded="true" signature="31777:31879" ph="SELECT id FR... brk_relations" />
-            <marker date="1491303403720" expanded="true" signature="31891:32033" ph="UPDATE iberi... " />
-            <marker date="1491303403720" expanded="true" signature="32044:32264" ph="UPDATE iberi... " />
-            <marker date="1491303403720" expanded="true" signature="32163:32263" ph="SELECT id FR... brk_mapping" />
-            <marker date="1491303403720" expanded="true" signature="32275:32496" ph="UPDATE iberi... " />
-            <marker date="1491303403720" expanded="true" signature="32395:32495" ph="SELECT id FR... brk_mapping" />
-            <marker date="1491303403720" expanded="true" signature="32520:32652" ph="UPDATE iberi... " />
-            <marker date="1491303403720" expanded="true" signature="35624:36163" ph="INSERT INTO iberia.brk_relations... " />
-            <marker date="1491303403720" expanded="true" signature="36848:37002" ph="INSERT INTO iberia.brk_relations_table_source... " />
-            <marker date="1491303403720" expanded="true" signature="37280:37440" ph="INSERT INTO brk_mapping" />
-            <marker date="1491303403720" expanded="true" signature="39816:40047" ph="INSERT INTO iberia.brk_maporigem... " />
-            <marker date="1491303403720" expanded="true" signature="40393:40707" ph="INSERT INTO iberia.brk_mapdestino... " />
-            <marker date="1491303403720" expanded="true" signature="40876:41276" ph="INSERT INTO iberia.brk_mapdestino... " />
-            <marker date="1491303403720" expanded="true" signature="41535:41702" ph="UPDATE iberi... " />
-            <marker date="1491303403720" expanded="true" signature="41610:41701" ph="select id fr... brk_global_vars_hdr" />
-            <marker date="1491303403720" expanded="true" signature="41721:41828" ph="UPDATE iberi... " />
-            <marker date="1491303403720" expanded="true" signature="41969:42208" ph="INSERT INTO iberia.brk_global_vars_hdr... " />
-            <marker date="1491303403720" expanded="true" signature="42378:42556" ph="INSERT INTO iberia.brk_global_vars_lin... " />
-            <marker date="1491303403720" expanded="true" signature="42741:42937" ph="DELETE FROM " />
-            <marker date="1491303403720" expanded="true" signature="42808:42912" ph="SELECT id FR... brk_relations" />
-            <marker date="1491303403720" expanded="true" signature="42947:43048" ph="DELETE FROM " />
-            <marker date="1491303403720" expanded="true" signature="43058:43239" ph="DELETE FROM " />
-            <marker date="1491303403720" expanded="true" signature="43112:43214" ph="SELECT id FR... brk_mapping" />
-            <marker date="1491303403720" expanded="true" signature="43249:43431" ph="DELETE FROM " />
-            <marker date="1491303403720" expanded="true" signature="43304:43406" ph="SELECT id FR... brk_mapping" />
-            <marker date="1491303403720" expanded="true" signature="43441:43540" ph="DELETE FROM " />
-            <marker date="1491303403720" expanded="true" signature="43550:43744" ph="DELETE FROM " />
-            <marker date="1491303403720" expanded="true" signature="43606:43719" ph="select id fr... brk_global_vars_hdr" />
-            <marker date="1491303403720" expanded="true" signature="43754:43866" ph="DELETE FROM " />
-            <marker date="1491303403720" expanded="true" signature="45125:45206" ph="UPDATE iberi... " />
-            <marker date="1491303403720" expanded="true" signature="45220:45406" ph="UPDATE iberi... " />
-            <marker date="1491303403720" expanded="true" signature="45309:45405" ph="SELECT id FR... brk_relations" />
-            <marker date="1491303403720" expanded="true" signature="45420:45510" ph="UPDATE iberi... " />
-            <marker date="1491303403720" expanded="true" signature="45524:45695" ph="UPDATE iberi... " />
-            <marker date="1491303403720" expanded="true" signature="45600:45694" ph="SELECT id FR... brk_mapping" />
-            <marker date="1491303403720" expanded="true" signature="45709:45884" ph="UPDATE iberi... " />
-            <marker date="1491303403720" expanded="true" signature="45789:45883" ph="SELECT id FR... brk_mapping" />
-            <marker date="1491303403720" expanded="true" signature="45898:45986" ph="UPDATE iberi... " />
-            <marker date="1491303403720" expanded="true" signature="49179:49797" ph="SELECT rel.i... brk_relations" />
-            <marker date="1491303403720" expanded="true" signature="51087:51232" ph="select * fro... brk_relations_table_source" />
-            <marker date="1491303403720" expanded="true" signature="54408:54532" ph="select id fr... brk_mapping" />
-            <marker date="1491303403720" expanded="true" signature="54951:55367" ph="select campo... brk_maporigem" />
-            <marker date="1491303403720" expanded="true" signature="55616:56055" ph="select campo... brk_maporigem" />
-            <marker date="1491303403720" expanded="true" signature="56209:56629" ph="select campo... " />
-            <marker date="1491303403720" expanded="true" signature="56898:57341" ph="select campo... " />
-            <marker date="1491303403720" expanded="true" signature="66461:67079" ph="SELECT rel.i... brk_relations" />
-            <marker date="1491303403720" expanded="true" signature="68373:68518" ph="select * fro... brk_relations_table_source" />
-            <marker date="1491303403720" expanded="true" signature="71702:71826" ph="select id fr... brk_mapping" />
-            <marker date="1491303403720" expanded="true" signature="72245:72661" ph="select campo... brk_maporigem" />
-            <marker date="1491303403720" expanded="true" signature="72910:73349" ph="select campo... brk_maporigem" />
-            <marker date="1491303403720" expanded="true" signature="73503:73923" ph="select campo... " />
-            <marker date="1491303403720" expanded="true" signature="74192:74635" ph="select campo... " />
-            <marker date="1491303403720" expanded="true" signature="88715:88987" ph="SELECT hdr.i... brk_global_vars_hdr" />
-            <marker date="1491303403720" expanded="true" signature="100389:100482" ph="SELECT MAX(n... $" />
-            <marker date="1491303403720" expanded="true" signature="101292:101480" ph="select count... f_get_nav_prof_perm" />
-            <marker date="1491303403720" expanded="true" signature="101553:101749" ph="select count... f_get_nav_prof_perm" />
-            <marker date="1491303403720" expanded="true" signature="102032:102137" ph="SELECT id,va... brk_global_vars_hdr" />
-            <marker date="1491303403720" expanded="true" signature="102259:102335" ph="SELECT var_d... brk_global_vars_lin" />
-            <marker date="1491303403720" expanded="true" signature="104328:104581" ph="SELECT hdr.i... brk_global_vars_hdr" />
-            <marker date="1491303403720" expanded="true" signature="105226:105408" ph="SELECT id, n... brk_configurations" />
-            <marker date="1491303403720" expanded="true" signature="105976:106258" ph="SELECT ser.i... brk_servers" />
-            <marker date="1491303403720" expanded="true" signature="107070:107352" ph="SELECT ser.i... brk_servers" />
-            <marker date="1491303403720" expanded="true" signature="109829:110752" ph="SELECT iv.va... internal_validations" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/PHP/dataBrockerExport.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="563">
@@ -1566,8 +1574,8 @@
     </entry>
     <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerExec.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="823">
-          <caret line="1996" column="18" lean-forward="true" selection-start-line="1996" selection-start-column="18" selection-end-line="1996" selection-end-column="18" />
+        <state relative-caret-position="484">
+          <caret line="1098" column="50" lean-forward="true" selection-start-line="1098" selection-start-column="50" selection-end-line="1098" selection-end-column="50" />
           <folding>
             <element signature="n#construct#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
             <element signature="n#exe#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
@@ -1582,7 +1590,6 @@
             <element signature="n#php_exp_logging#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
             <element signature="n#prepare_php_eval_other_tags#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
             <element signature="n#finalizeAbort#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
-            <element signature="n#collectData#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
             <element signature="n#doBlockExecution#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
             <element signature="e#55136#55490#0#PHP" expanded="false" />
             <element signature="e#57197#66396#0#PHP" expanded="false" />
@@ -1625,16 +1632,120 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerConfig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="2355" column="0" lean-forward="true" selection-start-line="2355" selection-start-column="0" selection-end-line="2355" selection-end-column="0" />
+          <folding>
+            <element signature="n#getTemplateReg#0;n#dataBrockerConfig#0;n#!!top" expanded="false" />
+            <element signature="n#duplicateReg#0;n#dataBrockerConfig#0;n#!!top" expanded="false" />
+            <element signature="n#getInbetweenStrings#0;n#dataBrockerConfig#0;n#!!top" expanded="false" />
+            <element signature="n#validation#0;n#dataBrockerConfig#0;n#!!top" expanded="false" />
+            <element signature="n#get_admin_history#0;n#dataBrockerConfig#0;n#!!top" expanded="false" />
+            <element signature="n#get_admin_password_verify#0;n#dataBrockerConfig#0;n#!!top" expanded="false" />
+            <marker date="1491303403720" expanded="true" signature="927:3426" ph="SELECT conf.... brk_configurations" />
+            <marker date="1491303403720" expanded="true" signature="3542:3982" ph="select act.n... brk_activity" />
+            <marker date="1491303403720" expanded="true" signature="4623:4888" ph="select serv.... brk_servers" />
+            <marker date="1491303403720" expanded="true" signature="5002:5095" ph="SELECT * FRO... brk_databasetypes" />
+            <marker date="1491303403720" expanded="true" signature="5951:6252" ph="SELECT serv.... brk_servers" />
+            <marker date="1491303403720" expanded="true" signature="6458:7021" ph="SELECT conf.... brk_configurations" />
+            <marker date="1491303403720" expanded="true" signature="7105:7309" ph="select id,fu... brk_server_function" />
+            <marker date="1491303403720" expanded="true" signature="7508:7706" ph="select * fro... brk_server_function_arguments" />
+            <marker date="1491303403720" expanded="true" signature="9867:10113" ph="insert into $... " />
+            <marker date="1491303403720" expanded="true" signature="10207:10599" ph="insert into $... " />
+            <marker date="1491303403720" expanded="true" signature="10721:11027" ph="update ${{$t... " />
+            <marker date="1491303403720" expanded="true" signature="11121:11790" ph="update ${{$t... " />
+            <marker date="1491303403720" expanded="true" signature="11913:12048" ph="update ${{$t... " />
+            <marker date="1491303403720" expanded="true" signature="12125:12387" ph="update ${{$t... " />
+            <marker date="1491303403720" expanded="true" signature="12591:12742" ph="insert into $... " />
+            <marker date="1491303403720" expanded="true" signature="13076:13271" ph="insert into $... " />
+            <marker date="1491303403720" expanded="true" signature="16754:16938" ph="SELECT serv.... $" />
+            <marker date="1491303403720" expanded="true" signature="20377:20484" ph="select * fro... ${$sql}" />
+            <marker date="1491303403720" expanded="true" signature="21162:21202" ph="select top 1... ${$sql}" />
+            <marker date="1491303403720" expanded="true" signature="22293:22425" ph="INSERT INTO iberia.brk_scripts... " />
+            <marker date="1491303403720" expanded="true" signature="22494:22666" ph="UPDATE iberi... " />
+            <marker date="1491303403720" expanded="true" signature="22881:22966" ph="UPDATE iberi... " />
+            <marker date="1491303403720" expanded="true" signature="23110:23166" ph="select * fro... brk_scripts" />
+            <marker date="1491303403720" expanded="true" signature="27960:29393" ph="INSERT INTO iberia.brk_configurations... " />
+            <marker date="1491303403720" expanded="true" signature="29468:31350" ph="UPDATE iberi... " />
+            <marker date="1491303403720" expanded="true" signature="31645:31880" ph="UPDATE iberi... " />
+            <marker date="1491303403720" expanded="true" signature="31777:31879" ph="SELECT id FR... brk_relations" />
+            <marker date="1491303403720" expanded="true" signature="31891:32033" ph="UPDATE iberi... " />
+            <marker date="1491303403720" expanded="true" signature="32044:32264" ph="UPDATE iberi... " />
+            <marker date="1491303403720" expanded="true" signature="32163:32263" ph="SELECT id FR... brk_mapping" />
+            <marker date="1491303403720" expanded="true" signature="32275:32496" ph="UPDATE iberi... " />
+            <marker date="1491303403720" expanded="true" signature="32395:32495" ph="SELECT id FR... brk_mapping" />
+            <marker date="1491303403720" expanded="true" signature="32520:32652" ph="UPDATE iberi... " />
+            <marker date="1491303403720" expanded="true" signature="35624:36163" ph="INSERT INTO iberia.brk_relations... " />
+            <marker date="1491303403720" expanded="true" signature="36848:37002" ph="INSERT INTO iberia.brk_relations_table_source... " />
+            <marker date="1491303403720" expanded="true" signature="37280:37440" ph="INSERT INTO brk_mapping" />
+            <marker date="1491303403720" expanded="true" signature="39816:40047" ph="INSERT INTO iberia.brk_maporigem... " />
+            <marker date="1491303403720" expanded="true" signature="40393:40707" ph="INSERT INTO iberia.brk_mapdestino... " />
+            <marker date="1491303403720" expanded="true" signature="40876:41276" ph="INSERT INTO iberia.brk_mapdestino... " />
+            <marker date="1491303403720" expanded="true" signature="41535:41702" ph="UPDATE iberi... " />
+            <marker date="1491303403720" expanded="true" signature="41610:41701" ph="select id fr... brk_global_vars_hdr" />
+            <marker date="1491303403720" expanded="true" signature="41721:41828" ph="UPDATE iberi... " />
+            <marker date="1491303403720" expanded="true" signature="41969:42208" ph="INSERT INTO iberia.brk_global_vars_hdr... " />
+            <marker date="1491303403720" expanded="true" signature="42378:42556" ph="INSERT INTO iberia.brk_global_vars_lin... " />
+            <marker date="1491303403720" expanded="true" signature="42741:42937" ph="DELETE FROM " />
+            <marker date="1491303403720" expanded="true" signature="42808:42912" ph="SELECT id FR... brk_relations" />
+            <marker date="1491303403720" expanded="true" signature="42947:43048" ph="DELETE FROM " />
+            <marker date="1491303403720" expanded="true" signature="43058:43239" ph="DELETE FROM " />
+            <marker date="1491303403720" expanded="true" signature="43112:43214" ph="SELECT id FR... brk_mapping" />
+            <marker date="1491303403720" expanded="true" signature="43249:43431" ph="DELETE FROM " />
+            <marker date="1491303403720" expanded="true" signature="43304:43406" ph="SELECT id FR... brk_mapping" />
+            <marker date="1491303403720" expanded="true" signature="43441:43540" ph="DELETE FROM " />
+            <marker date="1491303403720" expanded="true" signature="43550:43744" ph="DELETE FROM " />
+            <marker date="1491303403720" expanded="true" signature="43606:43719" ph="select id fr... brk_global_vars_hdr" />
+            <marker date="1491303403720" expanded="true" signature="43754:43866" ph="DELETE FROM " />
+            <marker date="1491303403720" expanded="true" signature="45125:45206" ph="UPDATE iberi... " />
+            <marker date="1491303403720" expanded="true" signature="45220:45406" ph="UPDATE iberi... " />
+            <marker date="1491303403720" expanded="true" signature="45309:45405" ph="SELECT id FR... brk_relations" />
+            <marker date="1491303403720" expanded="true" signature="45420:45510" ph="UPDATE iberi... " />
+            <marker date="1491303403720" expanded="true" signature="45524:45695" ph="UPDATE iberi... " />
+            <marker date="1491303403720" expanded="true" signature="45600:45694" ph="SELECT id FR... brk_mapping" />
+            <marker date="1491303403720" expanded="true" signature="45709:45884" ph="UPDATE iberi... " />
+            <marker date="1491303403720" expanded="true" signature="45789:45883" ph="SELECT id FR... brk_mapping" />
+            <marker date="1491303403720" expanded="true" signature="45898:45986" ph="UPDATE iberi... " />
+            <marker date="1491303403720" expanded="true" signature="49179:49797" ph="SELECT rel.i... brk_relations" />
+            <marker date="1491303403720" expanded="true" signature="51087:51232" ph="select * fro... brk_relations_table_source" />
+            <marker date="1491303403720" expanded="true" signature="54408:54532" ph="select id fr... brk_mapping" />
+            <marker date="1491303403720" expanded="true" signature="54951:55367" ph="select campo... brk_maporigem" />
+            <marker date="1491303403720" expanded="true" signature="55616:56055" ph="select campo... brk_maporigem" />
+            <marker date="1491303403720" expanded="true" signature="56209:56629" ph="select campo... " />
+            <marker date="1491303403720" expanded="true" signature="56898:57341" ph="select campo... " />
+            <marker date="1491303403720" expanded="true" signature="66461:67079" ph="SELECT rel.i... brk_relations" />
+            <marker date="1491303403720" expanded="true" signature="68373:68518" ph="select * fro... brk_relations_table_source" />
+            <marker date="1491303403720" expanded="true" signature="71702:71826" ph="select id fr... brk_mapping" />
+            <marker date="1491303403720" expanded="true" signature="72245:72661" ph="select campo... brk_maporigem" />
+            <marker date="1491303403720" expanded="true" signature="72910:73349" ph="select campo... brk_maporigem" />
+            <marker date="1491303403720" expanded="true" signature="73503:73923" ph="select campo... " />
+            <marker date="1491303403720" expanded="true" signature="74192:74635" ph="select campo... " />
+            <marker date="1491303403720" expanded="true" signature="88715:88987" ph="SELECT hdr.i... brk_global_vars_hdr" />
+            <marker date="1491303403720" expanded="true" signature="100389:100482" ph="SELECT MAX(n... $" />
+            <marker date="1491303403720" expanded="true" signature="101292:101480" ph="select count... f_get_nav_prof_perm" />
+            <marker date="1491303403720" expanded="true" signature="101553:101749" ph="select count... f_get_nav_prof_perm" />
+            <marker date="1491303403720" expanded="true" signature="102032:102137" ph="SELECT id,va... brk_global_vars_hdr" />
+            <marker date="1491303403720" expanded="true" signature="102259:102335" ph="SELECT var_d... brk_global_vars_lin" />
+            <marker date="1491303403720" expanded="true" signature="104328:104581" ph="SELECT hdr.i... brk_global_vars_hdr" />
+            <marker date="1491303403720" expanded="true" signature="105226:105408" ph="SELECT id, n... brk_configurations" />
+            <marker date="1491303403720" expanded="true" signature="105976:106258" ph="SELECT ser.i... brk_servers" />
+            <marker date="1491303403720" expanded="true" signature="107070:107352" ph="SELECT ser.i... brk_servers" />
+            <marker date="1491303403720" expanded="true" signature="109829:110752" ph="SELECT iv.va... internal_validations" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="767">
-          <caret line="94" column="34" lean-forward="true" selection-start-line="94" selection-start-column="34" selection-end-line="94" selection-end-column="34" />
+        <state relative-caret-position="427">
+          <caret line="74" column="51" lean-forward="true" selection-start-line="74" selection-start-column="51" selection-end-line="74" selection-end-column="51" />
           <folding>
-            <marker date="1492092137520" expanded="true" signature="1388:1541" ph="..." />
-            <marker date="1492092137520" expanded="true" signature="1481:1509" ph="..." />
-            <marker date="1492092137520" expanded="true" signature="5373:5394" ph="..." />
-            <marker date="1492092137520" expanded="true" signature="8067:8128" ph="{...}" />
-            <marker date="1492092137520" expanded="true" signature="8172:8220" ph="{...}" />
+            <marker date="1492094832116" expanded="true" signature="1388:1541" ph="..." />
+            <marker date="1492094832116" expanded="true" signature="1481:1509" ph="..." />
+            <marker date="1492094832116" expanded="true" signature="5453:5474" ph="..." />
+            <marker date="1492094832116" expanded="true" signature="8147:8208" ph="{...}" />
+            <marker date="1492094832116" expanded="true" signature="8252:8300" ph="{...}" />
           </folding>
         </state>
       </provider>

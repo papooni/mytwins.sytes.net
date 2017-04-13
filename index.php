@@ -80,6 +80,8 @@
         $dir = "/home/forge/mytwins.sytes.net/img/";
         $scanned_directory = array_diff(scandir($dir), array('..', '.'));
         $count = 0;
+        echo '<h2>SCANNED DIRECTORY</h2>';
+        print_r($scanned_directory);
         if (!empty($scanned_directory)) {
             foreach ($scanned_directory as $key => $ficheiro) {
                 //$file = pathinfo($ficheiro);
