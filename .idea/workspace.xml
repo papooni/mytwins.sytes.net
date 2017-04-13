@@ -189,14 +189,14 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="74" column="51" lean-forward="true" selection-start-line="74" selection-start-column="51" selection-end-line="74" selection-end-column="51" />
+            <state relative-caret-position="546">
+              <caret line="81" column="19" lean-forward="true" selection-start-line="81" selection-start-column="19" selection-end-line="81" selection-end-column="19" />
               <folding>
-                <marker date="1492094832116" expanded="true" signature="1388:1541" ph="..." />
-                <marker date="1492094832116" expanded="true" signature="1481:1509" ph="..." />
-                <marker date="1492094832116" expanded="true" signature="5453:5474" ph="..." />
-                <marker date="1492094832116" expanded="true" signature="8147:8208" ph="{...}" />
-                <marker date="1492094832116" expanded="true" signature="8252:8300" ph="{...}" />
+                <marker date="1492095106012" expanded="true" signature="1388:1541" ph="..." />
+                <marker date="1492095106012" expanded="true" signature="1481:1509" ph="..." />
+                <marker date="1492095106012" expanded="true" signature="5452:5473" ph="..." />
+                <marker date="1492095106012" expanded="true" signature="8146:8207" ph="{...}" />
+                <marker date="1492095106012" expanded="true" signature="8251:8299" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -380,7 +380,7 @@
       <workItem from="1491475369503" duration="40016000" />
       <workItem from="1491811953503" duration="48764000" />
       <workItem from="1491984368102" duration="202000" />
-      <workItem from="1491984604632" duration="35241000" />
+      <workItem from="1491984604632" duration="35517000" />
     </task>
     <task id="LOCAL-00001" summary="zz 2">
       <created>1491917197849</created>
@@ -596,7 +596,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134066000" />
+    <option name="totallyTimeSpent" value="134342000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1572,66 +1572,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerExec.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="1098" column="50" lean-forward="true" selection-start-line="1098" selection-start-column="50" selection-end-line="1098" selection-end-column="50" />
-          <folding>
-            <element signature="n#construct#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
-            <element signature="n#exe#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
-            <element signature="n#doexe#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
-            <element signature="n#SetActivity#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
-            <element signature="n#prepare_php_eval#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
-            <element signature="n#prepare_php_eval_conn_tags#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
-            <element signature="n#prepare_php_eval_conn_tags_str_threat_vars#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
-            <element signature="n#validate_date_time_interval#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
-            <element signature="n#confirm_is_numeric#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
-            <element signature="n#logging#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
-            <element signature="n#php_exp_logging#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
-            <element signature="n#prepare_php_eval_other_tags#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
-            <element signature="n#finalizeAbort#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
-            <element signature="n#doBlockExecution#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
-            <element signature="e#55136#55490#0#PHP" expanded="false" />
-            <element signature="e#57197#66396#0#PHP" expanded="false" />
-            <element signature="e#66039#66396#0#PHP" expanded="false" />
-            <element signature="e#66486#67228#0#PHP" expanded="false" />
-            <element signature="e#67385#79496#0#PHP" expanded="false" />
-            <element signature="e#68758#73251#0#PHP" expanded="false" />
-            <element signature="e#79204#79496#0#PHP" expanded="false" />
-            <element signature="e#79531#82827#0#PHP" expanded="false" />
-            <element signature="e#82862#87037#0#PHP" expanded="false" />
-            <element signature="e#87072#93274#0#PHP" expanded="false" />
-            <element signature="n#utf8_decode_array#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
-            <element signature="n#prepareSqlTags#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
-            <marker date="1492075696848" expanded="true" signature="16389:16403" ph="SELECT * FRO... ${$d['table_from']}" />
-            <marker date="1492075696848" expanded="true" signature="41265:41517" ph="SELECT hdr.i... brk_global_vars_hdr" />
-            <marker date="1492075696848" expanded="true" signature="43453:43513" ph="SELECT * FRO... pg_class" />
-            <marker date="1492075696848" expanded="true" signature="43549:43669" ph="SELECT * FRO... TABLES" />
-            <marker date="1492075696848" expanded="true" signature="46377:46494" ph="SELECT * FRO... ${$mappData['query']}" />
-            <marker date="1492075696848" expanded="true" signature="46663:46780" ph="SELECT * FRO... ${$mappData['query']}" />
-            <marker date="1492075696848" expanded="true" signature="50428:50648" ph="SELECT * FRO... ROW_NUMBER" />
-            <marker date="1492075696848" expanded="true" signature="50444:50534" ph="select ROW_N... ${$mappData['table_from']}" />
-            <marker date="1492075696848" expanded="true" signature="51031:51045" ph="SELECT * FRO... ${$mappData['table_from']}" />
-            <marker date="1492075696848" expanded="true" signature="51335:51443" ph="SELECT * FRO... ${$mappData['table_from']}" />
-            <marker date="1492075696848" expanded="true" signature="51631:51646" ph="SELECT * FRO... ${$mappData['table_from']}" />
-            <marker date="1492075696848" expanded="true" signature="52212:52227" ph="SELECT * FRO... ${$mappData['table_from']}" />
-            <marker date="1492075696848" expanded="true" signature="67647:67765" ph="SELECT ${$pk... ${$tabela_destino_user}" />
-            <marker date="1492075696848" expanded="true" signature="71282:71390" ph="INSERT INTO ${$tabela_destino_user}... " />
-            <marker date="1492075696848" expanded="true" signature="71471:71618" ph="INSERT INTO ${$tabela_destino_user}... " />
-            <marker date="1492075696848" expanded="true" signature="71810:71951" ph="INSERT INTO ${$tabela_destino_user}... " />
-            <marker date="1492075696848" expanded="true" signature="72014:72142" ph="INSERT INTO ${$tabela}... " />
-            <marker date="1492075696848" expanded="true" signature="73488:73586" ph="SELECT ${$pk... ${$tabela}" />
-            <marker date="1492075696848" expanded="true" signature="77334:77429" ph="INSERT INTO ${$tabela}... " />
-            <marker date="1492075696848" expanded="true" signature="77506:77640" ph="INSERT INTO ${$tabela}... " />
-            <marker date="1492075696848" expanded="true" signature="77821:77949" ph="INSERT INTO ${$tabela}... " />
-            <marker date="1492075696848" expanded="true" signature="78008:78136" ph="INSERT INTO ${$tabela}... " />
-            <marker date="1492075696848" expanded="true" signature="88515:88602" ph="DELETE FROM " />
-            <marker date="1492075696848" expanded="true" signature="91058:91132" ph="DELETE FROM " />
-            <marker date="1492075696848" expanded="true" signature="95928:96172" ph="SELECT hdr.i... brk_global_vars_hdr" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerConfig.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1736,16 +1676,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerExec.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="1098" column="50" lean-forward="true" selection-start-line="1098" selection-start-column="50" selection-end-line="1098" selection-end-column="50" />
+          <folding>
+            <element signature="n#construct#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
+            <element signature="n#exe#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
+            <element signature="n#doexe#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
+            <element signature="n#SetActivity#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
+            <element signature="n#prepare_php_eval#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
+            <element signature="n#prepare_php_eval_conn_tags#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
+            <element signature="n#prepare_php_eval_conn_tags_str_threat_vars#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
+            <element signature="n#validate_date_time_interval#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
+            <element signature="n#confirm_is_numeric#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
+            <element signature="n#logging#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
+            <element signature="n#php_exp_logging#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
+            <element signature="n#prepare_php_eval_other_tags#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
+            <element signature="n#finalizeAbort#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
+            <element signature="n#doBlockExecution#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
+            <element signature="e#55136#55490#0#PHP" expanded="false" />
+            <element signature="e#57197#66396#0#PHP" expanded="false" />
+            <element signature="e#66039#66396#0#PHP" expanded="false" />
+            <element signature="e#66486#67228#0#PHP" expanded="false" />
+            <element signature="e#67385#79496#0#PHP" expanded="false" />
+            <element signature="e#68758#73251#0#PHP" expanded="false" />
+            <element signature="e#79204#79496#0#PHP" expanded="false" />
+            <element signature="e#79531#82827#0#PHP" expanded="false" />
+            <element signature="e#82862#87037#0#PHP" expanded="false" />
+            <element signature="e#87072#93274#0#PHP" expanded="false" />
+            <element signature="n#utf8_decode_array#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
+            <element signature="n#prepareSqlTags#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
+            <marker date="1492075696848" expanded="true" signature="16389:16403" ph="SELECT * FRO... ${$d['table_from']}" />
+            <marker date="1492075696848" expanded="true" signature="41265:41517" ph="SELECT hdr.i... brk_global_vars_hdr" />
+            <marker date="1492075696848" expanded="true" signature="43453:43513" ph="SELECT * FRO... pg_class" />
+            <marker date="1492075696848" expanded="true" signature="43549:43669" ph="SELECT * FRO... TABLES" />
+            <marker date="1492075696848" expanded="true" signature="46377:46494" ph="SELECT * FRO... ${$mappData['query']}" />
+            <marker date="1492075696848" expanded="true" signature="46663:46780" ph="SELECT * FRO... ${$mappData['query']}" />
+            <marker date="1492075696848" expanded="true" signature="50428:50648" ph="SELECT * FRO... ROW_NUMBER" />
+            <marker date="1492075696848" expanded="true" signature="50444:50534" ph="select ROW_N... ${$mappData['table_from']}" />
+            <marker date="1492075696848" expanded="true" signature="51031:51045" ph="SELECT * FRO... ${$mappData['table_from']}" />
+            <marker date="1492075696848" expanded="true" signature="51335:51443" ph="SELECT * FRO... ${$mappData['table_from']}" />
+            <marker date="1492075696848" expanded="true" signature="51631:51646" ph="SELECT * FRO... ${$mappData['table_from']}" />
+            <marker date="1492075696848" expanded="true" signature="52212:52227" ph="SELECT * FRO... ${$mappData['table_from']}" />
+            <marker date="1492075696848" expanded="true" signature="67647:67765" ph="SELECT ${$pk... ${$tabela_destino_user}" />
+            <marker date="1492075696848" expanded="true" signature="71282:71390" ph="INSERT INTO ${$tabela_destino_user}... " />
+            <marker date="1492075696848" expanded="true" signature="71471:71618" ph="INSERT INTO ${$tabela_destino_user}... " />
+            <marker date="1492075696848" expanded="true" signature="71810:71951" ph="INSERT INTO ${$tabela_destino_user}... " />
+            <marker date="1492075696848" expanded="true" signature="72014:72142" ph="INSERT INTO ${$tabela}... " />
+            <marker date="1492075696848" expanded="true" signature="73488:73586" ph="SELECT ${$pk... ${$tabela}" />
+            <marker date="1492075696848" expanded="true" signature="77334:77429" ph="INSERT INTO ${$tabela}... " />
+            <marker date="1492075696848" expanded="true" signature="77506:77640" ph="INSERT INTO ${$tabela}... " />
+            <marker date="1492075696848" expanded="true" signature="77821:77949" ph="INSERT INTO ${$tabela}... " />
+            <marker date="1492075696848" expanded="true" signature="78008:78136" ph="INSERT INTO ${$tabela}... " />
+            <marker date="1492075696848" expanded="true" signature="88515:88602" ph="DELETE FROM " />
+            <marker date="1492075696848" expanded="true" signature="91058:91132" ph="DELETE FROM " />
+            <marker date="1492075696848" expanded="true" signature="95928:96172" ph="SELECT hdr.i... brk_global_vars_hdr" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="74" column="51" lean-forward="true" selection-start-line="74" selection-start-column="51" selection-end-line="74" selection-end-column="51" />
+        <state relative-caret-position="546">
+          <caret line="81" column="19" lean-forward="true" selection-start-line="81" selection-start-column="19" selection-end-line="81" selection-end-column="19" />
           <folding>
-            <marker date="1492094832116" expanded="true" signature="1388:1541" ph="..." />
-            <marker date="1492094832116" expanded="true" signature="1481:1509" ph="..." />
-            <marker date="1492094832116" expanded="true" signature="5453:5474" ph="..." />
-            <marker date="1492094832116" expanded="true" signature="8147:8208" ph="{...}" />
-            <marker date="1492094832116" expanded="true" signature="8252:8300" ph="{...}" />
+            <marker date="1492095106012" expanded="true" signature="1388:1541" ph="..." />
+            <marker date="1492095106012" expanded="true" signature="1481:1509" ph="..." />
+            <marker date="1492095106012" expanded="true" signature="5452:5473" ph="..." />
+            <marker date="1492095106012" expanded="true" signature="8146:8207" ph="{...}" />
+            <marker date="1492095106012" expanded="true" signature="8251:8299" ph="{...}" />
           </folding>
         </state>
       </provider>

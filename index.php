@@ -77,7 +77,7 @@
         <i class='img' data-src='./img/18.png'></i>
         <i class='img' data-src='./img/19.jpg'></i>-->
         <?php
-        $dir = "/home/forge/mytwins.sytes.net/img/";
+        $dir = "/home/forge/mytwins.sytes.net/img";
         $scanned_directory = array_diff(scandir($dir), array('..', '.'));
         $count = 0;
         echo '<h2>SCANNED DIRECTORY</h2>';
