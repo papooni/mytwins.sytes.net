@@ -94,7 +94,7 @@
               //  <i class='img' data-src='./img/<?php $ficheiro;' ></i>; -->
               ?>
               <h1>TESTE</h1>
-              <?
+              <?php
                }
             }
         }else{
