@@ -85,7 +85,7 @@
             foreach ($scanned_directory as $key => $ficheiro) {
                 $file = pathinfo($ficheiro);
                 //echo 'file ---- '. print_r($file);
-                if (($file['extension'] == 'jpg' || $file['extension'] == 'png' ) && !is_dir($ficheiro) && filesize($dir . $ficheiro) > 10000 && strpos($file['filename'], 'bg-default') !== false && strpos($file['filename'], 'git') != false){
+                if (($file['extension'] == 'jpg' || $file['extension'] == 'png' ) && !is_dir($ficheiro) && filesize($dir . $ficheiro) > 10000 ){//&& strpos($file['filename'], 'bg-default') !== false && strpos($file['filename'], 'git') != false){
                 echo ' >>>> '.$ficheiro . ' <<<< <br>';
                 //echo $dir  . '<br>';
                 //echo $scanned_directory . '<br>';
