@@ -55,7 +55,7 @@
 
     <!-- BEGIN OF Slideshow Background -->
     <div class="cover-bg pos-abs full-size slide-show">
-        <i class='img' data-src='./img/1.png'></i>
+        <!--<i class='img' data-src='./img/1.png'></i>-->
         <!--<i class='img' data-src='./img/2.png'></i>
         <i class='img' data-src='./img/3.png'></i>
         <i class='img' data-src='./img/4.png'></i>
@@ -134,7 +134,7 @@
                     <span class="days">81</span>
                     <span class="txt">dias</span>
                 </div>
-            </div>-->
+            </div>
             <!-- Logo instead -->
             <!--
             <div class="logo">
@@ -144,12 +144,12 @@
             </div>
             -->
 
-           <!-- <div class="elem-bottom">
+            <div class="elem-bottom">
                 <div class="deco"></div>
                 <span class="hours">18</span><span class="thin">H</span>
                 <span class="minutes">45</span><span class="thin">MN</span>
                 <span class="seconds">36</span><span class="thin">S</span>
-            </div>-->
+            </div>
         </div>
 
 
