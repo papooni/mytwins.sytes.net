@@ -96,7 +96,7 @@
         }else{
             echo 'Não vejo nada!';
         }
-       echo 'files -> '.$count ;
+      // echo 'files -> '.$count ;
         ?>
 
     </div>
