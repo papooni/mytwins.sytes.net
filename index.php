@@ -125,7 +125,7 @@
     <div class="content">
         <!-- Clock -->
         <div class="clock clock-countdown">
-            <!--<div class="site-config"
+            <div class="site-config"
                  data-date="08/14/2017 12:20:00"
                  data-date-timezone="+0"
             ></div>
@@ -172,7 +172,7 @@
         </div>-->
         <!-- Content -->
         <section class="content">
-           <!-- <header class="header">
+            <header class="header">
                 <div class="h-left">
                     <h2><strong>Raquel & Pedro</strong></h2>
                 </div>
@@ -180,7 +180,7 @@
                     <h3>Silva <br>de Sousa</h3>
                     <h4 class="subhead"><a href="">Em Breve!</a></h4>
                 </div>
-            </header>-->
+            </header>
         </section>
         <!-- Scroll down button -->
     </div>
