@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ec9a6a3-1571-4700-9675-66325c70bee0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-    </list>
+    <list default="true" id="8ec9a6a3-1571-4700-9675-66325c70bee0" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,13 +16,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="dataBrockerExec.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="dataBrockerExec.php" pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerExec.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="1098" column="50" lean-forward="true" selection-start-line="1098" selection-start-column="50" selection-end-line="1098" selection-end-column="50" />
+            <state relative-caret-position="307">
+              <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
               <folding>
-                <element signature="n#construct#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
                 <element signature="n#exe#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
                 <element signature="n#doexe#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
                 <element signature="n#SetActivity#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
@@ -83,8 +80,8 @@
       <file leaf-file-name="dataBrockerConfig.php" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerConfig.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="2355" column="0" lean-forward="true" selection-start-line="2355" selection-start-column="0" selection-end-line="2355" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="2365" column="52" lean-forward="true" selection-start-line="2365" selection-start-column="52" selection-end-line="2365" selection-end-column="52" />
               <folding>
                 <element signature="n#getTemplateReg#0;n#dataBrockerConfig#0;n#!!top" expanded="false" />
                 <element signature="n#duplicateReg#0;n#dataBrockerConfig#0;n#!!top" expanded="false" />
@@ -186,38 +183,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="68" lean-forward="false" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
-              <folding>
-                <marker date="1492097814904" expanded="true" signature="1370:1523" ph="..." />
-                <marker date="1492097814904" expanded="true" signature="1463:1491" ph="..." />
-                <marker date="1492097814904" expanded="true" signature="4338:4619" ph="..." />
-                <marker date="1492097814904" expanded="true" signature="5031:6192" ph="..." />
-                <marker date="1492097814904" expanded="true" signature="5057:6185" ph="..." />
-                <marker date="1492097814904" expanded="true" signature="5124:6055" ph="..." />
-                <marker date="1492097814904" expanded="true" signature="5142:5491" ph="..." />
-                <marker date="1492097814904" expanded="true" signature="5545:5566" ph="..." />
-                <marker date="1492097814904" expanded="true" signature="5545:5708" ph="..." />
-                <marker date="1492097814904" expanded="true" signature="5728:6038" ph="..." />
-                <marker date="1492097814904" expanded="true" signature="6074:6174" ph="..." />
-                <marker date="1492097814904" expanded="true" signature="6308:7053" ph="..." />
-                <marker date="1492097814904" expanded="true" signature="6404:7044" ph="..." />
-                <marker date="1492097814904" expanded="true" signature="6441:6552" ph="..." />
-                <marker date="1492097814904" expanded="true" signature="6613:6997" ph="..." />
-                <marker date="1492097814904" expanded="true" signature="6630:6976" ph="..." />
-                <marker date="1492097814904" expanded="true" signature="7161:7193" ph="..." />
-                <marker date="1492097814904" expanded="true" signature="7171:7183" ph="..." />
-                <marker date="1492097814904" expanded="true" signature="7286:7325" ph="..." />
-                <marker date="1492097814904" expanded="true" signature="8181:8242" ph="{...}" />
-                <marker date="1492097814904" expanded="true" signature="8286:8334" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -288,7 +253,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -396,7 +361,7 @@
       <workItem from="1491475369503" duration="40016000" />
       <workItem from="1491811953503" duration="48764000" />
       <workItem from="1491984368102" duration="202000" />
-      <workItem from="1491984604632" duration="38226000" />
+      <workItem from="1491984604632" duration="40459000" />
     </task>
     <task id="LOCAL-00001" summary="zz 2">
       <created>1491917197849</created>
@@ -612,7 +577,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137051000" />
+    <option name="totallyTimeSpent" value="139284000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -624,8 +589,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16204691" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1588,10 +1553,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <marker date="1492097814904" expanded="true" signature="1370:1523" ph="..." />
+            <marker date="1492097814904" expanded="true" signature="1463:1491" ph="..." />
+            <marker date="1492097814904" expanded="true" signature="4338:4619" ph="..." />
+            <marker date="1492097814904" expanded="true" signature="5031:6192" ph="..." />
+            <marker date="1492097814904" expanded="true" signature="5057:6185" ph="..." />
+            <marker date="1492097814904" expanded="true" signature="5124:6055" ph="..." />
+            <marker date="1492097814904" expanded="true" signature="5142:5491" ph="..." />
+            <marker date="1492097814904" expanded="true" signature="5545:5566" ph="..." />
+            <marker date="1492097814904" expanded="true" signature="5545:5708" ph="..." />
+            <marker date="1492097814904" expanded="true" signature="5728:6038" ph="..." />
+            <marker date="1492097814904" expanded="true" signature="6074:6174" ph="..." />
+            <marker date="1492097814904" expanded="true" signature="6308:7053" ph="..." />
+            <marker date="1492097814904" expanded="true" signature="6404:7044" ph="..." />
+            <marker date="1492097814904" expanded="true" signature="6441:6552" ph="..." />
+            <marker date="1492097814904" expanded="true" signature="6613:6997" ph="..." />
+            <marker date="1492097814904" expanded="true" signature="6630:6976" ph="..." />
+            <marker date="1492097814904" expanded="true" signature="7161:7193" ph="..." />
+            <marker date="1492097814904" expanded="true" signature="7171:7183" ph="..." />
+            <marker date="1492097814904" expanded="true" signature="7286:7325" ph="..." />
+            <marker date="1492097814904" expanded="true" signature="8181:8242" ph="{...}" />
+            <marker date="1492097814904" expanded="true" signature="8286:8334" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerConfig.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="2355" column="0" lean-forward="true" selection-start-line="2355" selection-start-column="0" selection-end-line="2355" selection-end-column="0" />
+        <state relative-caret-position="204">
+          <caret line="2365" column="52" lean-forward="true" selection-start-line="2365" selection-start-column="52" selection-end-line="2365" selection-end-column="52" />
           <folding>
             <element signature="n#getTemplateReg#0;n#dataBrockerConfig#0;n#!!top" expanded="false" />
             <element signature="n#duplicateReg#0;n#dataBrockerConfig#0;n#!!top" expanded="false" />
@@ -1694,10 +1689,9 @@
     </entry>
     <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerExec.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="1098" column="50" lean-forward="true" selection-start-line="1098" selection-start-column="50" selection-end-line="1098" selection-end-column="50" />
+        <state relative-caret-position="307">
+          <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
           <folding>
-            <element signature="n#construct#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
             <element signature="n#exe#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
             <element signature="n#doexe#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
             <element signature="n#SetActivity#0;n#dataBrockerExec#0;n#!!top" expanded="false" />
@@ -1748,36 +1742,6 @@
             <marker date="1492075696848" expanded="true" signature="88515:88602" ph="DELETE FROM " />
             <marker date="1492075696848" expanded="true" signature="91058:91132" ph="DELETE FROM " />
             <marker date="1492075696848" expanded="true" signature="95928:96172" ph="SELECT hdr.i... brk_global_vars_hdr" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="68" lean-forward="false" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
-          <folding>
-            <marker date="1492097814904" expanded="true" signature="1370:1523" ph="..." />
-            <marker date="1492097814904" expanded="true" signature="1463:1491" ph="..." />
-            <marker date="1492097814904" expanded="true" signature="4338:4619" ph="..." />
-            <marker date="1492097814904" expanded="true" signature="5031:6192" ph="..." />
-            <marker date="1492097814904" expanded="true" signature="5057:6185" ph="..." />
-            <marker date="1492097814904" expanded="true" signature="5124:6055" ph="..." />
-            <marker date="1492097814904" expanded="true" signature="5142:5491" ph="..." />
-            <marker date="1492097814904" expanded="true" signature="5545:5566" ph="..." />
-            <marker date="1492097814904" expanded="true" signature="5545:5708" ph="..." />
-            <marker date="1492097814904" expanded="true" signature="5728:6038" ph="..." />
-            <marker date="1492097814904" expanded="true" signature="6074:6174" ph="..." />
-            <marker date="1492097814904" expanded="true" signature="6308:7053" ph="..." />
-            <marker date="1492097814904" expanded="true" signature="6404:7044" ph="..." />
-            <marker date="1492097814904" expanded="true" signature="6441:6552" ph="..." />
-            <marker date="1492097814904" expanded="true" signature="6613:6997" ph="..." />
-            <marker date="1492097814904" expanded="true" signature="6630:6976" ph="..." />
-            <marker date="1492097814904" expanded="true" signature="7161:7193" ph="..." />
-            <marker date="1492097814904" expanded="true" signature="7171:7183" ph="..." />
-            <marker date="1492097814904" expanded="true" signature="7286:7325" ph="..." />
-            <marker date="1492097814904" expanded="true" signature="8181:8242" ph="{...}" />
-            <marker date="1492097814904" expanded="true" signature="8286:8334" ph="{...}" />
           </folding>
         </state>
       </provider>
