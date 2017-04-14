@@ -55,8 +55,8 @@
 
     <!-- BEGIN OF Slideshow Background -->
     <div class="cover-bg pos-abs full-size slide-show">
-        <!--<i class='img' data-src='./img/1.png'></i>
-        <i class='img' data-src='./img/2.png'></i>
+        <i class='img' data-src='./img/1.png'></i>
+        <!--<i class='img' data-src='./img/2.png'></i>
         <i class='img' data-src='./img/3.png'></i>
         <i class='img' data-src='./img/4.png'></i>
         <i class='img' data-src='./img/5.png'></i>
