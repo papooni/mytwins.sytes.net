@@ -51,7 +51,7 @@
 <!-- BEGIN OF site cover -->
 <div class="page-cover" id="s-cover">
     <!-- Cover Background -->
-    <div class="cover-bg pos-abs full-size bg-img" data-image-src="img/bg-default2.jpg"></div>
+    <div class="cover-bg pos-abs full-size bg-img" data-image-src="img/bg-default.jpg"></div>
 
     <!-- BEGIN OF Slideshow Background -->
     <div class="cover-bg pos-abs full-size slide-show">
@@ -89,7 +89,7 @@
                  $count = $count + 1;
                    ?>
 
-                <i class='img' data-src="./img/<?php echo $ficheiro; ?>" ></i>
+                <i class='img' data-src="./img-background/<?php echo $ficheiro; ?>" ></i>
                 <?php
                }
             }
