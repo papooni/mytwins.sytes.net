@@ -86,13 +86,13 @@
                 $file = pathinfo($ficheiro);
                 //echo 'file ---- '. print_r($file);
                 if (($file['extension'] == 'jpg' || $file['extension'] == 'png' ) && !is_dir($ficheiro) ){//&& strpos($file['filename'], 'bg-default') !== false && strpos($file['filename'], 'git') != false){
-                echo ' >>>> '.$ficheiro . ' <<<< <br>';
+                //echo ' >>>> '.$ficheiro . ' <<<< <br>';
                 //echo $dir  . '<br>';
                 //echo $scanned_directory . '<br>';
                // if ($file['extension'] == 'jpg'){ //|| ($file_parts['extension'] == 'png')){ //&& filesize($ficheiro) > 100 && strcmp($file_parts['filename'], 'bg-default') != 0) {
-                   $count = $count + 1;
-              /*  <i class='img' data-src='./img/<?php $ficheiro; ?>' ></i>;*/
-               }
+                   $count = $count + 1;?>
+               <i class='img' data-src='./img/<?php $ficheiro; ?>' ></i>;
+              <? }
             }
         }else{
             echo 'Não vejo nada!';
