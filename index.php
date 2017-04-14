@@ -85,11 +85,11 @@
             foreach ($scanned_directory as $key => $ficheiro) {
                 $file = pathinfo($ficheiro);
                 //echo 'file ---- '. print_r($file);
-                if (($file['extension'] == 'jpg' || $file['extension'] == 'png' ) && !is_dir($ficheiro) ){//&& strpos($file['filename'], 'bg-default') !== false && strpos($file['filename'], 'git') != false){
+                if (($file['extension'] == 'jpg' || $file['extension'] == 'png' ) && !is_dir($ficheiro) ){
                  $count = $count + 1;
                    ?>
 
-                <i class='img' data-src="./img/"<?php echo $ficheiro; ?>" ></i>
+                <i class='img' data-src="./img/<?php echo $ficheiro; ?>" ></i>
                 <?php
                }
             }
