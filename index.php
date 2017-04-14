@@ -88,8 +88,8 @@
                 if (($file['extension'] == 'jpg' || $file['extension'] == 'png' ) && !is_dir($ficheiro) ){//&& strpos($file['filename'], 'bg-default') !== false && strpos($file['filename'], 'git') != false){
                  $count = $count + 1;
                    ?>
-                   <h4>ola</h4>
-                <i class='img' data-src="./img/<?php echo 'xxx -<'.$count; ?>" ></i>;
+
+                <i class='img' data-src="./img/"<?php echo 'xxx -<'.$count; ?>" ></i>;
                 <?php
                }
             }
