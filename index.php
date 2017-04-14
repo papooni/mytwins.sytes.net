@@ -77,7 +77,7 @@
         <i class='img' data-src='./img/18.png'></i>
         <i class='img' data-src='./img/19.jpg'></i>-->
         <?php
-        $dir = "/home/forge/mytwins.sytes.net/img/";
+        $dir = "/home/forge/mytwins.sytes.net/img-background/";
         $scanned_directory = array_slice(scandir($dir), 2);
         //print_r($scanned_directory);
         $count = 0;
@@ -85,7 +85,7 @@
             foreach ($scanned_directory as $key => $ficheiro) {
                 $file = pathinfo($ficheiro);
                 //echo 'file ---- '. print_r($file);
-                if (($file['extension'] == 'jpg' || $file['extension'] == 'png' ) && !is_dir($ficheiro) && filesize($dir . $ficheiro) > 10000 ){//&& strpos($file['filename'], 'bg-default') !== false && strpos($file['filename'], 'git') != false){
+                if (($file['extension'] == 'jpg' || $file['extension'] == 'png' ) && !is_dir($ficheiro) ){//&& strpos($file['filename'], 'bg-default') !== false && strpos($file['filename'], 'git') != false){
                 echo ' >>>> '.$ficheiro . ' <<<< <br>';
                 //echo $dir  . '<br>';
                 //echo $scanned_directory . '<br>';
