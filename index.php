@@ -89,7 +89,7 @@
                  $count = $count + 1;
                    ?>
 
-                
+                <i class='img' data-src="./img/"<?php echo $ficheiro; ?>" ></i>
                 <?php
                }
             }
