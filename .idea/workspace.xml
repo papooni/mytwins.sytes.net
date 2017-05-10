@@ -18,11 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DBA.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DBA.php" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/PHP2/DBA.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="679">
-              <caret line="2315" column="12" lean-forward="true" selection-start-line="2315" selection-start-column="12" selection-end-line="2315" selection-end-column="12" />
+            <state relative-caret-position="628">
+              <caret line="2311" column="18" lean-forward="true" selection-start-line="2311" selection-start-column="18" selection-end-line="2311" selection-end-column="18" />
               <folding>
                 <element signature="n#SESSION#0;n#DBA#0;n#!!top" expanded="false" />
                 <element signature="n#AppInicializer#0;n#DBA#0;n#!!top" expanded="false" />
@@ -49,12 +49,18 @@
                 <element signature="n#getViewDefinition#0;n#DBA#0;n#!!top" expanded="false" />
                 <element signature="n#getDataFieldsViews#0;n#DBA#0;n#!!top" expanded="false" />
                 <element signature="n#getDataViews#0;n#DBA#0;n#!!top" expanded="false" />
+                <element signature="n#getViewTranslations#0;n#DBA#0;n#!!top" expanded="false" />
+                <element signature="n#getViewMenuGroups#0;n#DBA#0;n#!!top" expanded="false" />
+                <element signature="n#getViewMenuApplications#0;n#DBA#0;n#!!top" expanded="false" />
+                <element signature="n#getViewMenuModules#0;n#DBA#0;n#!!top" expanded="false" />
                 <element signature="n#getFunctions#0;n#DBA#0;n#!!top" expanded="false" />
                 <element signature="n#getTriggerFunctions#0;n#DBA#0;n#!!top" expanded="false" />
                 <element signature="n#getFunctionTranslations#0;n#DBA#0;n#!!top" expanded="false" />
                 <element signature="n#getFunctionDefinition#0;n#DBA#0;n#!!top" expanded="false" />
+                <element signature="n#getFunctionMenuGroups#0;n#DBA#0;n#!!top" expanded="false" />
+                <element signature="n#getFunctionMenuApplications#0;n#DBA#0;n#!!top" expanded="false" />
+                <element signature="n#getFunctionMenuModules#0;n#DBA#0;n#!!top" expanded="false" />
                 <element signature="n#saveTables#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#saveFields#0;n#DBA#0;n#!!top" expanded="false" />
                 <element signature="e#69764#76010#0#PHP" expanded="false" />
                 <element signature="e#71606#76010#0#PHP" expanded="false" />
                 <element signature="e#76753#78782#0#PHP" expanded="false" />
@@ -68,6 +74,8 @@
                 <element signature="n#getForeignKeys#0;n#DBA#0;n#!!top" expanded="false" />
                 <element signature="n#getIndexes#0;n#DBA#0;n#!!top" expanded="false" />
                 <element signature="n#getDependencies#0;n#DBA#0;n#!!top" expanded="false" />
+                <element signature="n#getDataFields#0;n#DBA#0;n#!!top" expanded="false" />
+                <element signature="n#getData#0;n#DBA#0;n#!!top" expanded="false" />
                 <element signature="n#checkInternalFunctions#0;n#DBA#0;n#!!top" expanded="false" />
                 <element signature="n#addData#0;n#DBA#0;n#!!top" expanded="false" />
                 <element signature="n#getDataScript#0;n#DBA#0;n#!!top" expanded="false" />
@@ -96,180 +104,232 @@
                 <element signature="n#getAbsolutPath#0;n#DBA#0;n#!!top" expanded="false" />
                 <element signature="n#databaseReindex#0;n#DBA#0;n#!!top" expanded="false" />
                 <element signature="n#databaseVacuum#0;n#DBA#0;n#!!top" expanded="false" />
-                <marker date="1494352073402" expanded="true" signature="2703:2790" ph="SELECT name ${$this-&gt;schema}" />
-                <marker date="1494352073402" expanded="true" signature="3169:3304" ph="SELECT id, n... ${$this-&gt;schema}" />
-                <marker date="1494352073402" expanded="true" signature="3605:3749" ph="SELECT id, n... ${$this-&gt;schema}" />
-                <marker date="1494352073402" expanded="true" signature="4049:4193" ph="SELECT id, n... ${$this-&gt;schema}" />
-                <marker date="1494352073402" expanded="true" signature="4519:4736" ph="SELECT disti... ${$this-&gt;schema}" />
-                <marker date="1494352073402" expanded="true" signature="5040:5847" ph="select * fro... x" />
-                <marker date="1494352073402" expanded="true" signature="5064:5819" ph="SELECT disti... " />
-                <marker date="1494352073402" expanded="true" signature="6171:7083" ph="SELECT x.* F... x" />
-                <marker date="1494352073402" expanded="true" signature="6207:7044" ph="SELECT DISTI... " />
-                <marker date="1494352073402" expanded="true" signature="7401:8365" ph="SELECT x.* F... x" />
-                <marker date="1494352073402" expanded="true" signature="7437:8314" ph="SELECT DISTI... " />
-                <marker date="1494352073402" expanded="true" signature="11680:12089" ph="select coale... " />
-                <marker date="1494352073402" expanded="true" signature="12407:12588" ph="select '0' a... " />
-                <marker date="1494352073402" expanded="true" signature="12913:13156" ph="SELECT appt.... ${$this-&gt;schema}" />
-                <marker date="1494352073402" expanded="true" signature="13455:13587" ph="SELECT appt.... ${$this-&gt;schema}" />
-                <marker date="1494352073402" expanded="true" signature="13896:14023" ph="SELECT appt.... ${$this-&gt;schema}" />
-                <marker date="1494352073402" expanded="true" signature="14387:14610" ph="select cast(... tables" />
-                <marker date="1494352073402" expanded="true" signature="14685:16911" ph="select * fro... query2" />
-                <marker date="1494352073402" expanded="true" signature="14731:16848" ph="select disti... " />
-                <marker date="1494352073402" expanded="true" signature="17008:18883" ph="select * fro... query2" />
-                <marker date="1494352073402" expanded="true" signature="17054:18816" ph="select disti... " />
-                <marker date="1494352073402" expanded="true" signature="19051:21076" ph="SELECT * FRO... constraint_name" />
-                <marker date="1494352073402" expanded="true" signature="19083:21076" ph="SELECT kcu.c... TABLES" />
-                <marker date="1494352073402" expanded="true" signature="23500:24413" ph="select * fro... query2" />
-                <marker date="1494352073402" expanded="true" signature="23546:24350" ph="select disti... " />
-                <marker date="1494352073402" expanded="true" signature="24780:25424" ph="select * fro... query2" />
-                <marker date="1494352073402" expanded="true" signature="24826:25361" ph="select disti... " />
-                <marker date="1494352073402" expanded="true" signature="25758:26144" ph="select dd.id... " />
-                <marker date="1494352073402" expanded="true" signature="26576:26842" ph="SELECT DISTI... " />
-                <marker date="1494352073402" expanded="true" signature="27323:27456" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="27761:27811" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="28209:28470" ph="SELECT DISTI... " />
-                <marker date="1494352073402" expanded="true" signature="29594:29644" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="29764:29880" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="30056:30106" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="30223:30273" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="30521:30571" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="30781:30831" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="30971:31021" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="31844:32010" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="32198:32354" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="32479:32620" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="32737:32841" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="32928:33069" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="35239:35339" ph="select pg_ge... " />
-                <marker date="1494352073402" expanded="true" signature="35262:35318" ph="SELECT oid F... pg_class" />
-                <marker date="1494352073402" expanded="true" signature="35406:35801" ph="select coale... " />
-                <marker date="1494352073402" expanded="true" signature="36347:36392" ph="SELECT * fro... ${$query}" />
-                <marker date="1494352073402" expanded="true" signature="37008:37074" ph="SELECT * fro... ${$query}" />
-                <marker date="1494352073402" expanded="true" signature="37170:37220" ph="SELECT count... ${$query}" />
-                <marker date="1494352073402" expanded="true" signature="43620:44012" ph="select dd.id... " />
-                <marker date="1494352073402" expanded="true" signature="45099:45729" ph="SELECT routi... routines" />
-                <marker date="1494352073402" expanded="true" signature="46154:46663" ph="select subst... trim" />
-                <marker date="1494352073402" expanded="true" signature="46391:46656" ph="select trim(... " />
-                <marker date="1494352073402" expanded="true" signature="47032:48075" ph="SELECT param... routines" />
-                <marker date="1494352073402" expanded="true" signature="47486:47872" ph="select regex... " />
-                <marker date="1494352073402" expanded="true" signature="47531:47834" ph="select pg_ge... " />
-                <marker date="1494352073402" expanded="true" signature="47637:47723" ph="select lengt... " />
-                <marker date="1494352073402" expanded="true" signature="48149:48574" ph="select coale... " />
-                <marker date="1494352073402" expanded="true" signature="50365:50485" ph="DROP TABLE I... " />
-                <marker date="1494352073402" expanded="true" signature="51911:52160" ph="INSERT into ${$this-&gt;schema}fw_report_tables... " />
-                <marker date="1494352073402" expanded="true" signature="52520:53656" ph="CREATE TABLE... ${$value['name']}" />
-                <marker date="1494352073402" expanded="true" signature="55754:56070" ph="select coale... ${$this-&gt;schema}" />
-                <marker date="1494352073402" expanded="true" signature="56750:57343" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-                <marker date="1494352073402" expanded="true" signature="58755:58903" ph="ALTER TABLE \&quot;${substr($this-&gt;schema, 0, strlen($this-&gt;schema) - 1)}\&quot;.\&quot;${$value['original_name']}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="59516:60127" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-                <marker date="1494352073402" expanded="true" signature="61153:61454" ph="SELECT DISTI... COLUMNS" />
-                <marker date="1494352073402" expanded="true" signature="62281:62515" ph="INSERT INTO ${$this-&gt;schema}rel_table_rel_modules_list... " />
-                <marker date="1494352073402" expanded="true" signature="64565:64792" ph="select cast(... tables" />
-                <marker date="1494352073402" expanded="true" signature="65262:65381" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$value['table_name']}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="66137:67060" ph="CREATE TABLE... ${$this-&gt;prefix}" />
-                <marker date="1494352073402" expanded="true" signature="67318:67497" ph="select cast(... tables" />
-                <marker date="1494352073402" expanded="true" signature="67629:67646" ph="SELECT value... " />
-                <marker date="1494352073402" expanded="true" signature="67629:67647" ph="SELECT value... " />
-                <marker date="1494352073402" expanded="true" signature="67629:67659" ph="SELECT value... " />
-                <marker date="1494352073402" expanded="true" signature="67629:67663" ph="SELECT value... " />
-                <marker date="1494352073402" expanded="true" signature="67629:67671" ph="SELECT value... " />
-                <marker date="1494352073402" expanded="true" signature="67629:67677" ph="SELECT value... " />
-                <marker date="1494352073402" expanded="true" signature="67629:67690" ph="SELECT value... " />
-                <marker date="1494352073402" expanded="true" signature="67629:67721" ph="SELECT value... " />
-                <marker date="1494352073402" expanded="true" signature="67629:67775" ph="SELECT value... " />
-                <marker date="1494352073402" expanded="true" signature="67629:67776" ph="SELECT value... " />
-                <marker date="1494352073402" expanded="true" signature="67629:67777" ph="SELECT value... ${$schema}.data_dic where table_name = ${$table} and field_name = ${$table}" />
-                <marker date="1494352073402" expanded="true" signature="67629:67805" ph="SELECT value... ${$schema}.data_dic where table_name = ${$table} and field_name = ${$table} and status = 'ACTIVE' and lang_id = ${$_SESSION['language']}" />
-                <marker date="1494352073402" expanded="true" signature="67926:67957" ph="INSERT INTO " />
-                <marker date="1494352073402" expanded="true" signature="67926:68438" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-                <marker date="1494352073402" expanded="true" signature="70906:71537" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-                <marker date="1494352073402" expanded="true" signature="71793:71951" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$value['table_name']}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="73817:74109" ph="SELECT id fr... ${$this-&gt;schema}" />
-                <marker date="1494352073402" expanded="true" signature="74542:75191" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-                <marker date="1494352073402" expanded="true" signature="77590:78214" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-                <marker date="1494352073402" expanded="true" signature="79471:79723" ph="SELECT DISTI... COLUMNS" />
-                <marker date="1494352073402" expanded="true" signature="81001:81123" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="82036:82386" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="82428:82479" ph="UPDATE CASCA... " />
-                <marker date="1494352073402" expanded="true" signature="82588:82710" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="82736:83086" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="83128:83179" ph="UPDATE CASCA... " />
-                <marker date="1494352073402" expanded="true" signature="84607:84749" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="85990:86134" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="86409:86626" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="86749:86961" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="87856:87985" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="91095:91218" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="95113:95724" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-                <marker date="1494352073402" expanded="true" signature="97280:97514" ph="INSERT INTO ${$this-&gt;schema}rel_table_rel_modules_list... " />
-                <marker date="1494352073402" expanded="true" signature="104212:104813" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-                <marker date="1494352073402" expanded="true" signature="106527:106771" ph="INSERT INTO ${$this-&gt;schema}rel_table_rel_modules_list... " />
-                <marker date="1494352073402" expanded="true" signature="111843:111896" ph="DELETE FROM " />
-                <marker date="1494352073402" expanded="true" signature="112298:112359" ph="DELETE FROM " />
-                <marker date="1494352073402" expanded="true" signature="116283:116416" ph="INSERT INTO ${$schema}.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="116449:116488" ph="INSERT INTO ${$schema}.\&quot;&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="116449:116601" ph="INSERT INTO ${$schema}.\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="121295:123145" ph="SELECT disti... pg_constraint" />
-                <marker date="1494352073402" expanded="true" signature="123365:123692" ph="SELECT disti... " />
-                <marker date="1494352073402" expanded="true" signature="124793:127734" ph="select query... query" />
-                <marker date="1494352073402" expanded="true" signature="125099:127538" ph="select disti... " />
-                <marker date="1494352073402" expanded="true" signature="129631:130473" ph="SELECT query... table_name" />
-                <marker date="1494352073402" expanded="true" signature="129744:130220" ph="SELECT disti... pg_constraint" />
-                <marker date="1494352073402" expanded="true" signature="130532:131375" ph="SELECT query... table_name" />
-                <marker date="1494352073402" expanded="true" signature="130645:131122" ph="SELECT disti... pg_constraint" />
-                <marker date="1494352073402" expanded="true" signature="131605:131922" ph="SELECT disti... " />
-                <marker date="1494352073402" expanded="true" signature="133057:133374" ph="SELECT disti... " />
-                <marker date="1494352073402" expanded="true" signature="135270:136498" ph="SELECT --DIS... COLUMNS" />
-                <marker date="1494352073402" expanded="true" signature="135483:135713" ph="/* , case wh... " />
-                <marker date="1494352073402" expanded="true" signature="137224:137942" ph="select array... " />
-                <marker date="1494352073402" expanded="true" signature="138684:138772" ph="select count... tables" />
-                <marker date="1494352073402" expanded="true" signature="139028:139372" ph="SELECT 'lcs_... COLUMNS" />
-                <marker date="1494352073402" expanded="true" signature="139034:139372" ph="select 'lcs_... COLUMNS" />
-                <marker date="1494352073402" expanded="true" signature="139108:139372" ph="SELECT 'lcs_... COLUMNS" />
-                <marker date="1494352073402" expanded="true" signature="140914:140972" ph="SELECT count... ${$table}" />
-                <marker date="1494352073402" expanded="true" signature="142281:142567" ph="SELECT DISTI... " />
-                <marker date="1494352073402" expanded="true" signature="145099:145152" ph="INSERT INTO ${$this-&gt;schema}\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="149907:149992" ph="CREATE TABLE... ${$this-&gt;schema}" />
-                <marker date="1494352073402" expanded="true" signature="150025:150705" ph="SELECT DISTI... " />
-                <marker date="1494352073402" expanded="true" signature="151167:151297" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="151300:151593" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="151637:151691" ph="UPDATE ${$va... " />
-                <marker date="1494352073402" expanded="true" signature="152445:152612" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="152886:153134" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="153274:153517" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="156323:156469" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="156892:156982" ph="SELECT * fro... ${$this-&gt;schema}" />
-                <marker date="1494352073402" expanded="true" signature="157507:157536" ph="SELECT MAX(i... " />
-                <marker date="1494352073402" expanded="true" signature="159739:159768" ph="SELECT MAX(i... " />
-                <marker date="1494352073402" expanded="true" signature="161493:161563" ph="SELECT * fro... ${utf8_decode($sql)}" />
-                <marker date="1494352073402" expanded="true" signature="161924:161953" ph="SELECT MAX(i... " />
-                <marker date="1494352073402" expanded="true" signature="163392:163486" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$table}\&quot;... " />
-                <marker date="1494352073402" expanded="true" signature="167869:168027" ph="select * fro... lg_search_columns" />
-                <marker date="1494352073402" expanded="true" signature="174788:174842" ph="select subst... " />
-                <marker date="1494352073402" expanded="true" signature="174942:176527" ph="SELECT t.tri... triggers" />
-                <marker date="1494352073402" expanded="true" signature="176567:178175" ph="SELECT t.tri... triggers" />
-                <marker date="1494352073402" expanded="true" signature="178488:178739" ph="select r.tab... pg_rewrite" />
-                <marker date="1494352073402" expanded="true" signature="179102:179334" ph="select cast(... tables" />
-                <marker date="1494352073402" expanded="true" signature="179388:179512" ph="SELECT 'Nº d... " />
-                <marker date="1494352073402" expanded="true" signature="179388:179877" ph="SELECT 'Nº d... " />
-                <marker date="1494352073402" expanded="true" signature="179432:179469" ph="select count... ${$table}" />
-                <marker date="1494352073402" expanded="true" signature="179551:179681" ph="SELECT 'Espa... " />
-                <marker date="1494352073402" expanded="true" signature="179720:179877" ph="SELECT 'Últi... " />
-                <marker date="1494352073402" expanded="true" signature="179781:179820" ph="select max(s... ${$table}" />
-                <marker date="1494352073402" expanded="true" signature="180897:181475" ph="SELECT c.rel... " />
-                <marker date="1494352073402" expanded="true" signature="181596:182173" ph="SELECT c.rel... " />
-                <marker date="1494352073402" expanded="true" signature="182265:183201" ph="SELECT regex... " />
-                <marker date="1494352073402" expanded="true" signature="183277:184200" ph="SELECT regex... " />
-                <marker date="1494352073402" expanded="true" signature="185596:185737" ph="SELECT 1 as ${$this-&gt;schema}" />
-                <marker date="1494352073402" expanded="true" signature="187422:187507" ph="SELECT id FR... ${$this-&gt;schema}" />
-                <marker date="1494352073402" expanded="true" signature="187546:187609" ph="SELECT id FR... ${$this-&gt;schema}" />
-                <marker date="1494352073402" expanded="true" signature="198747:198876" ph="select * fro... ${$this-&gt;schema}" />
-                <marker date="1494352073402" expanded="true" signature="199089:199289" ph="select * fro... ${$this-&gt;schema}" />
-                <marker date="1494352073402" expanded="true" signature="199802:199893" ph="select l.acr... ${$this-&gt;schema}" />
-                <marker date="1494352073402" expanded="true" signature="200192:200639" ph="select coale... " />
-                <marker date="1494352073402" expanded="true" signature="200935:201026" ph="select l.acr... ${$this-&gt;schema}" />
-                <marker date="1494352073402" expanded="true" signature="201325:201756" ph="select dd.id... " />
+                <marker date="1494431785099" expanded="true" signature="2703:2790" ph="SELECT name ${$this-&gt;schema}" />
+                <marker date="1494431785099" expanded="true" signature="3169:3304" ph="SELECT id, n... ${$this-&gt;schema}" />
+                <marker date="1494431785099" expanded="true" signature="3605:3749" ph="SELECT id, n... ${$this-&gt;schema}" />
+                <marker date="1494431785099" expanded="true" signature="4049:4193" ph="SELECT id, n... ${$this-&gt;schema}" />
+                <marker date="1494431785099" expanded="true" signature="4519:4736" ph="SELECT disti... ${$this-&gt;schema}" />
+                <marker date="1494431785099" expanded="true" signature="5040:5847" ph="select * fro... x" />
+                <marker date="1494431785099" expanded="true" signature="5064:5819" ph="SELECT disti... " />
+                <marker date="1494431785099" expanded="true" signature="6171:7083" ph="SELECT x.* F... x" />
+                <marker date="1494431785099" expanded="true" signature="6207:7044" ph="SELECT DISTI... " />
+                <marker date="1494431785099" expanded="true" signature="7401:8365" ph="SELECT x.* F... x" />
+                <marker date="1494431785099" expanded="true" signature="7437:8314" ph="SELECT DISTI... " />
+                <marker date="1494431785099" expanded="true" signature="11680:12089" ph="select coale... " />
+                <marker date="1494431785099" expanded="true" signature="12407:12588" ph="select '0' a... " />
+                <marker date="1494431785099" expanded="true" signature="12913:13156" ph="SELECT appt.... ${$this-&gt;schema}" />
+                <marker date="1494431785099" expanded="true" signature="13455:13587" ph="SELECT appt.... ${$this-&gt;schema}" />
+                <marker date="1494431785099" expanded="true" signature="13896:14023" ph="SELECT appt.... ${$this-&gt;schema}" />
+                <marker date="1494431785099" expanded="true" signature="14387:14610" ph="select cast(... tables" />
+                <marker date="1494431785099" expanded="true" signature="14685:16911" ph="select * fro... query2" />
+                <marker date="1494431785099" expanded="true" signature="14731:16848" ph="select disti... " />
+                <marker date="1494431785099" expanded="true" signature="17008:18883" ph="select * fro... query2" />
+                <marker date="1494431785099" expanded="true" signature="17054:18816" ph="select disti... " />
+                <marker date="1494431785099" expanded="true" signature="19051:21076" ph="SELECT * FRO... constraint_name" />
+                <marker date="1494431785099" expanded="true" signature="19083:21076" ph="SELECT kcu.c... TABLES" />
+                <marker date="1494431785099" expanded="true" signature="23500:24413" ph="select * fro... query2" />
+                <marker date="1494431785099" expanded="true" signature="23546:24350" ph="select disti... " />
+                <marker date="1494431785099" expanded="true" signature="24780:25424" ph="select * fro... query2" />
+                <marker date="1494431785099" expanded="true" signature="24826:25361" ph="select disti... " />
+                <marker date="1494431785099" expanded="true" signature="25758:26144" ph="select dd.id... " />
+                <marker date="1494431785099" expanded="true" signature="26576:26842" ph="SELECT DISTI... " />
+                <marker date="1494431785099" expanded="true" signature="27323:27456" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="27761:27811" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="28209:28470" ph="SELECT DISTI... " />
+                <marker date="1494431785099" expanded="true" signature="29594:29644" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="29764:29880" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="30056:30106" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="30223:30273" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="30521:30571" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="30781:30831" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="30971:31021" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="31844:32010" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="32198:32354" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="32479:32620" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="32737:32841" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="32928:33069" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="35239:35339" ph="select pg_ge... " />
+                <marker date="1494431785099" expanded="true" signature="35262:35318" ph="SELECT oid F... pg_class" />
+                <marker date="1494431785099" expanded="true" signature="35406:35801" ph="select coale... " />
+                <marker date="1494431785099" expanded="true" signature="36347:36392" ph="SELECT * fro... ${$query}" />
+                <marker date="1494431785099" expanded="true" signature="37008:37074" ph="SELECT * fro... ${$query}" />
+                <marker date="1494431785099" expanded="true" signature="37170:37220" ph="SELECT count... ${$query}" />
+                <marker date="1494431785099" expanded="true" signature="43620:44012" ph="select dd.id... " />
+                <marker date="1494431785099" expanded="true" signature="45099:45729" ph="SELECT routi... routines" />
+                <marker date="1494431785099" expanded="true" signature="46154:46663" ph="select subst... trim" />
+                <marker date="1494431785099" expanded="true" signature="46391:46656" ph="select trim(... " />
+                <marker date="1494431785099" expanded="true" signature="47032:48075" ph="SELECT param... routines" />
+                <marker date="1494431785099" expanded="true" signature="47486:47872" ph="select regex... " />
+                <marker date="1494431785099" expanded="true" signature="47531:47834" ph="select pg_ge... " />
+                <marker date="1494431785099" expanded="true" signature="47637:47723" ph="select lengt... " />
+                <marker date="1494431785099" expanded="true" signature="48149:48574" ph="select coale... " />
+                <marker date="1494431785099" expanded="true" signature="50365:50485" ph="DROP TABLE I... " />
+                <marker date="1494431785099" expanded="true" signature="51911:52160" ph="INSERT into ${$this-&gt;schema}fw_report_tables... " />
+                <marker date="1494431785099" expanded="true" signature="52520:53656" ph="CREATE TABLE... ${$value['name']}" />
+                <marker date="1494431785099" expanded="true" signature="55754:56070" ph="select coale... ${$this-&gt;schema}" />
+                <marker date="1494431785099" expanded="true" signature="56750:57343" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
+                <marker date="1494431785099" expanded="true" signature="58755:58903" ph="ALTER TABLE \&quot;${substr($this-&gt;schema, 0, strlen($this-&gt;schema) - 1)}\&quot;.\&quot;${$value['original_name']}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="59516:60127" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
+                <marker date="1494431785099" expanded="true" signature="61153:61454" ph="SELECT DISTI... COLUMNS" />
+                <marker date="1494431785099" expanded="true" signature="62281:62515" ph="INSERT INTO ${$this-&gt;schema}rel_table_rel_modules_list... " />
+                <marker date="1494431785099" expanded="true" signature="64565:64792" ph="select cast(... tables" />
+                <marker date="1494431785099" expanded="true" signature="65262:65381" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$value['table_name']}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="66137:67060" ph="CREATE TABLE... ${$this-&gt;prefix}" />
+                <marker date="1494431785099" expanded="true" signature="67318:67497" ph="select cast(... tables" />
+                <marker date="1494431785099" expanded="true" signature="67629:67646" ph="SELECT value... " />
+                <marker date="1494431785099" expanded="true" signature="67629:67647" ph="SELECT value... " />
+                <marker date="1494431785099" expanded="true" signature="67629:67659" ph="SELECT value... " />
+                <marker date="1494431785099" expanded="true" signature="67629:67663" ph="SELECT value... " />
+                <marker date="1494431785099" expanded="true" signature="67629:67671" ph="SELECT value... " />
+                <marker date="1494431785099" expanded="true" signature="67629:67677" ph="SELECT value... " />
+                <marker date="1494431785099" expanded="true" signature="67629:67690" ph="SELECT value... " />
+                <marker date="1494431785099" expanded="true" signature="67629:67721" ph="SELECT value... " />
+                <marker date="1494431785099" expanded="true" signature="67629:67775" ph="SELECT value... " />
+                <marker date="1494431785099" expanded="true" signature="67629:67776" ph="SELECT value... " />
+                <marker date="1494431785099" expanded="true" signature="67629:67777" ph="SELECT value... ${$schema}.data_dic where table_name = ${$table} and field_name = ${$table}" />
+                <marker date="1494431785099" expanded="true" signature="67629:67805" ph="SELECT value... ${$schema}.data_dic where table_name = ${$table} and field_name = ${$table} and status = 'ACTIVE' and lang_id = ${$_SESSION['language']}" />
+                <marker date="1494431785099" expanded="true" signature="67926:67957" ph="INSERT INTO " />
+                <marker date="1494431785099" expanded="true" signature="67926:68438" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
+                <marker date="1494431785099" expanded="true" signature="70906:71537" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
+                <marker date="1494431785099" expanded="true" signature="71793:71951" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$value['table_name']}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="73817:74109" ph="SELECT id fr... ${$this-&gt;schema}" />
+                <marker date="1494431785099" expanded="true" signature="74542:75191" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
+                <marker date="1494431785099" expanded="true" signature="77590:78214" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
+                <marker date="1494431785099" expanded="true" signature="79471:79723" ph="SELECT DISTI... COLUMNS" />
+                <marker date="1494431785099" expanded="true" signature="81001:81123" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="82036:82386" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="82428:82479" ph="UPDATE CASCA... " />
+                <marker date="1494431785099" expanded="true" signature="82588:82710" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="82736:83086" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="83128:83179" ph="UPDATE CASCA... " />
+                <marker date="1494431785099" expanded="true" signature="84607:84749" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="85990:86134" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="86409:86626" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="86749:86961" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="87856:87985" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="91095:91218" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="95113:95724" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
+                <marker date="1494431785099" expanded="true" signature="97280:97514" ph="INSERT INTO ${$this-&gt;schema}rel_table_rel_modules_list... " />
+                <marker date="1494431785099" expanded="true" signature="104212:104813" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
+                <marker date="1494431785099" expanded="true" signature="106527:106771" ph="INSERT INTO ${$this-&gt;schema}rel_table_rel_modules_list... " />
+                <marker date="1494431785099" expanded="true" signature="111843:111896" ph="DELETE FROM " />
+                <marker date="1494431785099" expanded="true" signature="112450:112511" ph="DELETE FROM " />
+                <marker date="1494431785099" expanded="true" signature="116665:116811" ph="INSERT INTO ${$schema}.\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="117454:117468" ph="SELECT id FR... " />
+                <marker date="1494431785099" expanded="true" signature="117454:117486" ph="SELECT id FR... ${$schema}." />
+                <marker date="1494431785099" expanded="true" signature="117454:117501" ph="SELECT id FR... ${$table}" />
+                <marker date="1494431785099" expanded="true" signature="117454:117513" ph="SELECT id FR... ${$schema}." />
+                <marker date="1494431785099" expanded="true" signature="117454:117514" ph="SELECT id FR... ${$schema}." />
+                <marker date="1494431785099" expanded="true" signature="117454:117515" ph="SELECT id FR... ${$table}" />
+                <marker date="1494431785099" expanded="true" signature="118020:118172" ph="INSERT INTO ${$schema}.\&quot;lcs_${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="119578:119637" ph="SELECT id FR... ${$table}" />
+                <marker date="1494431785099" expanded="true" signature="119578:119638" ph="SELECT id FR... ${$table}" />
+                <marker date="1494431785099" expanded="true" signature="120022:120174" ph="INSERT INTO ${$schema}.\&quot;lcs_${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="123877:125727" ph="SELECT disti... pg_constraint" />
+                <marker date="1494431785099" expanded="true" signature="125947:126274" ph="SELECT disti... " />
+                <marker date="1494431785099" expanded="true" signature="127375:130316" ph="select query... query" />
+                <marker date="1494431785099" expanded="true" signature="127681:130120" ph="select disti... " />
+                <marker date="1494431785099" expanded="true" signature="132213:133055" ph="SELECT query... table_name" />
+                <marker date="1494431785099" expanded="true" signature="132326:132802" ph="SELECT disti... pg_constraint" />
+                <marker date="1494431785099" expanded="true" signature="133114:133957" ph="SELECT query... table_name" />
+                <marker date="1494431785099" expanded="true" signature="133227:133704" ph="SELECT disti... pg_constraint" />
+                <marker date="1494431785099" expanded="true" signature="134187:134504" ph="SELECT disti... " />
+                <marker date="1494431785099" expanded="true" signature="135639:135956" ph="SELECT disti... " />
+                <marker date="1494431785099" expanded="true" signature="137852:139076" ph="SELECT --DIS... COLUMNS" />
+                <marker date="1494431785099" expanded="true" signature="138065:138295" ph="/* , case wh... " />
+                <marker date="1494431785099" expanded="true" signature="139802:140520" ph="select array... " />
+                <marker date="1494431785099" expanded="true" signature="141262:141350" ph="select count... tables" />
+                <marker date="1494431785099" expanded="true" signature="141622:141966" ph="SELECT 'lcs_... COLUMNS" />
+                <marker date="1494431785099" expanded="true" signature="141628:141966" ph="select 'lcs_... COLUMNS" />
+                <marker date="1494431785099" expanded="true" signature="141702:141966" ph="SELECT 'lcs_... COLUMNS" />
+                <marker date="1494431785099" expanded="true" signature="143535:143593" ph="SELECT count... ${$table}" />
+                <marker date="1494431785099" expanded="true" signature="144902:145188" ph="SELECT DISTI... " />
+                <marker date="1494431785099" expanded="true" signature="147720:147773" ph="INSERT INTO ${$this-&gt;schema}\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="152528:152613" ph="CREATE TABLE... ${$this-&gt;schema}" />
+                <marker date="1494431785099" expanded="true" signature="152646:153326" ph="SELECT DISTI... " />
+                <marker date="1494431785099" expanded="true" signature="153788:153918" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="153921:154214" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="154258:154312" ph="UPDATE ${$va... " />
+                <marker date="1494431785099" expanded="true" signature="155066:155233" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="155507:155755" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="155895:156138" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="158944:159090" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="159513:159603" ph="SELECT * fro... ${$this-&gt;schema}" />
+                <marker date="1494431785099" expanded="true" signature="160128:160157" ph="SELECT MAX(i... " />
+                <marker date="1494431785099" expanded="true" signature="162360:162389" ph="SELECT MAX(i... " />
+                <marker date="1494431785099" expanded="true" signature="164114:164184" ph="SELECT * fro... ${utf8_decode($sql)}" />
+                <marker date="1494431785099" expanded="true" signature="164545:164574" ph="SELECT MAX(i... " />
+                <marker date="1494431785099" expanded="true" signature="166013:166107" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$table}\&quot;... " />
+                <marker date="1494431785099" expanded="true" signature="170490:170648" ph="select * fro... lg_search_columns" />
+                <marker date="1494431785099" expanded="true" signature="177409:177463" ph="select subst... " />
+                <marker date="1494431785099" expanded="true" signature="177563:179148" ph="SELECT t.tri... triggers" />
+                <marker date="1494431785099" expanded="true" signature="179188:180796" ph="SELECT t.tri... triggers" />
+                <marker date="1494431785099" expanded="true" signature="181109:181360" ph="select r.tab... pg_rewrite" />
+                <marker date="1494431785099" expanded="true" signature="181723:181955" ph="select cast(... tables" />
+                <marker date="1494431785099" expanded="true" signature="182009:182133" ph="SELECT 'Nº d... " />
+                <marker date="1494431785099" expanded="true" signature="182009:182498" ph="SELECT 'Nº d... " />
+                <marker date="1494431785099" expanded="true" signature="182053:182090" ph="select count... ${$table}" />
+                <marker date="1494431785099" expanded="true" signature="182172:182302" ph="SELECT 'Espa... " />
+                <marker date="1494431785099" expanded="true" signature="182341:182498" ph="SELECT 'Últi... " />
+                <marker date="1494431785099" expanded="true" signature="182402:182441" ph="select max(s... ${$table}" />
+                <marker date="1494431785099" expanded="true" signature="183518:184096" ph="SELECT c.rel... " />
+                <marker date="1494431785099" expanded="true" signature="184217:184794" ph="SELECT c.rel... " />
+                <marker date="1494431785099" expanded="true" signature="184886:185822" ph="SELECT regex... " />
+                <marker date="1494431785099" expanded="true" signature="185898:186821" ph="SELECT regex... " />
+                <marker date="1494431785099" expanded="true" signature="188217:188358" ph="SELECT 1 as ${$this-&gt;schema}" />
+                <marker date="1494431785099" expanded="true" signature="190043:190128" ph="SELECT id FR... ${$this-&gt;schema}" />
+                <marker date="1494431785099" expanded="true" signature="190167:190230" ph="SELECT id FR... ${$this-&gt;schema}" />
+                <marker date="1494431785099" expanded="true" signature="201368:201497" ph="select * fro... ${$this-&gt;schema}" />
+                <marker date="1494431785099" expanded="true" signature="201710:201910" ph="select * fro... ${$this-&gt;schema}" />
+                <marker date="1494431785099" expanded="true" signature="202423:202514" ph="select l.acr... ${$this-&gt;schema}" />
+                <marker date="1494431785099" expanded="true" signature="202813:203260" ph="select coale... " />
+                <marker date="1494431785099" expanded="true" signature="203556:203647" ph="select l.acr... ${$this-&gt;schema}" />
+                <marker date="1494431785099" expanded="true" signature="203946:204377" ph="select dd.id... " />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExportEDI.php" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Desktop/PHP2/ExportEDI.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="204" column="5" lean-forward="true" selection-start-line="204" selection-start-column="5" selection-end-line="204" selection-end-column="5" />
+              <folding>
+                <element signature="n#getDataHeader#0;n#ExportEDI#0;n#!!top" expanded="false" />
+                <element signature="n#getDataDetail#0;n#ExportEDI#0;n#!!top" expanded="false" />
+                <element signature="n#getDataControl#0;n#ExportEDI#0;n#!!top" expanded="false" />
+                <marker date="1494432450790" expanded="true" signature="385:570" ph="SELECT num_d... ${$this-&gt;schema}" />
+                <marker date="1494432450790" expanded="true" signature="419:476" ph="SELECT name users" />
+                <marker date="1494432450790" expanded="true" signature="972:1040" ph="SELECT unit_... ${$this-&gt;schema}" />
+                <marker date="1494432450790" expanded="true" signature="1121:1251" ph="SELECT name,... ${$this-&gt;schema}" />
+                <marker date="1494432450790" expanded="true" signature="1612:1692" ph="SELECT cs_id... ${$this-&gt;schema}" />
+                <marker date="1494432450790" expanded="true" signature="1865:2003" ph="SELECT vat_n... ${$this-&gt;schema}" />
+                <marker date="1494432450790" expanded="true" signature="2375:2456" ph="SELECT obs, ${$this-&gt;schema}" />
+                <marker date="1494432450790" expanded="true" signature="2955:3039" ph="SELECT origi... ${$this-&gt;schema}" />
+                <marker date="1494432450790" expanded="true" signature="3492:4624" ph="SELECT origi... ${$this-&gt;schema}" />
+                <marker date="1494432450790" expanded="true" signature="3574:3629" ph="SELECT name ${$tabela}" />
+                <marker date="1494432450790" expanded="true" signature="3689:3816" ph="SELECT name ${$tabela}" />
+                <marker date="1494432450790" expanded="true" signature="3733:3814" ph="SELECT packi... rel_packing_product" />
+                <marker date="1494432450790" expanded="true" signature="3926:4014" ph="/*(SELECT na... " />
+                <marker date="1494432450790" expanded="true" signature="3929:3996" ph="SELECT name product_units" />
+                <marker date="1494432450790" expanded="true" signature="4048:4119" ph="SELECT edi_n... product_units" />
+                <marker date="1494432450790" expanded="true" signature="5592:5671" ph="SELECT disco... ${$this-&gt;schema}" />
+                <marker date="1494432450790" expanded="true" signature="6116:6212" ph="SELECT gross... ${$this-&gt;schema}" />
+                <marker date="1494432450790" expanded="true" signature="8600:8653" ph="SELECT print... fw_document" />
+                <marker date="1494432450790" expanded="true" signature="8600:8654" ph="SELECT descr... fw_document" />
+                <marker date="1494432450790" expanded="true" signature="8908:8978" ph="SELECT num_d... ${$this-&gt;schema}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dataBrockerExec.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerExec.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -278,7 +338,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>fwrite</find>
       <find>insert</find>
       <find>price_table</find>
       <find>$price_table</find>
@@ -287,7 +346,6 @@
       <find>BARCODE LINES</find>
       <find>query'</find>
       <find>[U]</find>
-      <find>getData</find>
       <find>getdatafields</find>
       <find>desculpe</find>
       <find>select top 1</find>
@@ -308,6 +366,8 @@
       <find>importproduct</find>
       <find>$schema</find>
       <find>document</find>
+      <find>getData</find>
+      <find>checkPackage</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -344,8 +404,8 @@
         <option value="$USER_HOME$/Desktop/PHP2/ImportProduct.php" />
         <option value="$USER_HOME$/Desktop/PHP2/dataBrockerExec.php" />
         <option value="$USER_HOME$/Desktop/PHP2/ExportOrderEDI.php" />
-        <option value="$USER_HOME$/Desktop/PHP2/ExportEDI.php" />
         <option value="$USER_HOME$/Desktop/PHP2/DBA.php" />
+        <option value="$USER_HOME$/Desktop/PHP2/ExportEDI.php" />
       </list>
     </option>
   </component>
@@ -505,6 +565,7 @@
       <workItem from="1493712482797" duration="20543000" />
       <workItem from="1493798601846" duration="101672000" />
       <workItem from="1494335665827" duration="13505000" />
+      <workItem from="1494403847204" duration="15282000" />
     </task>
     <task id="LOCAL-00001" summary="zz 2">
       <created>1491917197849</created>
@@ -720,7 +781,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="387795000" />
+    <option name="totallyTimeSpent" value="403077000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -732,26 +793,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16204691" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2340195" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20801733" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19176598" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17377399" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3066089" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19176598" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3066089" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -788,20 +849,19 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$USER_HOME$/Desktop/PHP2/ExportEDI.php</url>
+          <line>223</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="78" />
+      <option name="time" value="83" />
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PhpLocalRunConfigurationType">
-        <watch expression="$snd_string" />
-        <watch expression="$rcv_string" />
-        <watch expression="$doc_string" />
-        <watch expression="$txt_string" />
-        <watch expression="$header" />
-      </configuration>
-    </watches-manager>
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.php">
@@ -1044,50 +1104,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerExec.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="2000" column="0" lean-forward="false" selection-start-line="2000" selection-start-column="0" selection-end-line="2001" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/PHP2/ExportEDI.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="n#getDataHeader#0;n#ExportEDI#0;n#!!top" expanded="false" />
-            <element signature="n#getDataDetail#0;n#ExportEDI#0;n#!!top" expanded="false" />
-            <element signature="n#getDataControl#0;n#ExportEDI#0;n#!!top" expanded="false" />
-            <element signature="n#checkUnit#0;n#ExportEDI#0;n#!!top" expanded="false" />
-            <element signature="n#checkPackage#0;n#ExportEDI#0;n#!!top" expanded="false" />
-            <element signature="n#main#0;n#ExportEDI#0;n#!!top" expanded="false" />
-            <marker date="1494337705527" expanded="true" signature="385:570" ph="SELECT num_d... ${$this-&gt;schema}" />
-            <marker date="1494337705527" expanded="true" signature="419:476" ph="SELECT name users" />
-            <marker date="1494337705527" expanded="true" signature="972:1040" ph="SELECT unit_... ${$this-&gt;schema}" />
-            <marker date="1494337705527" expanded="true" signature="1121:1251" ph="SELECT name,... ${$this-&gt;schema}" />
-            <marker date="1494337705527" expanded="true" signature="1612:1692" ph="SELECT cs_id... ${$this-&gt;schema}" />
-            <marker date="1494337705527" expanded="true" signature="1865:2003" ph="SELECT vat_n... ${$this-&gt;schema}" />
-            <marker date="1494337705527" expanded="true" signature="2375:2456" ph="SELECT obs, ${$this-&gt;schema}" />
-            <marker date="1494337705527" expanded="true" signature="2955:3039" ph="SELECT origi... ${$this-&gt;schema}" />
-            <marker date="1494337705527" expanded="true" signature="3470:4454" ph="SELECT origi... ${$this-&gt;schema}" />
-            <marker date="1494337705527" expanded="true" signature="3552:3607" ph="SELECT name ${$tabela}" />
-            <marker date="1494337705527" expanded="true" signature="3657:3784" ph="SELECT name ${$tabela}" />
-            <marker date="1494337705527" expanded="true" signature="3701:3782" ph="SELECT packi... rel_packing_product" />
-            <marker date="1494337705527" expanded="true" signature="3882:3949" ph="SELECT name product_units" />
-            <marker date="1494337705527" expanded="true" signature="5396:5475" ph="SELECT disco... ${$this-&gt;schema}" />
-            <marker date="1494337705527" expanded="true" signature="5920:6016" ph="SELECT gross... ${$this-&gt;schema}" />
-            <marker date="1494337705527" expanded="true" signature="8399:8452" ph="SELECT print... fw_document" />
-            <marker date="1494337705527" expanded="true" signature="8399:8453" ph="SELECT descr... fw_document" />
-            <marker date="1494337705527" expanded="true" signature="8694:8764" ph="SELECT num_d... ${$this-&gt;schema}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/PHP2/DBA.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="679">
-          <caret line="2315" column="12" lean-forward="true" selection-start-line="2315" selection-start-column="12" selection-end-line="2315" selection-end-column="12" />
+        <state relative-caret-position="628">
+          <caret line="2311" column="18" lean-forward="true" selection-start-line="2311" selection-start-column="18" selection-end-line="2311" selection-end-column="18" />
           <folding>
             <element signature="n#SESSION#0;n#DBA#0;n#!!top" expanded="false" />
             <element signature="n#AppInicializer#0;n#DBA#0;n#!!top" expanded="false" />
@@ -1114,12 +1134,18 @@
             <element signature="n#getViewDefinition#0;n#DBA#0;n#!!top" expanded="false" />
             <element signature="n#getDataFieldsViews#0;n#DBA#0;n#!!top" expanded="false" />
             <element signature="n#getDataViews#0;n#DBA#0;n#!!top" expanded="false" />
+            <element signature="n#getViewTranslations#0;n#DBA#0;n#!!top" expanded="false" />
+            <element signature="n#getViewMenuGroups#0;n#DBA#0;n#!!top" expanded="false" />
+            <element signature="n#getViewMenuApplications#0;n#DBA#0;n#!!top" expanded="false" />
+            <element signature="n#getViewMenuModules#0;n#DBA#0;n#!!top" expanded="false" />
             <element signature="n#getFunctions#0;n#DBA#0;n#!!top" expanded="false" />
             <element signature="n#getTriggerFunctions#0;n#DBA#0;n#!!top" expanded="false" />
             <element signature="n#getFunctionTranslations#0;n#DBA#0;n#!!top" expanded="false" />
             <element signature="n#getFunctionDefinition#0;n#DBA#0;n#!!top" expanded="false" />
+            <element signature="n#getFunctionMenuGroups#0;n#DBA#0;n#!!top" expanded="false" />
+            <element signature="n#getFunctionMenuApplications#0;n#DBA#0;n#!!top" expanded="false" />
+            <element signature="n#getFunctionMenuModules#0;n#DBA#0;n#!!top" expanded="false" />
             <element signature="n#saveTables#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#saveFields#0;n#DBA#0;n#!!top" expanded="false" />
             <element signature="e#69764#76010#0#PHP" expanded="false" />
             <element signature="e#71606#76010#0#PHP" expanded="false" />
             <element signature="e#76753#78782#0#PHP" expanded="false" />
@@ -1133,6 +1159,8 @@
             <element signature="n#getForeignKeys#0;n#DBA#0;n#!!top" expanded="false" />
             <element signature="n#getIndexes#0;n#DBA#0;n#!!top" expanded="false" />
             <element signature="n#getDependencies#0;n#DBA#0;n#!!top" expanded="false" />
+            <element signature="n#getDataFields#0;n#DBA#0;n#!!top" expanded="false" />
+            <element signature="n#getData#0;n#DBA#0;n#!!top" expanded="false" />
             <element signature="n#checkInternalFunctions#0;n#DBA#0;n#!!top" expanded="false" />
             <element signature="n#addData#0;n#DBA#0;n#!!top" expanded="false" />
             <element signature="n#getDataScript#0;n#DBA#0;n#!!top" expanded="false" />
@@ -1161,179 +1189,227 @@
             <element signature="n#getAbsolutPath#0;n#DBA#0;n#!!top" expanded="false" />
             <element signature="n#databaseReindex#0;n#DBA#0;n#!!top" expanded="false" />
             <element signature="n#databaseVacuum#0;n#DBA#0;n#!!top" expanded="false" />
-            <marker date="1494352073402" expanded="true" signature="2703:2790" ph="SELECT name ${$this-&gt;schema}" />
-            <marker date="1494352073402" expanded="true" signature="3169:3304" ph="SELECT id, n... ${$this-&gt;schema}" />
-            <marker date="1494352073402" expanded="true" signature="3605:3749" ph="SELECT id, n... ${$this-&gt;schema}" />
-            <marker date="1494352073402" expanded="true" signature="4049:4193" ph="SELECT id, n... ${$this-&gt;schema}" />
-            <marker date="1494352073402" expanded="true" signature="4519:4736" ph="SELECT disti... ${$this-&gt;schema}" />
-            <marker date="1494352073402" expanded="true" signature="5040:5847" ph="select * fro... x" />
-            <marker date="1494352073402" expanded="true" signature="5064:5819" ph="SELECT disti... " />
-            <marker date="1494352073402" expanded="true" signature="6171:7083" ph="SELECT x.* F... x" />
-            <marker date="1494352073402" expanded="true" signature="6207:7044" ph="SELECT DISTI... " />
-            <marker date="1494352073402" expanded="true" signature="7401:8365" ph="SELECT x.* F... x" />
-            <marker date="1494352073402" expanded="true" signature="7437:8314" ph="SELECT DISTI... " />
-            <marker date="1494352073402" expanded="true" signature="11680:12089" ph="select coale... " />
-            <marker date="1494352073402" expanded="true" signature="12407:12588" ph="select '0' a... " />
-            <marker date="1494352073402" expanded="true" signature="12913:13156" ph="SELECT appt.... ${$this-&gt;schema}" />
-            <marker date="1494352073402" expanded="true" signature="13455:13587" ph="SELECT appt.... ${$this-&gt;schema}" />
-            <marker date="1494352073402" expanded="true" signature="13896:14023" ph="SELECT appt.... ${$this-&gt;schema}" />
-            <marker date="1494352073402" expanded="true" signature="14387:14610" ph="select cast(... tables" />
-            <marker date="1494352073402" expanded="true" signature="14685:16911" ph="select * fro... query2" />
-            <marker date="1494352073402" expanded="true" signature="14731:16848" ph="select disti... " />
-            <marker date="1494352073402" expanded="true" signature="17008:18883" ph="select * fro... query2" />
-            <marker date="1494352073402" expanded="true" signature="17054:18816" ph="select disti... " />
-            <marker date="1494352073402" expanded="true" signature="19051:21076" ph="SELECT * FRO... constraint_name" />
-            <marker date="1494352073402" expanded="true" signature="19083:21076" ph="SELECT kcu.c... TABLES" />
-            <marker date="1494352073402" expanded="true" signature="23500:24413" ph="select * fro... query2" />
-            <marker date="1494352073402" expanded="true" signature="23546:24350" ph="select disti... " />
-            <marker date="1494352073402" expanded="true" signature="24780:25424" ph="select * fro... query2" />
-            <marker date="1494352073402" expanded="true" signature="24826:25361" ph="select disti... " />
-            <marker date="1494352073402" expanded="true" signature="25758:26144" ph="select dd.id... " />
-            <marker date="1494352073402" expanded="true" signature="26576:26842" ph="SELECT DISTI... " />
-            <marker date="1494352073402" expanded="true" signature="27323:27456" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="27761:27811" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="28209:28470" ph="SELECT DISTI... " />
-            <marker date="1494352073402" expanded="true" signature="29594:29644" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="29764:29880" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="30056:30106" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="30223:30273" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="30521:30571" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="30781:30831" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="30971:31021" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="31844:32010" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="32198:32354" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="32479:32620" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="32737:32841" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="32928:33069" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="35239:35339" ph="select pg_ge... " />
-            <marker date="1494352073402" expanded="true" signature="35262:35318" ph="SELECT oid F... pg_class" />
-            <marker date="1494352073402" expanded="true" signature="35406:35801" ph="select coale... " />
-            <marker date="1494352073402" expanded="true" signature="36347:36392" ph="SELECT * fro... ${$query}" />
-            <marker date="1494352073402" expanded="true" signature="37008:37074" ph="SELECT * fro... ${$query}" />
-            <marker date="1494352073402" expanded="true" signature="37170:37220" ph="SELECT count... ${$query}" />
-            <marker date="1494352073402" expanded="true" signature="43620:44012" ph="select dd.id... " />
-            <marker date="1494352073402" expanded="true" signature="45099:45729" ph="SELECT routi... routines" />
-            <marker date="1494352073402" expanded="true" signature="46154:46663" ph="select subst... trim" />
-            <marker date="1494352073402" expanded="true" signature="46391:46656" ph="select trim(... " />
-            <marker date="1494352073402" expanded="true" signature="47032:48075" ph="SELECT param... routines" />
-            <marker date="1494352073402" expanded="true" signature="47486:47872" ph="select regex... " />
-            <marker date="1494352073402" expanded="true" signature="47531:47834" ph="select pg_ge... " />
-            <marker date="1494352073402" expanded="true" signature="47637:47723" ph="select lengt... " />
-            <marker date="1494352073402" expanded="true" signature="48149:48574" ph="select coale... " />
-            <marker date="1494352073402" expanded="true" signature="50365:50485" ph="DROP TABLE I... " />
-            <marker date="1494352073402" expanded="true" signature="51911:52160" ph="INSERT into ${$this-&gt;schema}fw_report_tables... " />
-            <marker date="1494352073402" expanded="true" signature="52520:53656" ph="CREATE TABLE... ${$value['name']}" />
-            <marker date="1494352073402" expanded="true" signature="55754:56070" ph="select coale... ${$this-&gt;schema}" />
-            <marker date="1494352073402" expanded="true" signature="56750:57343" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-            <marker date="1494352073402" expanded="true" signature="58755:58903" ph="ALTER TABLE \&quot;${substr($this-&gt;schema, 0, strlen($this-&gt;schema) - 1)}\&quot;.\&quot;${$value['original_name']}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="59516:60127" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-            <marker date="1494352073402" expanded="true" signature="61153:61454" ph="SELECT DISTI... COLUMNS" />
-            <marker date="1494352073402" expanded="true" signature="62281:62515" ph="INSERT INTO ${$this-&gt;schema}rel_table_rel_modules_list... " />
-            <marker date="1494352073402" expanded="true" signature="64565:64792" ph="select cast(... tables" />
-            <marker date="1494352073402" expanded="true" signature="65262:65381" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$value['table_name']}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="66137:67060" ph="CREATE TABLE... ${$this-&gt;prefix}" />
-            <marker date="1494352073402" expanded="true" signature="67318:67497" ph="select cast(... tables" />
-            <marker date="1494352073402" expanded="true" signature="67629:67646" ph="SELECT value... " />
-            <marker date="1494352073402" expanded="true" signature="67629:67647" ph="SELECT value... " />
-            <marker date="1494352073402" expanded="true" signature="67629:67659" ph="SELECT value... " />
-            <marker date="1494352073402" expanded="true" signature="67629:67663" ph="SELECT value... " />
-            <marker date="1494352073402" expanded="true" signature="67629:67671" ph="SELECT value... " />
-            <marker date="1494352073402" expanded="true" signature="67629:67677" ph="SELECT value... " />
-            <marker date="1494352073402" expanded="true" signature="67629:67690" ph="SELECT value... " />
-            <marker date="1494352073402" expanded="true" signature="67629:67721" ph="SELECT value... " />
-            <marker date="1494352073402" expanded="true" signature="67629:67775" ph="SELECT value... " />
-            <marker date="1494352073402" expanded="true" signature="67629:67776" ph="SELECT value... " />
-            <marker date="1494352073402" expanded="true" signature="67629:67777" ph="SELECT value... ${$schema}.data_dic where table_name = ${$table} and field_name = ${$table}" />
-            <marker date="1494352073402" expanded="true" signature="67629:67805" ph="SELECT value... ${$schema}.data_dic where table_name = ${$table} and field_name = ${$table} and status = 'ACTIVE' and lang_id = ${$_SESSION['language']}" />
-            <marker date="1494352073402" expanded="true" signature="67926:67957" ph="INSERT INTO " />
-            <marker date="1494352073402" expanded="true" signature="67926:68438" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-            <marker date="1494352073402" expanded="true" signature="70906:71537" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-            <marker date="1494352073402" expanded="true" signature="71793:71951" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$value['table_name']}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="73817:74109" ph="SELECT id fr... ${$this-&gt;schema}" />
-            <marker date="1494352073402" expanded="true" signature="74542:75191" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-            <marker date="1494352073402" expanded="true" signature="77590:78214" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-            <marker date="1494352073402" expanded="true" signature="79471:79723" ph="SELECT DISTI... COLUMNS" />
-            <marker date="1494352073402" expanded="true" signature="81001:81123" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="82036:82386" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="82428:82479" ph="UPDATE CASCA... " />
-            <marker date="1494352073402" expanded="true" signature="82588:82710" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="82736:83086" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="83128:83179" ph="UPDATE CASCA... " />
-            <marker date="1494352073402" expanded="true" signature="84607:84749" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="85990:86134" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="86409:86626" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="86749:86961" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="87856:87985" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="91095:91218" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="95113:95724" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-            <marker date="1494352073402" expanded="true" signature="97280:97514" ph="INSERT INTO ${$this-&gt;schema}rel_table_rel_modules_list... " />
-            <marker date="1494352073402" expanded="true" signature="104212:104813" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-            <marker date="1494352073402" expanded="true" signature="106527:106771" ph="INSERT INTO ${$this-&gt;schema}rel_table_rel_modules_list... " />
-            <marker date="1494352073402" expanded="true" signature="111843:111896" ph="DELETE FROM " />
-            <marker date="1494352073402" expanded="true" signature="112298:112359" ph="DELETE FROM " />
-            <marker date="1494352073402" expanded="true" signature="116283:116416" ph="INSERT INTO ${$schema}.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="116449:116488" ph="INSERT INTO ${$schema}.\&quot;&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="116449:116601" ph="INSERT INTO ${$schema}.\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="121295:123145" ph="SELECT disti... pg_constraint" />
-            <marker date="1494352073402" expanded="true" signature="123365:123692" ph="SELECT disti... " />
-            <marker date="1494352073402" expanded="true" signature="124793:127734" ph="select query... query" />
-            <marker date="1494352073402" expanded="true" signature="125099:127538" ph="select disti... " />
-            <marker date="1494352073402" expanded="true" signature="129631:130473" ph="SELECT query... table_name" />
-            <marker date="1494352073402" expanded="true" signature="129744:130220" ph="SELECT disti... pg_constraint" />
-            <marker date="1494352073402" expanded="true" signature="130532:131375" ph="SELECT query... table_name" />
-            <marker date="1494352073402" expanded="true" signature="130645:131122" ph="SELECT disti... pg_constraint" />
-            <marker date="1494352073402" expanded="true" signature="131605:131922" ph="SELECT disti... " />
-            <marker date="1494352073402" expanded="true" signature="133057:133374" ph="SELECT disti... " />
-            <marker date="1494352073402" expanded="true" signature="135270:136498" ph="SELECT --DIS... COLUMNS" />
-            <marker date="1494352073402" expanded="true" signature="135483:135713" ph="/* , case wh... " />
-            <marker date="1494352073402" expanded="true" signature="137224:137942" ph="select array... " />
-            <marker date="1494352073402" expanded="true" signature="138684:138772" ph="select count... tables" />
-            <marker date="1494352073402" expanded="true" signature="139028:139372" ph="SELECT 'lcs_... COLUMNS" />
-            <marker date="1494352073402" expanded="true" signature="139034:139372" ph="select 'lcs_... COLUMNS" />
-            <marker date="1494352073402" expanded="true" signature="139108:139372" ph="SELECT 'lcs_... COLUMNS" />
-            <marker date="1494352073402" expanded="true" signature="140914:140972" ph="SELECT count... ${$table}" />
-            <marker date="1494352073402" expanded="true" signature="142281:142567" ph="SELECT DISTI... " />
-            <marker date="1494352073402" expanded="true" signature="145099:145152" ph="INSERT INTO ${$this-&gt;schema}\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="149907:149992" ph="CREATE TABLE... ${$this-&gt;schema}" />
-            <marker date="1494352073402" expanded="true" signature="150025:150705" ph="SELECT DISTI... " />
-            <marker date="1494352073402" expanded="true" signature="151167:151297" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="151300:151593" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="151637:151691" ph="UPDATE ${$va... " />
-            <marker date="1494352073402" expanded="true" signature="152445:152612" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="152886:153134" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="153274:153517" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="156323:156469" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="156892:156982" ph="SELECT * fro... ${$this-&gt;schema}" />
-            <marker date="1494352073402" expanded="true" signature="157507:157536" ph="SELECT MAX(i... " />
-            <marker date="1494352073402" expanded="true" signature="159739:159768" ph="SELECT MAX(i... " />
-            <marker date="1494352073402" expanded="true" signature="161493:161563" ph="SELECT * fro... ${utf8_decode($sql)}" />
-            <marker date="1494352073402" expanded="true" signature="161924:161953" ph="SELECT MAX(i... " />
-            <marker date="1494352073402" expanded="true" signature="163392:163486" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$table}\&quot;... " />
-            <marker date="1494352073402" expanded="true" signature="167869:168027" ph="select * fro... lg_search_columns" />
-            <marker date="1494352073402" expanded="true" signature="174788:174842" ph="select subst... " />
-            <marker date="1494352073402" expanded="true" signature="174942:176527" ph="SELECT t.tri... triggers" />
-            <marker date="1494352073402" expanded="true" signature="176567:178175" ph="SELECT t.tri... triggers" />
-            <marker date="1494352073402" expanded="true" signature="178488:178739" ph="select r.tab... pg_rewrite" />
-            <marker date="1494352073402" expanded="true" signature="179102:179334" ph="select cast(... tables" />
-            <marker date="1494352073402" expanded="true" signature="179388:179512" ph="SELECT 'Nº d... " />
-            <marker date="1494352073402" expanded="true" signature="179388:179877" ph="SELECT 'Nº d... " />
-            <marker date="1494352073402" expanded="true" signature="179432:179469" ph="select count... ${$table}" />
-            <marker date="1494352073402" expanded="true" signature="179551:179681" ph="SELECT 'Espa... " />
-            <marker date="1494352073402" expanded="true" signature="179720:179877" ph="SELECT 'Últi... " />
-            <marker date="1494352073402" expanded="true" signature="179781:179820" ph="select max(s... ${$table}" />
-            <marker date="1494352073402" expanded="true" signature="180897:181475" ph="SELECT c.rel... " />
-            <marker date="1494352073402" expanded="true" signature="181596:182173" ph="SELECT c.rel... " />
-            <marker date="1494352073402" expanded="true" signature="182265:183201" ph="SELECT regex... " />
-            <marker date="1494352073402" expanded="true" signature="183277:184200" ph="SELECT regex... " />
-            <marker date="1494352073402" expanded="true" signature="185596:185737" ph="SELECT 1 as ${$this-&gt;schema}" />
-            <marker date="1494352073402" expanded="true" signature="187422:187507" ph="SELECT id FR... ${$this-&gt;schema}" />
-            <marker date="1494352073402" expanded="true" signature="187546:187609" ph="SELECT id FR... ${$this-&gt;schema}" />
-            <marker date="1494352073402" expanded="true" signature="198747:198876" ph="select * fro... ${$this-&gt;schema}" />
-            <marker date="1494352073402" expanded="true" signature="199089:199289" ph="select * fro... ${$this-&gt;schema}" />
-            <marker date="1494352073402" expanded="true" signature="199802:199893" ph="select l.acr... ${$this-&gt;schema}" />
-            <marker date="1494352073402" expanded="true" signature="200192:200639" ph="select coale... " />
-            <marker date="1494352073402" expanded="true" signature="200935:201026" ph="select l.acr... ${$this-&gt;schema}" />
-            <marker date="1494352073402" expanded="true" signature="201325:201756" ph="select dd.id... " />
+            <marker date="1494431785099" expanded="true" signature="2703:2790" ph="SELECT name ${$this-&gt;schema}" />
+            <marker date="1494431785099" expanded="true" signature="3169:3304" ph="SELECT id, n... ${$this-&gt;schema}" />
+            <marker date="1494431785099" expanded="true" signature="3605:3749" ph="SELECT id, n... ${$this-&gt;schema}" />
+            <marker date="1494431785099" expanded="true" signature="4049:4193" ph="SELECT id, n... ${$this-&gt;schema}" />
+            <marker date="1494431785099" expanded="true" signature="4519:4736" ph="SELECT disti... ${$this-&gt;schema}" />
+            <marker date="1494431785099" expanded="true" signature="5040:5847" ph="select * fro... x" />
+            <marker date="1494431785099" expanded="true" signature="5064:5819" ph="SELECT disti... " />
+            <marker date="1494431785099" expanded="true" signature="6171:7083" ph="SELECT x.* F... x" />
+            <marker date="1494431785099" expanded="true" signature="6207:7044" ph="SELECT DISTI... " />
+            <marker date="1494431785099" expanded="true" signature="7401:8365" ph="SELECT x.* F... x" />
+            <marker date="1494431785099" expanded="true" signature="7437:8314" ph="SELECT DISTI... " />
+            <marker date="1494431785099" expanded="true" signature="11680:12089" ph="select coale... " />
+            <marker date="1494431785099" expanded="true" signature="12407:12588" ph="select '0' a... " />
+            <marker date="1494431785099" expanded="true" signature="12913:13156" ph="SELECT appt.... ${$this-&gt;schema}" />
+            <marker date="1494431785099" expanded="true" signature="13455:13587" ph="SELECT appt.... ${$this-&gt;schema}" />
+            <marker date="1494431785099" expanded="true" signature="13896:14023" ph="SELECT appt.... ${$this-&gt;schema}" />
+            <marker date="1494431785099" expanded="true" signature="14387:14610" ph="select cast(... tables" />
+            <marker date="1494431785099" expanded="true" signature="14685:16911" ph="select * fro... query2" />
+            <marker date="1494431785099" expanded="true" signature="14731:16848" ph="select disti... " />
+            <marker date="1494431785099" expanded="true" signature="17008:18883" ph="select * fro... query2" />
+            <marker date="1494431785099" expanded="true" signature="17054:18816" ph="select disti... " />
+            <marker date="1494431785099" expanded="true" signature="19051:21076" ph="SELECT * FRO... constraint_name" />
+            <marker date="1494431785099" expanded="true" signature="19083:21076" ph="SELECT kcu.c... TABLES" />
+            <marker date="1494431785099" expanded="true" signature="23500:24413" ph="select * fro... query2" />
+            <marker date="1494431785099" expanded="true" signature="23546:24350" ph="select disti... " />
+            <marker date="1494431785099" expanded="true" signature="24780:25424" ph="select * fro... query2" />
+            <marker date="1494431785099" expanded="true" signature="24826:25361" ph="select disti... " />
+            <marker date="1494431785099" expanded="true" signature="25758:26144" ph="select dd.id... " />
+            <marker date="1494431785099" expanded="true" signature="26576:26842" ph="SELECT DISTI... " />
+            <marker date="1494431785099" expanded="true" signature="27323:27456" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="27761:27811" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="28209:28470" ph="SELECT DISTI... " />
+            <marker date="1494431785099" expanded="true" signature="29594:29644" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="29764:29880" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="30056:30106" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="30223:30273" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="30521:30571" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="30781:30831" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="30971:31021" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="31844:32010" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="32198:32354" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="32479:32620" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="32737:32841" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="32928:33069" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="35239:35339" ph="select pg_ge... " />
+            <marker date="1494431785099" expanded="true" signature="35262:35318" ph="SELECT oid F... pg_class" />
+            <marker date="1494431785099" expanded="true" signature="35406:35801" ph="select coale... " />
+            <marker date="1494431785099" expanded="true" signature="36347:36392" ph="SELECT * fro... ${$query}" />
+            <marker date="1494431785099" expanded="true" signature="37008:37074" ph="SELECT * fro... ${$query}" />
+            <marker date="1494431785099" expanded="true" signature="37170:37220" ph="SELECT count... ${$query}" />
+            <marker date="1494431785099" expanded="true" signature="43620:44012" ph="select dd.id... " />
+            <marker date="1494431785099" expanded="true" signature="45099:45729" ph="SELECT routi... routines" />
+            <marker date="1494431785099" expanded="true" signature="46154:46663" ph="select subst... trim" />
+            <marker date="1494431785099" expanded="true" signature="46391:46656" ph="select trim(... " />
+            <marker date="1494431785099" expanded="true" signature="47032:48075" ph="SELECT param... routines" />
+            <marker date="1494431785099" expanded="true" signature="47486:47872" ph="select regex... " />
+            <marker date="1494431785099" expanded="true" signature="47531:47834" ph="select pg_ge... " />
+            <marker date="1494431785099" expanded="true" signature="47637:47723" ph="select lengt... " />
+            <marker date="1494431785099" expanded="true" signature="48149:48574" ph="select coale... " />
+            <marker date="1494431785099" expanded="true" signature="50365:50485" ph="DROP TABLE I... " />
+            <marker date="1494431785099" expanded="true" signature="51911:52160" ph="INSERT into ${$this-&gt;schema}fw_report_tables... " />
+            <marker date="1494431785099" expanded="true" signature="52520:53656" ph="CREATE TABLE... ${$value['name']}" />
+            <marker date="1494431785099" expanded="true" signature="55754:56070" ph="select coale... ${$this-&gt;schema}" />
+            <marker date="1494431785099" expanded="true" signature="56750:57343" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
+            <marker date="1494431785099" expanded="true" signature="58755:58903" ph="ALTER TABLE \&quot;${substr($this-&gt;schema, 0, strlen($this-&gt;schema) - 1)}\&quot;.\&quot;${$value['original_name']}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="59516:60127" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
+            <marker date="1494431785099" expanded="true" signature="61153:61454" ph="SELECT DISTI... COLUMNS" />
+            <marker date="1494431785099" expanded="true" signature="62281:62515" ph="INSERT INTO ${$this-&gt;schema}rel_table_rel_modules_list... " />
+            <marker date="1494431785099" expanded="true" signature="64565:64792" ph="select cast(... tables" />
+            <marker date="1494431785099" expanded="true" signature="65262:65381" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$value['table_name']}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="66137:67060" ph="CREATE TABLE... ${$this-&gt;prefix}" />
+            <marker date="1494431785099" expanded="true" signature="67318:67497" ph="select cast(... tables" />
+            <marker date="1494431785099" expanded="true" signature="67629:67646" ph="SELECT value... " />
+            <marker date="1494431785099" expanded="true" signature="67629:67647" ph="SELECT value... " />
+            <marker date="1494431785099" expanded="true" signature="67629:67659" ph="SELECT value... " />
+            <marker date="1494431785099" expanded="true" signature="67629:67663" ph="SELECT value... " />
+            <marker date="1494431785099" expanded="true" signature="67629:67671" ph="SELECT value... " />
+            <marker date="1494431785099" expanded="true" signature="67629:67677" ph="SELECT value... " />
+            <marker date="1494431785099" expanded="true" signature="67629:67690" ph="SELECT value... " />
+            <marker date="1494431785099" expanded="true" signature="67629:67721" ph="SELECT value... " />
+            <marker date="1494431785099" expanded="true" signature="67629:67775" ph="SELECT value... " />
+            <marker date="1494431785099" expanded="true" signature="67629:67776" ph="SELECT value... " />
+            <marker date="1494431785099" expanded="true" signature="67629:67777" ph="SELECT value... ${$schema}.data_dic where table_name = ${$table} and field_name = ${$table}" />
+            <marker date="1494431785099" expanded="true" signature="67629:67805" ph="SELECT value... ${$schema}.data_dic where table_name = ${$table} and field_name = ${$table} and status = 'ACTIVE' and lang_id = ${$_SESSION['language']}" />
+            <marker date="1494431785099" expanded="true" signature="67926:67957" ph="INSERT INTO " />
+            <marker date="1494431785099" expanded="true" signature="67926:68438" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
+            <marker date="1494431785099" expanded="true" signature="70906:71537" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
+            <marker date="1494431785099" expanded="true" signature="71793:71951" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$value['table_name']}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="73817:74109" ph="SELECT id fr... ${$this-&gt;schema}" />
+            <marker date="1494431785099" expanded="true" signature="74542:75191" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
+            <marker date="1494431785099" expanded="true" signature="77590:78214" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
+            <marker date="1494431785099" expanded="true" signature="79471:79723" ph="SELECT DISTI... COLUMNS" />
+            <marker date="1494431785099" expanded="true" signature="81001:81123" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="82036:82386" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="82428:82479" ph="UPDATE CASCA... " />
+            <marker date="1494431785099" expanded="true" signature="82588:82710" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="82736:83086" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="83128:83179" ph="UPDATE CASCA... " />
+            <marker date="1494431785099" expanded="true" signature="84607:84749" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="85990:86134" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="86409:86626" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="86749:86961" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="87856:87985" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="91095:91218" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="95113:95724" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
+            <marker date="1494431785099" expanded="true" signature="97280:97514" ph="INSERT INTO ${$this-&gt;schema}rel_table_rel_modules_list... " />
+            <marker date="1494431785099" expanded="true" signature="104212:104813" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
+            <marker date="1494431785099" expanded="true" signature="106527:106771" ph="INSERT INTO ${$this-&gt;schema}rel_table_rel_modules_list... " />
+            <marker date="1494431785099" expanded="true" signature="111843:111896" ph="DELETE FROM " />
+            <marker date="1494431785099" expanded="true" signature="112450:112511" ph="DELETE FROM " />
+            <marker date="1494431785099" expanded="true" signature="116665:116811" ph="INSERT INTO ${$schema}.\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="117454:117468" ph="SELECT id FR... " />
+            <marker date="1494431785099" expanded="true" signature="117454:117486" ph="SELECT id FR... ${$schema}." />
+            <marker date="1494431785099" expanded="true" signature="117454:117501" ph="SELECT id FR... ${$table}" />
+            <marker date="1494431785099" expanded="true" signature="117454:117513" ph="SELECT id FR... ${$schema}." />
+            <marker date="1494431785099" expanded="true" signature="117454:117514" ph="SELECT id FR... ${$schema}." />
+            <marker date="1494431785099" expanded="true" signature="117454:117515" ph="SELECT id FR... ${$table}" />
+            <marker date="1494431785099" expanded="true" signature="118020:118172" ph="INSERT INTO ${$schema}.\&quot;lcs_${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="119578:119637" ph="SELECT id FR... ${$table}" />
+            <marker date="1494431785099" expanded="true" signature="119578:119638" ph="SELECT id FR... ${$table}" />
+            <marker date="1494431785099" expanded="true" signature="120022:120174" ph="INSERT INTO ${$schema}.\&quot;lcs_${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="123877:125727" ph="SELECT disti... pg_constraint" />
+            <marker date="1494431785099" expanded="true" signature="125947:126274" ph="SELECT disti... " />
+            <marker date="1494431785099" expanded="true" signature="127375:130316" ph="select query... query" />
+            <marker date="1494431785099" expanded="true" signature="127681:130120" ph="select disti... " />
+            <marker date="1494431785099" expanded="true" signature="132213:133055" ph="SELECT query... table_name" />
+            <marker date="1494431785099" expanded="true" signature="132326:132802" ph="SELECT disti... pg_constraint" />
+            <marker date="1494431785099" expanded="true" signature="133114:133957" ph="SELECT query... table_name" />
+            <marker date="1494431785099" expanded="true" signature="133227:133704" ph="SELECT disti... pg_constraint" />
+            <marker date="1494431785099" expanded="true" signature="134187:134504" ph="SELECT disti... " />
+            <marker date="1494431785099" expanded="true" signature="135639:135956" ph="SELECT disti... " />
+            <marker date="1494431785099" expanded="true" signature="137852:139076" ph="SELECT --DIS... COLUMNS" />
+            <marker date="1494431785099" expanded="true" signature="138065:138295" ph="/* , case wh... " />
+            <marker date="1494431785099" expanded="true" signature="139802:140520" ph="select array... " />
+            <marker date="1494431785099" expanded="true" signature="141262:141350" ph="select count... tables" />
+            <marker date="1494431785099" expanded="true" signature="141622:141966" ph="SELECT 'lcs_... COLUMNS" />
+            <marker date="1494431785099" expanded="true" signature="141628:141966" ph="select 'lcs_... COLUMNS" />
+            <marker date="1494431785099" expanded="true" signature="141702:141966" ph="SELECT 'lcs_... COLUMNS" />
+            <marker date="1494431785099" expanded="true" signature="143535:143593" ph="SELECT count... ${$table}" />
+            <marker date="1494431785099" expanded="true" signature="144902:145188" ph="SELECT DISTI... " />
+            <marker date="1494431785099" expanded="true" signature="147720:147773" ph="INSERT INTO ${$this-&gt;schema}\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="152528:152613" ph="CREATE TABLE... ${$this-&gt;schema}" />
+            <marker date="1494431785099" expanded="true" signature="152646:153326" ph="SELECT DISTI... " />
+            <marker date="1494431785099" expanded="true" signature="153788:153918" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="153921:154214" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="154258:154312" ph="UPDATE ${$va... " />
+            <marker date="1494431785099" expanded="true" signature="155066:155233" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="155507:155755" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="155895:156138" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="158944:159090" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="159513:159603" ph="SELECT * fro... ${$this-&gt;schema}" />
+            <marker date="1494431785099" expanded="true" signature="160128:160157" ph="SELECT MAX(i... " />
+            <marker date="1494431785099" expanded="true" signature="162360:162389" ph="SELECT MAX(i... " />
+            <marker date="1494431785099" expanded="true" signature="164114:164184" ph="SELECT * fro... ${utf8_decode($sql)}" />
+            <marker date="1494431785099" expanded="true" signature="164545:164574" ph="SELECT MAX(i... " />
+            <marker date="1494431785099" expanded="true" signature="166013:166107" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$table}\&quot;... " />
+            <marker date="1494431785099" expanded="true" signature="170490:170648" ph="select * fro... lg_search_columns" />
+            <marker date="1494431785099" expanded="true" signature="177409:177463" ph="select subst... " />
+            <marker date="1494431785099" expanded="true" signature="177563:179148" ph="SELECT t.tri... triggers" />
+            <marker date="1494431785099" expanded="true" signature="179188:180796" ph="SELECT t.tri... triggers" />
+            <marker date="1494431785099" expanded="true" signature="181109:181360" ph="select r.tab... pg_rewrite" />
+            <marker date="1494431785099" expanded="true" signature="181723:181955" ph="select cast(... tables" />
+            <marker date="1494431785099" expanded="true" signature="182009:182133" ph="SELECT 'Nº d... " />
+            <marker date="1494431785099" expanded="true" signature="182009:182498" ph="SELECT 'Nº d... " />
+            <marker date="1494431785099" expanded="true" signature="182053:182090" ph="select count... ${$table}" />
+            <marker date="1494431785099" expanded="true" signature="182172:182302" ph="SELECT 'Espa... " />
+            <marker date="1494431785099" expanded="true" signature="182341:182498" ph="SELECT 'Últi... " />
+            <marker date="1494431785099" expanded="true" signature="182402:182441" ph="select max(s... ${$table}" />
+            <marker date="1494431785099" expanded="true" signature="183518:184096" ph="SELECT c.rel... " />
+            <marker date="1494431785099" expanded="true" signature="184217:184794" ph="SELECT c.rel... " />
+            <marker date="1494431785099" expanded="true" signature="184886:185822" ph="SELECT regex... " />
+            <marker date="1494431785099" expanded="true" signature="185898:186821" ph="SELECT regex... " />
+            <marker date="1494431785099" expanded="true" signature="188217:188358" ph="SELECT 1 as ${$this-&gt;schema}" />
+            <marker date="1494431785099" expanded="true" signature="190043:190128" ph="SELECT id FR... ${$this-&gt;schema}" />
+            <marker date="1494431785099" expanded="true" signature="190167:190230" ph="SELECT id FR... ${$this-&gt;schema}" />
+            <marker date="1494431785099" expanded="true" signature="201368:201497" ph="select * fro... ${$this-&gt;schema}" />
+            <marker date="1494431785099" expanded="true" signature="201710:201910" ph="select * fro... ${$this-&gt;schema}" />
+            <marker date="1494431785099" expanded="true" signature="202423:202514" ph="select l.acr... ${$this-&gt;schema}" />
+            <marker date="1494431785099" expanded="true" signature="202813:203260" ph="select coale... " />
+            <marker date="1494431785099" expanded="true" signature="203556:203647" ph="select l.acr... ${$this-&gt;schema}" />
+            <marker date="1494431785099" expanded="true" signature="203946:204377" ph="select dd.id... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerExec.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/PHP2/ExportEDI.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="204" column="5" lean-forward="true" selection-start-line="204" selection-start-column="5" selection-end-line="204" selection-end-column="5" />
+          <folding>
+            <element signature="n#getDataHeader#0;n#ExportEDI#0;n#!!top" expanded="false" />
+            <element signature="n#getDataDetail#0;n#ExportEDI#0;n#!!top" expanded="false" />
+            <element signature="n#getDataControl#0;n#ExportEDI#0;n#!!top" expanded="false" />
+            <marker date="1494432450790" expanded="true" signature="385:570" ph="SELECT num_d... ${$this-&gt;schema}" />
+            <marker date="1494432450790" expanded="true" signature="419:476" ph="SELECT name users" />
+            <marker date="1494432450790" expanded="true" signature="972:1040" ph="SELECT unit_... ${$this-&gt;schema}" />
+            <marker date="1494432450790" expanded="true" signature="1121:1251" ph="SELECT name,... ${$this-&gt;schema}" />
+            <marker date="1494432450790" expanded="true" signature="1612:1692" ph="SELECT cs_id... ${$this-&gt;schema}" />
+            <marker date="1494432450790" expanded="true" signature="1865:2003" ph="SELECT vat_n... ${$this-&gt;schema}" />
+            <marker date="1494432450790" expanded="true" signature="2375:2456" ph="SELECT obs, ${$this-&gt;schema}" />
+            <marker date="1494432450790" expanded="true" signature="2955:3039" ph="SELECT origi... ${$this-&gt;schema}" />
+            <marker date="1494432450790" expanded="true" signature="3492:4624" ph="SELECT origi... ${$this-&gt;schema}" />
+            <marker date="1494432450790" expanded="true" signature="3574:3629" ph="SELECT name ${$tabela}" />
+            <marker date="1494432450790" expanded="true" signature="3689:3816" ph="SELECT name ${$tabela}" />
+            <marker date="1494432450790" expanded="true" signature="3733:3814" ph="SELECT packi... rel_packing_product" />
+            <marker date="1494432450790" expanded="true" signature="3926:4014" ph="/*(SELECT na... " />
+            <marker date="1494432450790" expanded="true" signature="3929:3996" ph="SELECT name product_units" />
+            <marker date="1494432450790" expanded="true" signature="4048:4119" ph="SELECT edi_n... product_units" />
+            <marker date="1494432450790" expanded="true" signature="5592:5671" ph="SELECT disco... ${$this-&gt;schema}" />
+            <marker date="1494432450790" expanded="true" signature="6116:6212" ph="SELECT gross... ${$this-&gt;schema}" />
+            <marker date="1494432450790" expanded="true" signature="8600:8653" ph="SELECT print... fw_document" />
+            <marker date="1494432450790" expanded="true" signature="8600:8654" ph="SELECT descr... fw_document" />
+            <marker date="1494432450790" expanded="true" signature="8908:8978" ph="SELECT num_d... ${$this-&gt;schema}" />
           </folding>
         </state>
       </provider>
