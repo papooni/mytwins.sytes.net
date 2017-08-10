@@ -73,14 +73,14 @@ if($(".alt-clock .clock-place").attr('data-logosrc')
             //var difference = target_date - current_date;
 
             // if difference is negative than it's pass the target date
-            if (difference < 0) {
+            //if (difference < 0) {
                 // stop timer
                 clearInterval(interval);
 
                 if (callback && typeof callback === 'function') callback();
 
                 return;
-            }
+            //}
 
             // basic math variables
 //            var _second = 1000,
