@@ -126,7 +126,7 @@
         <!-- Clock -->
         <div class="clock clock-countdown">
             <div class="site-config"
-                 data-date="08/14/2017 12:20:00"
+                 data-date="06/21/2017 12:20:00"
                  data-date-timezone="+0"
             ></div>
             <div class="elem-center">

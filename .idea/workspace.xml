@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ec9a6a3-1571-4700-9675-66325c70bee0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8ec9a6a3-1571-4700-9675-66325c70bee0" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,319 +14,16 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="mytwins.sytes.net" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DBA.php" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/PHP2/DBA.php">
+      <file leaf-file-name="mother.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mother.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="628">
-              <caret line="2311" column="18" lean-forward="true" selection-start-line="2311" selection-start-column="18" selection-end-line="2311" selection-end-column="18" />
-              <folding>
-                <element signature="n#SESSION#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#AppInicializer#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getAllGamma#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getAllApp#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getAllModule#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getRelGammaAppMod#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getMenuGroups#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getMenuApplications#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getMenuModules#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getTables#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getTableTranslations#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getNewTableTranslations#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getListTableWindows#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getListWindows#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getWindowTables#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getTableFields#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getTableFieldsLightOrigin#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getTableFieldsLightDestination#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getFieldTranslations#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getAlterTableQuery#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getInsertTableQuery#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getViews#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getViewDefinition#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getDataFieldsViews#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getDataViews#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getViewTranslations#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getViewMenuGroups#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getViewMenuApplications#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getViewMenuModules#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getFunctions#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getTriggerFunctions#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getFunctionTranslations#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getFunctionDefinition#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getFunctionMenuGroups#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getFunctionMenuApplications#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getFunctionMenuModules#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#saveTables#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="e#69764#76010#0#PHP" expanded="false" />
-                <element signature="e#71606#76010#0#PHP" expanded="false" />
-                <element signature="e#76753#78782#0#PHP" expanded="false" />
-                <element signature="n#saveForeignKeys#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#saveIndexes#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#saveTriggers#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#saveViews#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#saveFunctions#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#saveQueryTabs#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getSavedTabs#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getForeignKeys#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getIndexes#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getDependencies#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getDataFields#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getData#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#checkInternalFunctions#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#addData#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getDataScript#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getTableExportScript#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getTableExportAdvancedScriptData#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getTableExportAdvancedScript#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getColumnDDL#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#SplitSQL#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getFullSearch#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getQueryData#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getTriggers#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getRules#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getTableStatistics#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getGeneralStatistics#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getDebuggerInfo#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#compareDates#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getSearchDebugger#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#readDebuggerFile#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#checkLockObject#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#setLockObject#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#translateTables#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#translateFields#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getTranslations#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#microsoft_translation#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getFolder#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#getAbsolutPath#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#databaseReindex#0;n#DBA#0;n#!!top" expanded="false" />
-                <element signature="n#databaseVacuum#0;n#DBA#0;n#!!top" expanded="false" />
-                <marker date="1494431785099" expanded="true" signature="2703:2790" ph="SELECT name ${$this-&gt;schema}" />
-                <marker date="1494431785099" expanded="true" signature="3169:3304" ph="SELECT id, n... ${$this-&gt;schema}" />
-                <marker date="1494431785099" expanded="true" signature="3605:3749" ph="SELECT id, n... ${$this-&gt;schema}" />
-                <marker date="1494431785099" expanded="true" signature="4049:4193" ph="SELECT id, n... ${$this-&gt;schema}" />
-                <marker date="1494431785099" expanded="true" signature="4519:4736" ph="SELECT disti... ${$this-&gt;schema}" />
-                <marker date="1494431785099" expanded="true" signature="5040:5847" ph="select * fro... x" />
-                <marker date="1494431785099" expanded="true" signature="5064:5819" ph="SELECT disti... " />
-                <marker date="1494431785099" expanded="true" signature="6171:7083" ph="SELECT x.* F... x" />
-                <marker date="1494431785099" expanded="true" signature="6207:7044" ph="SELECT DISTI... " />
-                <marker date="1494431785099" expanded="true" signature="7401:8365" ph="SELECT x.* F... x" />
-                <marker date="1494431785099" expanded="true" signature="7437:8314" ph="SELECT DISTI... " />
-                <marker date="1494431785099" expanded="true" signature="11680:12089" ph="select coale... " />
-                <marker date="1494431785099" expanded="true" signature="12407:12588" ph="select '0' a... " />
-                <marker date="1494431785099" expanded="true" signature="12913:13156" ph="SELECT appt.... ${$this-&gt;schema}" />
-                <marker date="1494431785099" expanded="true" signature="13455:13587" ph="SELECT appt.... ${$this-&gt;schema}" />
-                <marker date="1494431785099" expanded="true" signature="13896:14023" ph="SELECT appt.... ${$this-&gt;schema}" />
-                <marker date="1494431785099" expanded="true" signature="14387:14610" ph="select cast(... tables" />
-                <marker date="1494431785099" expanded="true" signature="14685:16911" ph="select * fro... query2" />
-                <marker date="1494431785099" expanded="true" signature="14731:16848" ph="select disti... " />
-                <marker date="1494431785099" expanded="true" signature="17008:18883" ph="select * fro... query2" />
-                <marker date="1494431785099" expanded="true" signature="17054:18816" ph="select disti... " />
-                <marker date="1494431785099" expanded="true" signature="19051:21076" ph="SELECT * FRO... constraint_name" />
-                <marker date="1494431785099" expanded="true" signature="19083:21076" ph="SELECT kcu.c... TABLES" />
-                <marker date="1494431785099" expanded="true" signature="23500:24413" ph="select * fro... query2" />
-                <marker date="1494431785099" expanded="true" signature="23546:24350" ph="select disti... " />
-                <marker date="1494431785099" expanded="true" signature="24780:25424" ph="select * fro... query2" />
-                <marker date="1494431785099" expanded="true" signature="24826:25361" ph="select disti... " />
-                <marker date="1494431785099" expanded="true" signature="25758:26144" ph="select dd.id... " />
-                <marker date="1494431785099" expanded="true" signature="26576:26842" ph="SELECT DISTI... " />
-                <marker date="1494431785099" expanded="true" signature="27323:27456" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="27761:27811" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="28209:28470" ph="SELECT DISTI... " />
-                <marker date="1494431785099" expanded="true" signature="29594:29644" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="29764:29880" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="30056:30106" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="30223:30273" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="30521:30571" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="30781:30831" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="30971:31021" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="31844:32010" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="32198:32354" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="32479:32620" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="32737:32841" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="32928:33069" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="35239:35339" ph="select pg_ge... " />
-                <marker date="1494431785099" expanded="true" signature="35262:35318" ph="SELECT oid F... pg_class" />
-                <marker date="1494431785099" expanded="true" signature="35406:35801" ph="select coale... " />
-                <marker date="1494431785099" expanded="true" signature="36347:36392" ph="SELECT * fro... ${$query}" />
-                <marker date="1494431785099" expanded="true" signature="37008:37074" ph="SELECT * fro... ${$query}" />
-                <marker date="1494431785099" expanded="true" signature="37170:37220" ph="SELECT count... ${$query}" />
-                <marker date="1494431785099" expanded="true" signature="43620:44012" ph="select dd.id... " />
-                <marker date="1494431785099" expanded="true" signature="45099:45729" ph="SELECT routi... routines" />
-                <marker date="1494431785099" expanded="true" signature="46154:46663" ph="select subst... trim" />
-                <marker date="1494431785099" expanded="true" signature="46391:46656" ph="select trim(... " />
-                <marker date="1494431785099" expanded="true" signature="47032:48075" ph="SELECT param... routines" />
-                <marker date="1494431785099" expanded="true" signature="47486:47872" ph="select regex... " />
-                <marker date="1494431785099" expanded="true" signature="47531:47834" ph="select pg_ge... " />
-                <marker date="1494431785099" expanded="true" signature="47637:47723" ph="select lengt... " />
-                <marker date="1494431785099" expanded="true" signature="48149:48574" ph="select coale... " />
-                <marker date="1494431785099" expanded="true" signature="50365:50485" ph="DROP TABLE I... " />
-                <marker date="1494431785099" expanded="true" signature="51911:52160" ph="INSERT into ${$this-&gt;schema}fw_report_tables... " />
-                <marker date="1494431785099" expanded="true" signature="52520:53656" ph="CREATE TABLE... ${$value['name']}" />
-                <marker date="1494431785099" expanded="true" signature="55754:56070" ph="select coale... ${$this-&gt;schema}" />
-                <marker date="1494431785099" expanded="true" signature="56750:57343" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-                <marker date="1494431785099" expanded="true" signature="58755:58903" ph="ALTER TABLE \&quot;${substr($this-&gt;schema, 0, strlen($this-&gt;schema) - 1)}\&quot;.\&quot;${$value['original_name']}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="59516:60127" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-                <marker date="1494431785099" expanded="true" signature="61153:61454" ph="SELECT DISTI... COLUMNS" />
-                <marker date="1494431785099" expanded="true" signature="62281:62515" ph="INSERT INTO ${$this-&gt;schema}rel_table_rel_modules_list... " />
-                <marker date="1494431785099" expanded="true" signature="64565:64792" ph="select cast(... tables" />
-                <marker date="1494431785099" expanded="true" signature="65262:65381" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$value['table_name']}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="66137:67060" ph="CREATE TABLE... ${$this-&gt;prefix}" />
-                <marker date="1494431785099" expanded="true" signature="67318:67497" ph="select cast(... tables" />
-                <marker date="1494431785099" expanded="true" signature="67629:67646" ph="SELECT value... " />
-                <marker date="1494431785099" expanded="true" signature="67629:67647" ph="SELECT value... " />
-                <marker date="1494431785099" expanded="true" signature="67629:67659" ph="SELECT value... " />
-                <marker date="1494431785099" expanded="true" signature="67629:67663" ph="SELECT value... " />
-                <marker date="1494431785099" expanded="true" signature="67629:67671" ph="SELECT value... " />
-                <marker date="1494431785099" expanded="true" signature="67629:67677" ph="SELECT value... " />
-                <marker date="1494431785099" expanded="true" signature="67629:67690" ph="SELECT value... " />
-                <marker date="1494431785099" expanded="true" signature="67629:67721" ph="SELECT value... " />
-                <marker date="1494431785099" expanded="true" signature="67629:67775" ph="SELECT value... " />
-                <marker date="1494431785099" expanded="true" signature="67629:67776" ph="SELECT value... " />
-                <marker date="1494431785099" expanded="true" signature="67629:67777" ph="SELECT value... ${$schema}.data_dic where table_name = ${$table} and field_name = ${$table}" />
-                <marker date="1494431785099" expanded="true" signature="67629:67805" ph="SELECT value... ${$schema}.data_dic where table_name = ${$table} and field_name = ${$table} and status = 'ACTIVE' and lang_id = ${$_SESSION['language']}" />
-                <marker date="1494431785099" expanded="true" signature="67926:67957" ph="INSERT INTO " />
-                <marker date="1494431785099" expanded="true" signature="67926:68438" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-                <marker date="1494431785099" expanded="true" signature="70906:71537" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-                <marker date="1494431785099" expanded="true" signature="71793:71951" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$value['table_name']}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="73817:74109" ph="SELECT id fr... ${$this-&gt;schema}" />
-                <marker date="1494431785099" expanded="true" signature="74542:75191" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-                <marker date="1494431785099" expanded="true" signature="77590:78214" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-                <marker date="1494431785099" expanded="true" signature="79471:79723" ph="SELECT DISTI... COLUMNS" />
-                <marker date="1494431785099" expanded="true" signature="81001:81123" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="82036:82386" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="82428:82479" ph="UPDATE CASCA... " />
-                <marker date="1494431785099" expanded="true" signature="82588:82710" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="82736:83086" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="83128:83179" ph="UPDATE CASCA... " />
-                <marker date="1494431785099" expanded="true" signature="84607:84749" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="85990:86134" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="86409:86626" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="86749:86961" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="87856:87985" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="91095:91218" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="95113:95724" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-                <marker date="1494431785099" expanded="true" signature="97280:97514" ph="INSERT INTO ${$this-&gt;schema}rel_table_rel_modules_list... " />
-                <marker date="1494431785099" expanded="true" signature="104212:104813" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-                <marker date="1494431785099" expanded="true" signature="106527:106771" ph="INSERT INTO ${$this-&gt;schema}rel_table_rel_modules_list... " />
-                <marker date="1494431785099" expanded="true" signature="111843:111896" ph="DELETE FROM " />
-                <marker date="1494431785099" expanded="true" signature="112450:112511" ph="DELETE FROM " />
-                <marker date="1494431785099" expanded="true" signature="116665:116811" ph="INSERT INTO ${$schema}.\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="117454:117468" ph="SELECT id FR... " />
-                <marker date="1494431785099" expanded="true" signature="117454:117486" ph="SELECT id FR... ${$schema}." />
-                <marker date="1494431785099" expanded="true" signature="117454:117501" ph="SELECT id FR... ${$table}" />
-                <marker date="1494431785099" expanded="true" signature="117454:117513" ph="SELECT id FR... ${$schema}." />
-                <marker date="1494431785099" expanded="true" signature="117454:117514" ph="SELECT id FR... ${$schema}." />
-                <marker date="1494431785099" expanded="true" signature="117454:117515" ph="SELECT id FR... ${$table}" />
-                <marker date="1494431785099" expanded="true" signature="118020:118172" ph="INSERT INTO ${$schema}.\&quot;lcs_${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="119578:119637" ph="SELECT id FR... ${$table}" />
-                <marker date="1494431785099" expanded="true" signature="119578:119638" ph="SELECT id FR... ${$table}" />
-                <marker date="1494431785099" expanded="true" signature="120022:120174" ph="INSERT INTO ${$schema}.\&quot;lcs_${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="123877:125727" ph="SELECT disti... pg_constraint" />
-                <marker date="1494431785099" expanded="true" signature="125947:126274" ph="SELECT disti... " />
-                <marker date="1494431785099" expanded="true" signature="127375:130316" ph="select query... query" />
-                <marker date="1494431785099" expanded="true" signature="127681:130120" ph="select disti... " />
-                <marker date="1494431785099" expanded="true" signature="132213:133055" ph="SELECT query... table_name" />
-                <marker date="1494431785099" expanded="true" signature="132326:132802" ph="SELECT disti... pg_constraint" />
-                <marker date="1494431785099" expanded="true" signature="133114:133957" ph="SELECT query... table_name" />
-                <marker date="1494431785099" expanded="true" signature="133227:133704" ph="SELECT disti... pg_constraint" />
-                <marker date="1494431785099" expanded="true" signature="134187:134504" ph="SELECT disti... " />
-                <marker date="1494431785099" expanded="true" signature="135639:135956" ph="SELECT disti... " />
-                <marker date="1494431785099" expanded="true" signature="137852:139076" ph="SELECT --DIS... COLUMNS" />
-                <marker date="1494431785099" expanded="true" signature="138065:138295" ph="/* , case wh... " />
-                <marker date="1494431785099" expanded="true" signature="139802:140520" ph="select array... " />
-                <marker date="1494431785099" expanded="true" signature="141262:141350" ph="select count... tables" />
-                <marker date="1494431785099" expanded="true" signature="141622:141966" ph="SELECT 'lcs_... COLUMNS" />
-                <marker date="1494431785099" expanded="true" signature="141628:141966" ph="select 'lcs_... COLUMNS" />
-                <marker date="1494431785099" expanded="true" signature="141702:141966" ph="SELECT 'lcs_... COLUMNS" />
-                <marker date="1494431785099" expanded="true" signature="143535:143593" ph="SELECT count... ${$table}" />
-                <marker date="1494431785099" expanded="true" signature="144902:145188" ph="SELECT DISTI... " />
-                <marker date="1494431785099" expanded="true" signature="147720:147773" ph="INSERT INTO ${$this-&gt;schema}\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="152528:152613" ph="CREATE TABLE... ${$this-&gt;schema}" />
-                <marker date="1494431785099" expanded="true" signature="152646:153326" ph="SELECT DISTI... " />
-                <marker date="1494431785099" expanded="true" signature="153788:153918" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="153921:154214" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="154258:154312" ph="UPDATE ${$va... " />
-                <marker date="1494431785099" expanded="true" signature="155066:155233" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="155507:155755" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="155895:156138" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="158944:159090" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="159513:159603" ph="SELECT * fro... ${$this-&gt;schema}" />
-                <marker date="1494431785099" expanded="true" signature="160128:160157" ph="SELECT MAX(i... " />
-                <marker date="1494431785099" expanded="true" signature="162360:162389" ph="SELECT MAX(i... " />
-                <marker date="1494431785099" expanded="true" signature="164114:164184" ph="SELECT * fro... ${utf8_decode($sql)}" />
-                <marker date="1494431785099" expanded="true" signature="164545:164574" ph="SELECT MAX(i... " />
-                <marker date="1494431785099" expanded="true" signature="166013:166107" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$table}\&quot;... " />
-                <marker date="1494431785099" expanded="true" signature="170490:170648" ph="select * fro... lg_search_columns" />
-                <marker date="1494431785099" expanded="true" signature="177409:177463" ph="select subst... " />
-                <marker date="1494431785099" expanded="true" signature="177563:179148" ph="SELECT t.tri... triggers" />
-                <marker date="1494431785099" expanded="true" signature="179188:180796" ph="SELECT t.tri... triggers" />
-                <marker date="1494431785099" expanded="true" signature="181109:181360" ph="select r.tab... pg_rewrite" />
-                <marker date="1494431785099" expanded="true" signature="181723:181955" ph="select cast(... tables" />
-                <marker date="1494431785099" expanded="true" signature="182009:182133" ph="SELECT 'Nº d... " />
-                <marker date="1494431785099" expanded="true" signature="182009:182498" ph="SELECT 'Nº d... " />
-                <marker date="1494431785099" expanded="true" signature="182053:182090" ph="select count... ${$table}" />
-                <marker date="1494431785099" expanded="true" signature="182172:182302" ph="SELECT 'Espa... " />
-                <marker date="1494431785099" expanded="true" signature="182341:182498" ph="SELECT 'Últi... " />
-                <marker date="1494431785099" expanded="true" signature="182402:182441" ph="select max(s... ${$table}" />
-                <marker date="1494431785099" expanded="true" signature="183518:184096" ph="SELECT c.rel... " />
-                <marker date="1494431785099" expanded="true" signature="184217:184794" ph="SELECT c.rel... " />
-                <marker date="1494431785099" expanded="true" signature="184886:185822" ph="SELECT regex... " />
-                <marker date="1494431785099" expanded="true" signature="185898:186821" ph="SELECT regex... " />
-                <marker date="1494431785099" expanded="true" signature="188217:188358" ph="SELECT 1 as ${$this-&gt;schema}" />
-                <marker date="1494431785099" expanded="true" signature="190043:190128" ph="SELECT id FR... ${$this-&gt;schema}" />
-                <marker date="1494431785099" expanded="true" signature="190167:190230" ph="SELECT id FR... ${$this-&gt;schema}" />
-                <marker date="1494431785099" expanded="true" signature="201368:201497" ph="select * fro... ${$this-&gt;schema}" />
-                <marker date="1494431785099" expanded="true" signature="201710:201910" ph="select * fro... ${$this-&gt;schema}" />
-                <marker date="1494431785099" expanded="true" signature="202423:202514" ph="select l.acr... ${$this-&gt;schema}" />
-                <marker date="1494431785099" expanded="true" signature="202813:203260" ph="select coale... " />
-                <marker date="1494431785099" expanded="true" signature="203556:203647" ph="select l.acr... ${$this-&gt;schema}" />
-                <marker date="1494431785099" expanded="true" signature="203946:204377" ph="select dd.id... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExportEDI.php" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Desktop/PHP2/ExportEDI.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="204" column="5" lean-forward="true" selection-start-line="204" selection-start-column="5" selection-end-line="204" selection-end-column="5" />
-              <folding>
-                <element signature="n#getDataHeader#0;n#ExportEDI#0;n#!!top" expanded="false" />
-                <element signature="n#getDataDetail#0;n#ExportEDI#0;n#!!top" expanded="false" />
-                <element signature="n#getDataControl#0;n#ExportEDI#0;n#!!top" expanded="false" />
-                <marker date="1494432450790" expanded="true" signature="385:570" ph="SELECT num_d... ${$this-&gt;schema}" />
-                <marker date="1494432450790" expanded="true" signature="419:476" ph="SELECT name users" />
-                <marker date="1494432450790" expanded="true" signature="972:1040" ph="SELECT unit_... ${$this-&gt;schema}" />
-                <marker date="1494432450790" expanded="true" signature="1121:1251" ph="SELECT name,... ${$this-&gt;schema}" />
-                <marker date="1494432450790" expanded="true" signature="1612:1692" ph="SELECT cs_id... ${$this-&gt;schema}" />
-                <marker date="1494432450790" expanded="true" signature="1865:2003" ph="SELECT vat_n... ${$this-&gt;schema}" />
-                <marker date="1494432450790" expanded="true" signature="2375:2456" ph="SELECT obs, ${$this-&gt;schema}" />
-                <marker date="1494432450790" expanded="true" signature="2955:3039" ph="SELECT origi... ${$this-&gt;schema}" />
-                <marker date="1494432450790" expanded="true" signature="3492:4624" ph="SELECT origi... ${$this-&gt;schema}" />
-                <marker date="1494432450790" expanded="true" signature="3574:3629" ph="SELECT name ${$tabela}" />
-                <marker date="1494432450790" expanded="true" signature="3689:3816" ph="SELECT name ${$tabela}" />
-                <marker date="1494432450790" expanded="true" signature="3733:3814" ph="SELECT packi... rel_packing_product" />
-                <marker date="1494432450790" expanded="true" signature="3926:4014" ph="/*(SELECT na... " />
-                <marker date="1494432450790" expanded="true" signature="3929:3996" ph="SELECT name product_units" />
-                <marker date="1494432450790" expanded="true" signature="4048:4119" ph="SELECT edi_n... product_units" />
-                <marker date="1494432450790" expanded="true" signature="5592:5671" ph="SELECT disco... ${$this-&gt;schema}" />
-                <marker date="1494432450790" expanded="true" signature="6116:6212" ph="SELECT gross... ${$this-&gt;schema}" />
-                <marker date="1494432450790" expanded="true" signature="8600:8653" ph="SELECT print... fw_document" />
-                <marker date="1494432450790" expanded="true" signature="8600:8654" ph="SELECT descr... fw_document" />
-                <marker date="1494432450790" expanded="true" signature="8908:8978" ph="SELECT num_d... ${$this-&gt;schema}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dataBrockerExec.php" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerExec.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -427,10 +122,19 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -447,9 +151,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mytwins.sytes.net" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mytwins.sytes.net" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mytwins.sytes.net" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -457,7 +180,8 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/PHP2/dataBrockerExec.php" />
     <property name="two.files.diff.last.used.file" value="$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/ImportProduct.php" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -468,12 +192,6 @@
     </key>
   </component>
   <component name="RunManager" selected="PHP Script.EDI">
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -491,10 +209,6 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$USER_HOME$/Desktop/PHP2/ExportOrderEDI.php">
       <method />
     </configuration>
-    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
-      <PhpTestRunnerSettings />
-      <method />
-    </configuration>
     <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
       <method />
     </configuration>
@@ -508,7 +222,7 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
+      <command value="run-script" />
       <scripts />
       <node-interpreter value="project" />
       <envs />
@@ -566,6 +280,7 @@
       <workItem from="1493798601846" duration="101672000" />
       <workItem from="1494335665827" duration="13505000" />
       <workItem from="1494403847204" duration="15282000" />
+      <workItem from="1497221442875" duration="110000" />
     </task>
     <task id="LOCAL-00001" summary="zz 2">
       <created>1491917197849</created>
@@ -781,7 +496,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="403077000" />
+    <option name="totallyTimeSpent" value="403187000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -793,26 +508,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="741" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16204691" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27221325" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2340195" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20801733" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19176598" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17377399" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3066089" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19176598" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3066089" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -834,6 +549,14 @@
           </value>
         </entry>
       </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
     </option>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -867,36 +590,18 @@
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/ImportProduct.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/ImportProduct.php" />
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/img/bg-default.png" />
     <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/abri_popup_products.php" />
-    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/backup/cbe_gravar_produtos.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/backup/cbe_gravar_produtos.txt" />
     <entry file="file://$USER_HOME$/Desktop/Decor Pita/br_gravacao.php" />
     <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/gravar_produtos_external_phpfile.php" />
-    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/backup/cbe_gravar_produtos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="892">
-          <caret line="668" column="44" lean-forward="true" selection-start-line="668" selection-start-column="44" selection-end-line="668" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/backup/cbe_gravar_produtos.php" />
     <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/SaveXlsProduct_versao_gravar_anterior.php" />
     <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/uploadFicheiro.php" />
     <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/SaveXlsProduct.php" />
@@ -904,513 +609,87 @@
     <entry file="file://$USER_HOME$/Desktop/Decor Pita/br_gravacao_original.php" />
     <entry file="file://$PROJECT_DIR$/index_music - Cópia.html" />
     <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/gravar_popup_products.php" />
-    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/encrypted/ImportProduct.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Roaming/Skype/My Skype Received Files/ImportProduct(1).php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-561">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/ImportProductOriginal.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="164" column="37" lean-forward="false" selection-start-line="164" selection-start-column="37" selection-end-line="164" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/encrypted/ImportProduct.php" />
+    <entry file="file://$USER_HOME$/AppData/Roaming/Skype/My Skype Received Files/ImportProduct(1).php" />
+    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/ImportProductOriginal.php" />
     <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/gravar_popup_decorpita" />
     <entry file="file://$PROJECT_DIR$/index_music.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="759">
-          <caret line="45" column="8" lean-forward="false" selection-start-line="45" selection-start-column="8" selection-end-line="47" selection-end-column="23" />
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="47" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index-MacBook Pro.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-357">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Desktop/conn.php" />
-    <entry file="file://$USER_HOME$/Desktop/PHP/conn.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="81" column="26" lean-forward="true" selection-start-line="81" selection-start-column="26" selection-end-line="81" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/PHP/conn.php" />
     <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/ImportProduct_bck.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-257">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/ImportProduct_bck.php" />
     <entry file="file://$PROJECT_DIR$/js/vegas/vegas.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="66" column="28" lean-forward="true" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
+          <caret line="66" column="28" selection-start-line="66" selection-start-column="28" selection-end-line="66" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
-          <caret line="114" column="22" lean-forward="true" selection-start-line="114" selection-start-column="22" selection-end-line="114" selection-end-column="22" />
+          <caret line="114" column="22" selection-start-line="114" selection-start-column="22" selection-end-line="114" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index-style2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
-          <caret line="115" column="91" lean-forward="false" selection-start-line="115" selection-start-column="91" selection-end-line="115" selection-end-column="91" />
+          <caret line="115" column="91" selection-start-line="115" selection-start-column="91" selection-end-line="115" selection-end-column="91" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index-style1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1530">
-          <caret line="108" column="8" lean-forward="true" selection-start-line="108" selection-start-column="8" selection-end-line="108" selection-end-column="8" />
+          <caret line="108" column="8" selection-start-line="108" selection-start-column="8" selection-end-line="108" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/PHP/dataBrockerExport.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="852">
-          <caret line="1809" column="0" lean-forward="false" selection-start-line="1809" selection-start-column="0" selection-end-line="1809" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/PHP2/conn.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="287" column="48" lean-forward="true" selection-start-line="287" selection-start-column="48" selection-end-line="287" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/SKYPE/dba_2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95795">
-          <caret line="5635" column="26" lean-forward="true" selection-start-line="5635" selection-start-column="26" selection-end-line="5635" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/SKYPE/dba.mxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1530">
-          <caret line="114" column="50" lean-forward="true" selection-start-line="114" selection-start-column="50" selection-end-line="114" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/SKYPE/broker.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerConfig.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="2267" column="5" lean-forward="false" selection-start-line="2267" selection-start-column="5" selection-end-line="2267" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mother.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/PHP/dataBrockerExport.php" />
+    <entry file="file://$USER_HOME$/Desktop/PHP2/conn.php" />
+    <entry file="file://$USER_HOME$/Downloads/SKYPE/dba_2" />
+    <entry file="file://$USER_HOME$/Downloads/SKYPE/dba.mxml" />
+    <entry file="file://$USER_HOME$/Downloads/SKYPE/broker.php" />
+    <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerConfig.php" />
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="150" column="74" lean-forward="true" selection-start-line="150" selection-start-column="74" selection-end-line="150" selection-end-column="74" />
+          <caret line="150" column="74" selection-start-line="150" selection-start-column="74" selection-end-line="150" selection-end-column="74" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/Business Rules/abri_popup_products.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/Business Rules/gravar_popup_products.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="54" lean-forward="true" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/Business Rules/gravar_popup_products - Cópia.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="838" column="27" lean-forward="false" selection-start-line="838" selection-start-column="19" selection-end-line="838" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/ImportProduct.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2363">
-          <caret line="144" column="0" lean-forward="true" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/Price_Table_ImportLines.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2703">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/PHP2/Price_Table_ImportLines.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/PHP2/ImportProduct.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Program Files (x86)/PHP/php.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/Business Rules/abri_popup_products.php" />
+    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/Business Rules/gravar_popup_products.php" />
+    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/Business Rules/gravar_popup_products - Cópia.php" />
+    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/ImportProduct.php" />
+    <entry file="file://$USER_HOME$/Documents/Pedidos/ImportXls/IMPORT PHP/Price_Table_ImportLines.php" />
+    <entry file="file://$USER_HOME$/Desktop/PHP2/Price_Table_ImportLines.php" />
+    <entry file="file://$USER_HOME$/Desktop/PHP2/ImportProduct.php" />
+    <entry file="file://C:/Program Files (x86)/PHP/php.ini" />
     <entry file="file://$USER_HOME$/Desktop/PHP2/ExportOrderEDI.php" />
-    <entry file="file://$USER_HOME$/Desktop/PHP2/Utils/SQLHelper.php">
+    <entry file="file://$USER_HOME$/Desktop/PHP2/Utils/SQLHelper.php" />
+    <entry file="file://$USER_HOME$/Desktop/PHP2/DBA.php" />
+    <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerExec.php" />
+    <entry file="file://$USER_HOME$/Desktop/PHP2/ExportEDI.php" />
+    <entry file="file://$PROJECT_DIR$/mother.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="217" column="0" lean-forward="false" selection-start-line="217" selection-start-column="0" selection-end-line="217" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/PHP2/DBA.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="628">
-          <caret line="2311" column="18" lean-forward="true" selection-start-line="2311" selection-start-column="18" selection-end-line="2311" selection-end-column="18" />
-          <folding>
-            <element signature="n#SESSION#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#AppInicializer#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getAllGamma#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getAllApp#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getAllModule#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getRelGammaAppMod#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getMenuGroups#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getMenuApplications#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getMenuModules#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getTables#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getTableTranslations#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getNewTableTranslations#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getListTableWindows#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getListWindows#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getWindowTables#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getTableFields#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getTableFieldsLightOrigin#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getTableFieldsLightDestination#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getFieldTranslations#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getAlterTableQuery#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getInsertTableQuery#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getViews#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getViewDefinition#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getDataFieldsViews#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getDataViews#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getViewTranslations#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getViewMenuGroups#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getViewMenuApplications#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getViewMenuModules#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getFunctions#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getTriggerFunctions#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getFunctionTranslations#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getFunctionDefinition#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getFunctionMenuGroups#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getFunctionMenuApplications#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getFunctionMenuModules#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#saveTables#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="e#69764#76010#0#PHP" expanded="false" />
-            <element signature="e#71606#76010#0#PHP" expanded="false" />
-            <element signature="e#76753#78782#0#PHP" expanded="false" />
-            <element signature="n#saveForeignKeys#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#saveIndexes#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#saveTriggers#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#saveViews#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#saveFunctions#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#saveQueryTabs#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getSavedTabs#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getForeignKeys#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getIndexes#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getDependencies#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getDataFields#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getData#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#checkInternalFunctions#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#addData#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getDataScript#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getTableExportScript#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getTableExportAdvancedScriptData#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getTableExportAdvancedScript#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getColumnDDL#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#SplitSQL#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getFullSearch#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getQueryData#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getTriggers#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getRules#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getTableStatistics#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getGeneralStatistics#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getDebuggerInfo#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#compareDates#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getSearchDebugger#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#readDebuggerFile#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#checkLockObject#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#setLockObject#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#translateTables#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#translateFields#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getTranslations#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#microsoft_translation#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getFolder#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#getAbsolutPath#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#databaseReindex#0;n#DBA#0;n#!!top" expanded="false" />
-            <element signature="n#databaseVacuum#0;n#DBA#0;n#!!top" expanded="false" />
-            <marker date="1494431785099" expanded="true" signature="2703:2790" ph="SELECT name ${$this-&gt;schema}" />
-            <marker date="1494431785099" expanded="true" signature="3169:3304" ph="SELECT id, n... ${$this-&gt;schema}" />
-            <marker date="1494431785099" expanded="true" signature="3605:3749" ph="SELECT id, n... ${$this-&gt;schema}" />
-            <marker date="1494431785099" expanded="true" signature="4049:4193" ph="SELECT id, n... ${$this-&gt;schema}" />
-            <marker date="1494431785099" expanded="true" signature="4519:4736" ph="SELECT disti... ${$this-&gt;schema}" />
-            <marker date="1494431785099" expanded="true" signature="5040:5847" ph="select * fro... x" />
-            <marker date="1494431785099" expanded="true" signature="5064:5819" ph="SELECT disti... " />
-            <marker date="1494431785099" expanded="true" signature="6171:7083" ph="SELECT x.* F... x" />
-            <marker date="1494431785099" expanded="true" signature="6207:7044" ph="SELECT DISTI... " />
-            <marker date="1494431785099" expanded="true" signature="7401:8365" ph="SELECT x.* F... x" />
-            <marker date="1494431785099" expanded="true" signature="7437:8314" ph="SELECT DISTI... " />
-            <marker date="1494431785099" expanded="true" signature="11680:12089" ph="select coale... " />
-            <marker date="1494431785099" expanded="true" signature="12407:12588" ph="select '0' a... " />
-            <marker date="1494431785099" expanded="true" signature="12913:13156" ph="SELECT appt.... ${$this-&gt;schema}" />
-            <marker date="1494431785099" expanded="true" signature="13455:13587" ph="SELECT appt.... ${$this-&gt;schema}" />
-            <marker date="1494431785099" expanded="true" signature="13896:14023" ph="SELECT appt.... ${$this-&gt;schema}" />
-            <marker date="1494431785099" expanded="true" signature="14387:14610" ph="select cast(... tables" />
-            <marker date="1494431785099" expanded="true" signature="14685:16911" ph="select * fro... query2" />
-            <marker date="1494431785099" expanded="true" signature="14731:16848" ph="select disti... " />
-            <marker date="1494431785099" expanded="true" signature="17008:18883" ph="select * fro... query2" />
-            <marker date="1494431785099" expanded="true" signature="17054:18816" ph="select disti... " />
-            <marker date="1494431785099" expanded="true" signature="19051:21076" ph="SELECT * FRO... constraint_name" />
-            <marker date="1494431785099" expanded="true" signature="19083:21076" ph="SELECT kcu.c... TABLES" />
-            <marker date="1494431785099" expanded="true" signature="23500:24413" ph="select * fro... query2" />
-            <marker date="1494431785099" expanded="true" signature="23546:24350" ph="select disti... " />
-            <marker date="1494431785099" expanded="true" signature="24780:25424" ph="select * fro... query2" />
-            <marker date="1494431785099" expanded="true" signature="24826:25361" ph="select disti... " />
-            <marker date="1494431785099" expanded="true" signature="25758:26144" ph="select dd.id... " />
-            <marker date="1494431785099" expanded="true" signature="26576:26842" ph="SELECT DISTI... " />
-            <marker date="1494431785099" expanded="true" signature="27323:27456" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="27761:27811" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="28209:28470" ph="SELECT DISTI... " />
-            <marker date="1494431785099" expanded="true" signature="29594:29644" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="29764:29880" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="30056:30106" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="30223:30273" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="30521:30571" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="30781:30831" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="30971:31021" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="31844:32010" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="32198:32354" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="32479:32620" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="32737:32841" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="32928:33069" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="35239:35339" ph="select pg_ge... " />
-            <marker date="1494431785099" expanded="true" signature="35262:35318" ph="SELECT oid F... pg_class" />
-            <marker date="1494431785099" expanded="true" signature="35406:35801" ph="select coale... " />
-            <marker date="1494431785099" expanded="true" signature="36347:36392" ph="SELECT * fro... ${$query}" />
-            <marker date="1494431785099" expanded="true" signature="37008:37074" ph="SELECT * fro... ${$query}" />
-            <marker date="1494431785099" expanded="true" signature="37170:37220" ph="SELECT count... ${$query}" />
-            <marker date="1494431785099" expanded="true" signature="43620:44012" ph="select dd.id... " />
-            <marker date="1494431785099" expanded="true" signature="45099:45729" ph="SELECT routi... routines" />
-            <marker date="1494431785099" expanded="true" signature="46154:46663" ph="select subst... trim" />
-            <marker date="1494431785099" expanded="true" signature="46391:46656" ph="select trim(... " />
-            <marker date="1494431785099" expanded="true" signature="47032:48075" ph="SELECT param... routines" />
-            <marker date="1494431785099" expanded="true" signature="47486:47872" ph="select regex... " />
-            <marker date="1494431785099" expanded="true" signature="47531:47834" ph="select pg_ge... " />
-            <marker date="1494431785099" expanded="true" signature="47637:47723" ph="select lengt... " />
-            <marker date="1494431785099" expanded="true" signature="48149:48574" ph="select coale... " />
-            <marker date="1494431785099" expanded="true" signature="50365:50485" ph="DROP TABLE I... " />
-            <marker date="1494431785099" expanded="true" signature="51911:52160" ph="INSERT into ${$this-&gt;schema}fw_report_tables... " />
-            <marker date="1494431785099" expanded="true" signature="52520:53656" ph="CREATE TABLE... ${$value['name']}" />
-            <marker date="1494431785099" expanded="true" signature="55754:56070" ph="select coale... ${$this-&gt;schema}" />
-            <marker date="1494431785099" expanded="true" signature="56750:57343" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-            <marker date="1494431785099" expanded="true" signature="58755:58903" ph="ALTER TABLE \&quot;${substr($this-&gt;schema, 0, strlen($this-&gt;schema) - 1)}\&quot;.\&quot;${$value['original_name']}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="59516:60127" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-            <marker date="1494431785099" expanded="true" signature="61153:61454" ph="SELECT DISTI... COLUMNS" />
-            <marker date="1494431785099" expanded="true" signature="62281:62515" ph="INSERT INTO ${$this-&gt;schema}rel_table_rel_modules_list... " />
-            <marker date="1494431785099" expanded="true" signature="64565:64792" ph="select cast(... tables" />
-            <marker date="1494431785099" expanded="true" signature="65262:65381" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$value['table_name']}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="66137:67060" ph="CREATE TABLE... ${$this-&gt;prefix}" />
-            <marker date="1494431785099" expanded="true" signature="67318:67497" ph="select cast(... tables" />
-            <marker date="1494431785099" expanded="true" signature="67629:67646" ph="SELECT value... " />
-            <marker date="1494431785099" expanded="true" signature="67629:67647" ph="SELECT value... " />
-            <marker date="1494431785099" expanded="true" signature="67629:67659" ph="SELECT value... " />
-            <marker date="1494431785099" expanded="true" signature="67629:67663" ph="SELECT value... " />
-            <marker date="1494431785099" expanded="true" signature="67629:67671" ph="SELECT value... " />
-            <marker date="1494431785099" expanded="true" signature="67629:67677" ph="SELECT value... " />
-            <marker date="1494431785099" expanded="true" signature="67629:67690" ph="SELECT value... " />
-            <marker date="1494431785099" expanded="true" signature="67629:67721" ph="SELECT value... " />
-            <marker date="1494431785099" expanded="true" signature="67629:67775" ph="SELECT value... " />
-            <marker date="1494431785099" expanded="true" signature="67629:67776" ph="SELECT value... " />
-            <marker date="1494431785099" expanded="true" signature="67629:67777" ph="SELECT value... ${$schema}.data_dic where table_name = ${$table} and field_name = ${$table}" />
-            <marker date="1494431785099" expanded="true" signature="67629:67805" ph="SELECT value... ${$schema}.data_dic where table_name = ${$table} and field_name = ${$table} and status = 'ACTIVE' and lang_id = ${$_SESSION['language']}" />
-            <marker date="1494431785099" expanded="true" signature="67926:67957" ph="INSERT INTO " />
-            <marker date="1494431785099" expanded="true" signature="67926:68438" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-            <marker date="1494431785099" expanded="true" signature="70906:71537" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-            <marker date="1494431785099" expanded="true" signature="71793:71951" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$value['table_name']}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="73817:74109" ph="SELECT id fr... ${$this-&gt;schema}" />
-            <marker date="1494431785099" expanded="true" signature="74542:75191" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-            <marker date="1494431785099" expanded="true" signature="77590:78214" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-            <marker date="1494431785099" expanded="true" signature="79471:79723" ph="SELECT DISTI... COLUMNS" />
-            <marker date="1494431785099" expanded="true" signature="81001:81123" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="82036:82386" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="82428:82479" ph="UPDATE CASCA... " />
-            <marker date="1494431785099" expanded="true" signature="82588:82710" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="82736:83086" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="83128:83179" ph="UPDATE CASCA... " />
-            <marker date="1494431785099" expanded="true" signature="84607:84749" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="85990:86134" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="86409:86626" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="86749:86961" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="87856:87985" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="91095:91218" ph="ALTER TABLE \&quot;${$schema}\&quot;.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="95113:95724" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-            <marker date="1494431785099" expanded="true" signature="97280:97514" ph="INSERT INTO ${$this-&gt;schema}rel_table_rel_modules_list... " />
-            <marker date="1494431785099" expanded="true" signature="104212:104813" ph="INSERT INTO ${$this-&gt;schema}data_dic... " />
-            <marker date="1494431785099" expanded="true" signature="106527:106771" ph="INSERT INTO ${$this-&gt;schema}rel_table_rel_modules_list... " />
-            <marker date="1494431785099" expanded="true" signature="111843:111896" ph="DELETE FROM " />
-            <marker date="1494431785099" expanded="true" signature="112450:112511" ph="DELETE FROM " />
-            <marker date="1494431785099" expanded="true" signature="116665:116811" ph="INSERT INTO ${$schema}.\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="117454:117468" ph="SELECT id FR... " />
-            <marker date="1494431785099" expanded="true" signature="117454:117486" ph="SELECT id FR... ${$schema}." />
-            <marker date="1494431785099" expanded="true" signature="117454:117501" ph="SELECT id FR... ${$table}" />
-            <marker date="1494431785099" expanded="true" signature="117454:117513" ph="SELECT id FR... ${$schema}." />
-            <marker date="1494431785099" expanded="true" signature="117454:117514" ph="SELECT id FR... ${$schema}." />
-            <marker date="1494431785099" expanded="true" signature="117454:117515" ph="SELECT id FR... ${$table}" />
-            <marker date="1494431785099" expanded="true" signature="118020:118172" ph="INSERT INTO ${$schema}.\&quot;lcs_${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="119578:119637" ph="SELECT id FR... ${$table}" />
-            <marker date="1494431785099" expanded="true" signature="119578:119638" ph="SELECT id FR... ${$table}" />
-            <marker date="1494431785099" expanded="true" signature="120022:120174" ph="INSERT INTO ${$schema}.\&quot;lcs_${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="123877:125727" ph="SELECT disti... pg_constraint" />
-            <marker date="1494431785099" expanded="true" signature="125947:126274" ph="SELECT disti... " />
-            <marker date="1494431785099" expanded="true" signature="127375:130316" ph="select query... query" />
-            <marker date="1494431785099" expanded="true" signature="127681:130120" ph="select disti... " />
-            <marker date="1494431785099" expanded="true" signature="132213:133055" ph="SELECT query... table_name" />
-            <marker date="1494431785099" expanded="true" signature="132326:132802" ph="SELECT disti... pg_constraint" />
-            <marker date="1494431785099" expanded="true" signature="133114:133957" ph="SELECT query... table_name" />
-            <marker date="1494431785099" expanded="true" signature="133227:133704" ph="SELECT disti... pg_constraint" />
-            <marker date="1494431785099" expanded="true" signature="134187:134504" ph="SELECT disti... " />
-            <marker date="1494431785099" expanded="true" signature="135639:135956" ph="SELECT disti... " />
-            <marker date="1494431785099" expanded="true" signature="137852:139076" ph="SELECT --DIS... COLUMNS" />
-            <marker date="1494431785099" expanded="true" signature="138065:138295" ph="/* , case wh... " />
-            <marker date="1494431785099" expanded="true" signature="139802:140520" ph="select array... " />
-            <marker date="1494431785099" expanded="true" signature="141262:141350" ph="select count... tables" />
-            <marker date="1494431785099" expanded="true" signature="141622:141966" ph="SELECT 'lcs_... COLUMNS" />
-            <marker date="1494431785099" expanded="true" signature="141628:141966" ph="select 'lcs_... COLUMNS" />
-            <marker date="1494431785099" expanded="true" signature="141702:141966" ph="SELECT 'lcs_... COLUMNS" />
-            <marker date="1494431785099" expanded="true" signature="143535:143593" ph="SELECT count... ${$table}" />
-            <marker date="1494431785099" expanded="true" signature="144902:145188" ph="SELECT DISTI... " />
-            <marker date="1494431785099" expanded="true" signature="147720:147773" ph="INSERT INTO ${$this-&gt;schema}\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="152528:152613" ph="CREATE TABLE... ${$this-&gt;schema}" />
-            <marker date="1494431785099" expanded="true" signature="152646:153326" ph="SELECT DISTI... " />
-            <marker date="1494431785099" expanded="true" signature="153788:153918" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="153921:154214" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="154258:154312" ph="UPDATE ${$va... " />
-            <marker date="1494431785099" expanded="true" signature="155066:155233" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="155507:155755" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="155895:156138" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="158944:159090" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$value['original_name']}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="159513:159603" ph="SELECT * fro... ${$this-&gt;schema}" />
-            <marker date="1494431785099" expanded="true" signature="160128:160157" ph="SELECT MAX(i... " />
-            <marker date="1494431785099" expanded="true" signature="162360:162389" ph="SELECT MAX(i... " />
-            <marker date="1494431785099" expanded="true" signature="164114:164184" ph="SELECT * fro... ${utf8_decode($sql)}" />
-            <marker date="1494431785099" expanded="true" signature="164545:164574" ph="SELECT MAX(i... " />
-            <marker date="1494431785099" expanded="true" signature="166013:166107" ph="ALTER TABLE ${$this-&gt;schema}\&quot;${$table}\&quot;... " />
-            <marker date="1494431785099" expanded="true" signature="170490:170648" ph="select * fro... lg_search_columns" />
-            <marker date="1494431785099" expanded="true" signature="177409:177463" ph="select subst... " />
-            <marker date="1494431785099" expanded="true" signature="177563:179148" ph="SELECT t.tri... triggers" />
-            <marker date="1494431785099" expanded="true" signature="179188:180796" ph="SELECT t.tri... triggers" />
-            <marker date="1494431785099" expanded="true" signature="181109:181360" ph="select r.tab... pg_rewrite" />
-            <marker date="1494431785099" expanded="true" signature="181723:181955" ph="select cast(... tables" />
-            <marker date="1494431785099" expanded="true" signature="182009:182133" ph="SELECT 'Nº d... " />
-            <marker date="1494431785099" expanded="true" signature="182009:182498" ph="SELECT 'Nº d... " />
-            <marker date="1494431785099" expanded="true" signature="182053:182090" ph="select count... ${$table}" />
-            <marker date="1494431785099" expanded="true" signature="182172:182302" ph="SELECT 'Espa... " />
-            <marker date="1494431785099" expanded="true" signature="182341:182498" ph="SELECT 'Últi... " />
-            <marker date="1494431785099" expanded="true" signature="182402:182441" ph="select max(s... ${$table}" />
-            <marker date="1494431785099" expanded="true" signature="183518:184096" ph="SELECT c.rel... " />
-            <marker date="1494431785099" expanded="true" signature="184217:184794" ph="SELECT c.rel... " />
-            <marker date="1494431785099" expanded="true" signature="184886:185822" ph="SELECT regex... " />
-            <marker date="1494431785099" expanded="true" signature="185898:186821" ph="SELECT regex... " />
-            <marker date="1494431785099" expanded="true" signature="188217:188358" ph="SELECT 1 as ${$this-&gt;schema}" />
-            <marker date="1494431785099" expanded="true" signature="190043:190128" ph="SELECT id FR... ${$this-&gt;schema}" />
-            <marker date="1494431785099" expanded="true" signature="190167:190230" ph="SELECT id FR... ${$this-&gt;schema}" />
-            <marker date="1494431785099" expanded="true" signature="201368:201497" ph="select * fro... ${$this-&gt;schema}" />
-            <marker date="1494431785099" expanded="true" signature="201710:201910" ph="select * fro... ${$this-&gt;schema}" />
-            <marker date="1494431785099" expanded="true" signature="202423:202514" ph="select l.acr... ${$this-&gt;schema}" />
-            <marker date="1494431785099" expanded="true" signature="202813:203260" ph="select coale... " />
-            <marker date="1494431785099" expanded="true" signature="203556:203647" ph="select l.acr... ${$this-&gt;schema}" />
-            <marker date="1494431785099" expanded="true" signature="203946:204377" ph="select dd.id... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/PHP2/dataBrockerExec.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/PHP2/ExportEDI.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="204" column="5" lean-forward="true" selection-start-line="204" selection-start-column="5" selection-end-line="204" selection-end-column="5" />
-          <folding>
-            <element signature="n#getDataHeader#0;n#ExportEDI#0;n#!!top" expanded="false" />
-            <element signature="n#getDataDetail#0;n#ExportEDI#0;n#!!top" expanded="false" />
-            <element signature="n#getDataControl#0;n#ExportEDI#0;n#!!top" expanded="false" />
-            <marker date="1494432450790" expanded="true" signature="385:570" ph="SELECT num_d... ${$this-&gt;schema}" />
-            <marker date="1494432450790" expanded="true" signature="419:476" ph="SELECT name users" />
-            <marker date="1494432450790" expanded="true" signature="972:1040" ph="SELECT unit_... ${$this-&gt;schema}" />
-            <marker date="1494432450790" expanded="true" signature="1121:1251" ph="SELECT name,... ${$this-&gt;schema}" />
-            <marker date="1494432450790" expanded="true" signature="1612:1692" ph="SELECT cs_id... ${$this-&gt;schema}" />
-            <marker date="1494432450790" expanded="true" signature="1865:2003" ph="SELECT vat_n... ${$this-&gt;schema}" />
-            <marker date="1494432450790" expanded="true" signature="2375:2456" ph="SELECT obs, ${$this-&gt;schema}" />
-            <marker date="1494432450790" expanded="true" signature="2955:3039" ph="SELECT origi... ${$this-&gt;schema}" />
-            <marker date="1494432450790" expanded="true" signature="3492:4624" ph="SELECT origi... ${$this-&gt;schema}" />
-            <marker date="1494432450790" expanded="true" signature="3574:3629" ph="SELECT name ${$tabela}" />
-            <marker date="1494432450790" expanded="true" signature="3689:3816" ph="SELECT name ${$tabela}" />
-            <marker date="1494432450790" expanded="true" signature="3733:3814" ph="SELECT packi... rel_packing_product" />
-            <marker date="1494432450790" expanded="true" signature="3926:4014" ph="/*(SELECT na... " />
-            <marker date="1494432450790" expanded="true" signature="3929:3996" ph="SELECT name product_units" />
-            <marker date="1494432450790" expanded="true" signature="4048:4119" ph="SELECT edi_n... product_units" />
-            <marker date="1494432450790" expanded="true" signature="5592:5671" ph="SELECT disco... ${$this-&gt;schema}" />
-            <marker date="1494432450790" expanded="true" signature="6116:6212" ph="SELECT gross... ${$this-&gt;schema}" />
-            <marker date="1494432450790" expanded="true" signature="8600:8653" ph="SELECT print... fw_document" />
-            <marker date="1494432450790" expanded="true" signature="8600:8654" ph="SELECT descr... fw_document" />
-            <marker date="1494432450790" expanded="true" signature="8908:8978" ph="SELECT num_d... ${$this-&gt;schema}" />
-          </folding>
         </state>
       </provider>
     </entry>
