@@ -91,7 +91,7 @@ if($(".alt-clock .clock-place").attr('data-logosrc')
 			var _centi = _second / 100;
 
             // calculate dates
-            alert(difference);
+            //alert(difference);
             var days = Math.floor(difference / _day),
                 hours = Math.floor((difference % _day) / _hour),
                 minutes = Math.floor((difference % _hour) / _minute),
