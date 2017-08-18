@@ -126,13 +126,14 @@
         <!-- Clock -->
         <div class="clock clock-countdown">
             <div class="site-config"
-                 data-date="06/21/2017 12:20:00"
+                 data-date="06/21/2017 12:55:00"
                  data-date-timezone="+0"
             ></div>
             <div class="elem-center">
                 <div class="digit">
                     <span class="days">81</span>
                     <span class="txt">dias</span>
+
                 </div>
             </div>
             <!-- Logo instead -->
@@ -145,7 +146,7 @@
             -->
 
             <div class="elem-bottom">
-                <div class="deco"></div>
+                <div class="deco">de Vida!</div>
                 <span class="hours">18</span><span class="thin">H</span>
                 <span class="minutes">45</span><span class="thin">MN</span>
                 <span class="seconds">36</span><span class="thin">S</span>
@@ -178,7 +179,7 @@
                 </div>
                 <div class="h-right">
                     <h3>Silva <br>de Sousa</h3>
-                    <h4 class="subhead"><a href="">Em Breve!</a></h4>
+                    <!-- <h4 class="subhead"><a href=""></a></h4> -->
                 </div>
             </header>
         </section>
