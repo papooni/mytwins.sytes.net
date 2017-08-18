@@ -67,20 +67,20 @@ if($(".alt-clock .clock-place").attr('data-logosrc')
          */
         function countdown () {
             var target_date = new Date(settings.date), // set target date
-                current_date = currentDate(); // get fixed current date
+            current_date = currentDate(); // get fixed current date
 
             // difference of dates
             //var difference = target_date - current_date;
             var difference = current_date - target_date;
             // if difference is negative than it's pass the target date
-            //if (difference < 0) {
+            if (difference < 0) {
                 // stop timer
                 clearInterval(interval);
 
                 if (callback && typeof callback === 'function') callback();
 
                 return;
-            //}
+            }
 
             // basic math variables
 //            var _second = 1000,
@@ -91,6 +91,7 @@ if($(".alt-clock .clock-place").attr('data-logosrc')
 			var _centi = _second / 100;
 
             // calculate dates
+            alert(difference);
             var days = Math.floor(difference / _day),
                 hours = Math.floor((difference % _day) / _hour),
                 minutes = Math.floor((difference % _hour) / _minute),
