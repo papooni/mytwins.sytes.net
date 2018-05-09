@@ -87,7 +87,7 @@
                 //echo 'file ---- '. print_r($file);
                 if (($file['extension'] == 'jpg' || $file['extension'] == 'JPG' || $file['extension'] == 'png' ) && !is_dir($ficheiro) ){
                  $count = $count + 1;
-                echo '<i class="img" data-src="./img-background/'.$ficheiro.'" ></i>';
+                echo '<i class="img" data-src="./img-background/14.png" ></i>';
                     echo $ficheiro;
                }
             }
