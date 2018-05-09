@@ -89,7 +89,7 @@
                  $count = $count + 1;
                    
 
-                echo '<i class="img" data-src="./img-background/'.$ficheiro.'" ></i>
+                echo '<i class="img" data-src="./img-background/'.$ficheiro.'" ></i>';
                 
                }
             }
