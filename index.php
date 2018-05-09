@@ -51,7 +51,7 @@
 <!-- BEGIN OF site cover -->
 <div class="page-cover" id="s-cover">
     <!-- Cover Background -->
-    <div class="cover-bg pos-abs full-size bg-img" data-image-src="img/bg-default.jpg"></div>
+    <div class="cover-bg pos-abs full-size bg-img" data-image-src="img/bg-defaultoff.jpg"></div>
 
     <!-- BEGIN OF Slideshow Background -->
     <div class="cover-bg pos-abs full-size slide-show">
@@ -87,7 +87,7 @@
                 //echo 'file ---- '. print_r($file);
                 if (($file['extension'] == 'jpg' || $file['extension'] == 'JPG' || $file['extension'] == 'png' ) && !is_dir($ficheiro) ){
                  $count = $count + 1;
-                echo '<i class="img" data-src="./img-background/14.png" ></i>';
+                echo '<i class="img" data-src="./img-background/14.jpg" ></i>';
                     echo $ficheiro;
                }
             }
