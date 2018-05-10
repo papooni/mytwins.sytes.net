@@ -213,7 +213,7 @@
 
 
 <?php
-$dir = "/home/forge/mytwins.sytes.net/music/";
+$dir = "/var/www/html/mytwins.sytes.net/music/";
 $musicas = array();
 $count = 0;
 $scanned_directory = array_diff(scandir($dir), array('..', '.'));
