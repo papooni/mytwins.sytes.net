@@ -77,7 +77,7 @@
         <i class='img' data-src='./img/18.png'></i>
         <i class='img' data-src='./img/19.jpg'></i>-->
         <?php
-        $dir = "/home/forge/mytwins.sytes.net/img-background/";
+        $dir = "/var/www/html/mytwins.sytes.net/img-background/";
         $scanned_directory = array_slice(scandir($dir), 2);
         //print_r($scanned_directory);
         $count = 0;
